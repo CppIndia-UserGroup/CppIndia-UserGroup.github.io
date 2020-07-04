@@ -2,8 +2,9 @@
 
 - https://jekyllrb.com/docs/step-by-step/01-setup/
 - Youtube videos : GitHub Pages and Jekyll by Bill Raymond
+- Theme : https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
 ## Steps to post article
 
-- Add <file_name.md>
+- add `file_name.md`
 -
