@@ -1,0 +1,47 @@
+# main links
+main:
+  - title: "Test 1"
+    url: https://twitter.com/include_cpp
+  - title: "Test 2"
+    url: /discord/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+sidebar:
+  - title: Home
+    url: /
+    children:
+      - title: "Test"
+        url: /_pages/about/
+
+
+  # - title: Conferences and Events
+  #   url: /conferences/
+  #   children:
+  #     - title: "Attending"
+  #       url: /conferences/attending-conferences/
+  #     - title: "Scholarships"
+  #       url: /conferences/scholarships/
+  #     - title: "Organising"
+  #       url: /conferences/organising-conferences/
+  #     - title: "Toolbox"
+  #       url: https://github.com/CppIndia/toolboxes/blob/master/README.md
+
+  # - title: "Resources"
+  #   url: /resources/
+  #   children:
+  #     - title: Conference Resources
+  #       url: /resources/conference-resources/
+  #     - title: Equality and Diversity
+  #       url: /resources/equality_and_diversity/
+  #     - title: Other Organisations
+  #       url: /resources/other_organisations/
+  #     - title: Recruitment
+  #       url: /resources/recruitment/
+
