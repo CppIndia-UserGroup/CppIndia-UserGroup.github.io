@@ -25,7 +25,7 @@ sidebar:
     url: /Tech_Talks/2020/test/
     children:
       - title: "Tech-Talks 2020"
-        url: /Tech_Talks/2020/test/
+        url: /Tech_Talks/2020/
 
   # - title: Conferences and Events
   #   url: /conferences/
