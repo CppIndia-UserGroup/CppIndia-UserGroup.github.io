@@ -24,7 +24,7 @@ email: cppindiausergroup@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to CppIndia[TODO]
 # baseurl: "/web" # the subpath of your site, e.g. /blog
-url: https://cppindia-usergroup.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cppindia-usergroup.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  CppIndia-UserGroup
 
@@ -68,6 +68,11 @@ google_site_verification :
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
+
+# Compile new post
+future: true
+timezone: TIMEZONE
+
 
 # Social Sharing
 twitter:
