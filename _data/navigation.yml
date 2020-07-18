@@ -20,7 +20,7 @@ sidebar:
       - title: "About Us"
         url: /index/
       - title: "Contact Us"
-        url: /_pages/contact_us/
+        url: /_pages/contact/
   - title: Resources
     url: /Tech_Talks/2020/test/
     children:
