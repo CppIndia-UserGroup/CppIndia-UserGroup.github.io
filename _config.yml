@@ -146,9 +146,10 @@ footer:
 include:
   - .htaccess
   - _pages
+  - _posts
+  - _posts
+  - Tech_Talks/2020
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
   - vendor
   - .asset-cache
   - .bundle
