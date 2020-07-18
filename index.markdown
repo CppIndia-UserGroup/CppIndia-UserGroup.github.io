@@ -34,5 +34,3 @@ May we suggest:
 - Join our [WhatsApp](https://chat.whatsapp.com/HEcrV4xXmSiBLtSxPZ120w) group
 - Follow us on [LinkedIn](), [Facebook]() & [Twitter]().
 - Spread the words.
-
-
