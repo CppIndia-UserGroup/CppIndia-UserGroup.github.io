@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Test 1"
+  - title: "LinkedIn TODO"
+    url: https://linkedin.com/CppIndia
+  - title: "Twitter TODO"
     url: https://twitter.com/CppIndia
-  - title: "Test 2"
-    url: /discord/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -17,8 +17,10 @@ sidebar:
   - title: Home
     url: /
     children:
-      - title: "Test"
-        url: /_pages/about/
+      - title: "About Us"
+        url: /index/
+      - title: "Contact Us"
+        url: /_pages/contact_us/
 
 
   # - title: Conferences and Events
