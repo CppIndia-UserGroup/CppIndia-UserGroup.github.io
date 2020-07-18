@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Contact Us
+permalink: /_pages/contact/
 toc: false
 ---
 
