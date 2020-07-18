@@ -15,7 +15,7 @@ main:
 
 sidebar:
   - title: Home
-    url: /
+    url: /index/
     children:
       - title: "About Us"
         url: /index/
