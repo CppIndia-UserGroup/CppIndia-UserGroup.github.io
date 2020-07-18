@@ -30,7 +30,7 @@ May we suggest:
 
 - Present on any C++ topic in community tech-talk.
 - Helps organizers to organize community discussion/tech-talks.
-- Read our resources, and let us know about anything that�s worth adding.
+- Read our resources, and let us know about anything that's worth adding.
 - Join our [WhatsApp](https://chat.whatsapp.com/HEcrV4xXmSiBLtSxPZ120w) group
 - Follow us on [LinkedIn](), [Facebook]() & [Twitter]().
 - Spread the words.
