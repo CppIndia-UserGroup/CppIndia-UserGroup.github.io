@@ -1,7 +1,6 @@
 ---
 toc: true
 layout: home
-permalink: /index/
 title: "CppIndia - User Group"
 ---
 

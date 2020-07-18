@@ -15,10 +15,10 @@ main:
 
 sidebar:
   - title: Home
-    url: /index/
+    url: /
     children:
       - title: "About Us"
-        url: /index/
+        url: /
       - title: "Contact Us"
         url: /_pages/contact/
   - title: Resources
