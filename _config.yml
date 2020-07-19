@@ -41,7 +41,7 @@ github: [metadata]
 
 locale                   : "en-US"
 title_separator          : "-"
-logo                     : "/assets/images/logo.png"
+logo                     : "/assets/images/symbol.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
@@ -71,7 +71,7 @@ naver_site_verification  :
 
 # Compile new post
 future: true
-timezone: TIMEZONE
+# timezone: TIMEZONE
 
 
 # Social Sharing

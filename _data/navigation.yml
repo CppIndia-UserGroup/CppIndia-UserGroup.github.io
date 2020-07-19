@@ -22,10 +22,10 @@ sidebar:
       - title: "Contact Us"
         url: /_pages/contact/
   - title: Resources
-    url: /Tech_Talks/2020/
+    url: /TechTalk/2020/
     children:
       - title: "Tech-Talks 2020"
-        url: /Tech_Talks/2020/
+        url: /TechTalk/2020/
 
   # - title: Conferences and Events
   #   url: /conferences/
