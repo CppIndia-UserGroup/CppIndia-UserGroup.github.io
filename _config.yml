@@ -41,7 +41,7 @@ github: [metadata]
 
 locale                   : "en-US"
 title_separator          : "-"
-logo                     : "/assets/images/symbol.png"
+logo                     : "/assets/images/symbol_.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 
