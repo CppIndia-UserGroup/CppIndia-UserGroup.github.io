@@ -11,7 +11,7 @@ toc: false
 
 ## WhatsApp
 
-- [WhatsApp](https://chat.whatsapp.com/HEcrV4xXmSiBLtSxPZ120w)
+- [Discord](https://discord.gg/Wz42tX5)
 
 ## LinkedIn
 
