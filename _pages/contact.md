@@ -9,9 +9,9 @@ toc: false
 
 - cppindiausergroup@gmail.com
 
-## WhatsApp
+## Discord
 
-- [Discord](https://discord.gg/Wz42tX5)
+- [Discord Server](https://discord.gg/Wz42tX5)
 
 ## LinkedIn
 
