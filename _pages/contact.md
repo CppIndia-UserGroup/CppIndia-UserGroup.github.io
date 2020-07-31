@@ -15,15 +15,8 @@ toc: false
 
 ## LinkedIn
 
-- TODO
+- [CppIndia](https://www.linkedin.com/company/cppindia/)
 
-## Twitter
-
-- TODO
-
-## Facebook
-
-- TODO
 
 ## Current Organizers
 
