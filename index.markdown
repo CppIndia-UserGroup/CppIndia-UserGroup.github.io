@@ -32,6 +32,6 @@ May we suggest:
 - Helps organizers to organize community discussion/tech-talks.
 - Read our resources, and let us know about anything that's worth adding.
 - Join our [Discord](https://discord.gg/Wz42tX5) server or [WhatsApp](https://chat.whatsapp.com/HEcrV4xXmSiBLtSxPZ120w) group.
-- Follow us on [LinkedIn](), [Facebook]() & [Twitter]().
+- Follow us on [LinkedIn](https://www.linkedin.com/company/cppindia/).
 - Spread the words.
 
