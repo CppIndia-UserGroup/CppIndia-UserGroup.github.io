@@ -21,5 +21,5 @@ toc: false
 ## Current Organizers
 
 - [Dheeraj Jha](https://www.linkedin.com/in/jhadheeraj/)
-- [Shipa Dedeja](https://www.linkedin.com/in/shilpa-dodeja-3740005b/)
+- [Shipa Dodeja](https://www.linkedin.com/in/shilpa-dodeja-3740005b/)
 - [Vishal Chovatiya](https://www.linkedin.com/in/vishal-chovatiya-b7896484/)
