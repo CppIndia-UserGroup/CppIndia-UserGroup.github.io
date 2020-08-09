@@ -18,6 +18,11 @@ toc: false
 - [CppIndia](https://www.linkedin.com/company/cppindia/)
 
 
+## Twitter
+
+- [CppIndiaUG](https://twitter.com/CppIndiaUG)
+
+
 ## Current Organizers
 
 - [Dheeraj Jha](https://www.linkedin.com/in/jhadheeraj/)
