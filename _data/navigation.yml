@@ -17,6 +17,8 @@ sidebar:
   - title: Home
     url: /
     children:
+      - title: "Join Us"
+        url: https://forms.gle/N4TZwqPW24kY1y4WA
       - title: "About Us"
         url: /
       - title: "Contact Us"
