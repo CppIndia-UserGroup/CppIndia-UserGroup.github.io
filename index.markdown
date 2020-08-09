@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: home
-title: "CppIndia - User Group"
+title: "CppIndia"
 ---
 
 ## Who Are We?
