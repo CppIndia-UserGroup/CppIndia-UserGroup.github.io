@@ -128,8 +128,8 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+      icon: "twitter.jpg"
+      url: https://twitter.com/CppIndiaUG
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
