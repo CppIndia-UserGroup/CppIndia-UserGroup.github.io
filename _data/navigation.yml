@@ -31,8 +31,8 @@ sidebar:
   - title: Sponsors
     # url: /Sponsers/Sponsor/
     children:
-      - title: "Community Sponsers"
-        url: /Sponsers
+      - title: "Community Sponsors"
+        url: /Sponsors/Sponsor/
 
   # - title: Conferences and Events
   #   url: /conferences/
