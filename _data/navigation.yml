@@ -29,10 +29,10 @@ sidebar:
       - title: "Tech-Talks 2020"
         url: /TechTalk/2020/
   - title: Sponsers
-    url: /SponsersCommunitySponsor/
+    url: /Sponsers/Sponsor/
     children:
       - title: "Community Sponsers"
-        url: /Sponsers/CommunitySponsor/
+        url: /Sponsers/Sponsor/
 
   # - title: Conferences and Events
   #   url: /conferences/

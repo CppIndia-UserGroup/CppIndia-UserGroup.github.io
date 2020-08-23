@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Community Sponsor
-permalink: /Sponsers/CommunitySponsers/
+permalink: /Sponsers/
 toc: false
 ---
 
