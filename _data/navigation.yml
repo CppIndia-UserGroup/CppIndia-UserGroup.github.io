@@ -32,7 +32,7 @@ sidebar:
     # url: /Sponsers/Sponsor/
     children:
       - title: "Community Sponsers"
-        url: /Sponsers/Sponsor/
+        url: /Sponsers
 
   # - title: Conferences and Events
   #   url: /conferences/
