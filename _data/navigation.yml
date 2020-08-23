@@ -24,12 +24,12 @@ sidebar:
       - title: "Contact Us"
         url: /_pages/contact/
   - title: Resources
-    url: /TechTalk/2020/
+    # url: /TechTalk/2020/
     children:
       - title: "Tech-Talks 2020"
         url: /TechTalk/2020/
-  - title: Sponsers
-    url: /Sponsers/Sponsor/
+  - title: Sponsors
+    # url: /Sponsers/Sponsor/
     children:
       - title: "Community Sponsers"
         url: /Sponsers/Sponsor/
