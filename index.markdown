@@ -39,3 +39,4 @@ May we suggest:
 ## Community Sponsor
 
 [![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com)
+[![SwedenCpp](/Sponsors/SwedenCppOfficial.png "Meeting C++")](www.swedencpp.se)
