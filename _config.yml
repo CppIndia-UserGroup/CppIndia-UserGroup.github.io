@@ -127,17 +127,20 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: ""
+      url: https://www.linkedin.com/company/cppindia
     - label: "Twitter"
       icon: "twitter.jpg"
       url: https://twitter.com/CppIndiaUG
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/CppIndiaUG
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
+      url: https://github.com/CppIndia-UserGroup/CppIndia-SessionDocuments
+    # - label: "GitLab"
+      # icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
