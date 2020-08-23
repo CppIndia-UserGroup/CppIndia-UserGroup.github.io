@@ -154,6 +154,7 @@ include:
   - _posts
   - _posts
   - Tech_Talks/
+  - Sponsers/
 exclude:
   - vendor
   - .asset-cache
