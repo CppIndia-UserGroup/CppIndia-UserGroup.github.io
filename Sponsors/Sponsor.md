@@ -1,9 +1,8 @@
 ---
 layout: single
-title: Community Sponsor
+title: Sponsors
 permalink: /Sponsors/Sponsor/
 toc: false
 ---
 
-## Community sponsors
 - [C++ user groups of Sweden](https://www.swedencpp.se/)
