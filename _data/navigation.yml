@@ -1,7 +1,7 @@
 # main links
 main:
   # - title: "LinkedIn"
-  - title: [linkedin.png "LinkedIn")]
+  - title: "LinkedIn"
     url: https://www.linkedin.com/company/cppindia/
   - title: "Discord"
     url: https://discord.gg/Wz42tX5
