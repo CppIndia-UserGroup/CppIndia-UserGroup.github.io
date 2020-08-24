@@ -131,7 +131,7 @@ footer:
       icon: ""
       url: https://www.linkedin.com/company/cppindia
     - label: "Twitter"
-      icon: "twitter.jpg"
+      icon: "fab fa-fw fa-twitter-square"
       url: https://twitter.com/CppIndiaUG
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
