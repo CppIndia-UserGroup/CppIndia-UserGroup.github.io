@@ -3,7 +3,7 @@ toc: true
 layout: home
 title: "CppIndia"
 ---
-[![ ](/assets/images/JoinUs.jpg "")](https://forms.gle/N4TZwqPW24kY1y4WA)
+[![Join Us](/assets/images/JoinUs.jpg "Join Us")](https://forms.gle/N4TZwqPW24kY1y4WA)
 
 ## Who Are We?
 
