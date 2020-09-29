@@ -3,6 +3,10 @@ main:
   # - title: "LinkedIn"
   - title: "LinkedIn"
     url: https://www.linkedin.com/company/cppindia/
+  - title: "Twitter"
+    url: https://twitter.com/CppIndiaUG
+  - title: "Facebook"
+    url: https://www.facebook.com/CppIndiaUG
   - title: "Discord"
     url: https://discord.gg/Wz42tX5
   # - title: "About"
@@ -34,6 +38,11 @@ sidebar:
     children:
       - title: "Community Sponsors"
         url: /Sponsors/Sponsor/
+  - title: Session schedule
+    url: https://docs.google.com/spreadsheets/d/1xE_MINL8qqNk9XBB6aUv-JdcciY4qGZSO7etEccYCb0/edit?usp=sharing
+    # children:
+    #   - title: "Community Sponsors"
+    #     url: /Sponsors/Sponsor/
 
   # - title: Conferences and Events
   #   url: /conferences/
