@@ -51,3 +51,5 @@ May we suggest:
 [![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com)
 [![SwedenCpp](/Sponsors/SwedenCppOfficial.png "SwedenCpp")](https://www.swedencpp.se)
 [![#include ＜C++＞](/Sponsors/include_logo.png "#include ＜C++＞")](https://www.includecpp.org/)
+
+{% include signup-widget.html %}
