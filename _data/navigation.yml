@@ -31,7 +31,7 @@ sidebar:
   - title: Resources
     # url: /TechTalk/2020/
     children:
-      - title: "Tech-Talks 2020"
+      - title: "Tech-Talks"
         url: /TechTalk/2020/
   - title: Sponsors
     # url: /Sponsers/Sponsor/
