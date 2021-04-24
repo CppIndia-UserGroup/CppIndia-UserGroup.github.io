@@ -8,7 +8,6 @@ toc: false
 ## Email
 
 - info@cppindia.co.in
-- cppindiausergroup@gmail.com
 
 ## Discord
 
@@ -24,10 +23,13 @@ toc: false
 - [CppIndiaUG](https://twitter.com/CppIndiaUG)
 
 
-## Current Organizers
+## Core Team
 
 - [Dheeraj Jha](https://www.linkedin.com/in/jhadheeraj/)
-- [Shilpa Dodeja](https://www.linkedin.com/in/shilpa-dodeja-3740005b/)
-- [Vishal Chovatiya](https://www.linkedin.com/in/vishal-chovatiya-b7896484/)
-- [Mahendra Garodi](https://www.linkedin.com/in/garodimahendra)
 - [Ankur Satle](https://www.linkedin.com/in/ankursatle)
+- [Mahendra Garodi](https://www.linkedin.com/in/garodimahendra)
+- [Shilpa Dodeja](https://www.linkedin.com/in/shilpa-dodeja-3740005b/)
+
+## Moderator(s)
+
+- [Vishal Chovatiya](https://www.linkedin.com/in/vishal-chovatiya-b7896484/)
