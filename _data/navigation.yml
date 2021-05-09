@@ -9,6 +9,8 @@ main:
     url: https://www.facebook.com/CppIndiaUG
   - title: "Discord"
     url: https://discord.gg/Wz42tX5
+  - title: "YouTube"
+    url: https://www.youtube.com/channel/UCwB-WjSJI2D97YZcACFxJDw
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -28,6 +30,8 @@ sidebar:
         url: /
       - title: "Contact Us"
         url: /_pages/contact/
+  - title: Code Of Conduct
+    url: CodeOfConduct/codeofconduct
   - title: Resources
     # url: /TechTalk/2020/
     children:
@@ -36,10 +40,10 @@ sidebar:
       - title: "Tech-Talks 2021"
         url: /TechTalk/2021/
   - title: Sponsors
-    # url: /Sponsers/Sponsor/
-    children:
-      - title: "Community Sponsors"
-        url: /Sponsors/Sponsor/
+    url: /Sponsers/Sponsor/
+    # children:
+    #   - title: "Community Sponsors"
+    #     url: /Sponsors/Sponsor/
   - title: Session schedule
     url: https://docs.google.com/spreadsheets/d/1xE_MINL8qqNk9XBB6aUv-JdcciY4qGZSO7etEccYCb0/edit?usp=sharing
     # children:
