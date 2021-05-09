@@ -9,7 +9,8 @@ title: "CppIndia"
 
 CppIndia is a community for developers having mutual interest in C++. Here, you can find a welcoming space to learn and discuss C++.
 
-## What are our goals?
+## What is our vision?
+
 Currently, in India, there isn't a common platform which brings together people from all walks of life(students to new graduates to experienced developers) wherein they can connect, share and discuss their C++ queries. 
 
 This would be a great opportunity to bring developers working with C++ language under a single roof from all over India so that they can share their experiences and learn from each other which in turn will grow this community. 
@@ -23,6 +24,7 @@ We provide:
 - Community tech-talks on every alternate Saturday.
 - Guidance to junior programmers to get started.
 - Help to each other in job search & opportunities.
+- Provide a space for companies to find a best C++ candicate.
 
 We are always open to new ways of thinking!
 
