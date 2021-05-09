@@ -17,7 +17,7 @@ Our events happen on alternate Saturday at 11:00 AM IST(online, we started in 20
 CppIndia has a long-term mission to serve the needs of C++ developers in India and we are interested in partnering with companies that share that long-term vision.
 Supporting and sponsoring CppIndia delivers value to companies in our community in a number of ways.
 
-Value directly to companies that sponsor or have employees speak:
+### Value directly to companies that sponsor or have employees speak:
 
 **Recruitment**: Nothing makes a company more attractive to community members when considering employment options than to see long-term community support as a sponsor and to see knowledgeable speakers from that company talking about tackling challenging issues in interesting ways.
 
