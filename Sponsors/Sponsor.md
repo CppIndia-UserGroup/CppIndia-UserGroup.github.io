@@ -29,7 +29,7 @@ Value directly to companies that sponsor or have employees speak:
 
 **Giving back**: Sponsoring is a great way to support the community and be seen doing so.
 
-## Value to employees as attendees or speakers:
+### Value to employees as attendees or speakers:
 
 **Better training**: Employees that attend are better informed about best practices and new features and tools.
 
