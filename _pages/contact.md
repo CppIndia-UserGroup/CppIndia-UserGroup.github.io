@@ -6,22 +6,20 @@ toc: true
 ---
 
 ## Email
-
 - <info@cppindia.co.in>
 
 ## Discord
-
 - [Discord Server](https://discord.gg/Wz42tX5)
 
 ## LinkedIn
-
 - [CppIndia](https://www.linkedin.com/company/cppindia/)
 
 
 ## Twitter
-
 - [CppIndiaUG](https://twitter.com/CppIndiaUG)
 
+## YouTube
+- [CppIndia YouTube Channel](https://www.youtube.com/channel/UCwB-WjSJI2D97YZcACFxJDw)
 
 ## Core Team
 
