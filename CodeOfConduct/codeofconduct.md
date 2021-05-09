@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Tech Talks
-permalink: /TechTalk/2020/
+title: Code Of Conduct
+permalink: CodeOfConduct/codeofconduct
 toc: false
 ---
 

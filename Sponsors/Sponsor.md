@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Community Sponsors
+title: Sponsors Space
 permalink: /Sponsors/Sponsor/
 toc: true
 ---
