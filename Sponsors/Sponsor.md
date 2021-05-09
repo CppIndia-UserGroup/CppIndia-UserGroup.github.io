@@ -19,25 +19,27 @@ Supporting and sponsoring CppIndia delivers value to companies in our community 
 
 Value directly to companies that sponsor or have employees speak:
 
-    - **Recruitment**: Nothing makes a company more attractive to community members when considering employment options than to see long-term community support as a sponsor and to see knowledgeable speakers from that company talking about tackling challenging issues in interesting ways.
-
-    - **Image and awareness**: Members will gain a favorable impression of sponsoring companies and companies with knowledgeable employees speaking.
-
-    - **Product exposure**: Swag opportunities and presentations expose members to new products and ideas.
-    
-    - **Community influence**: Presenting provides the opportunity to influence community thinking about tools, processes, libraries, and features.
-    
-    - **Giving back**: Sponsoring is a great way to support the community and be seen doing so.
+#### Recruitment: 
+    Nothing makes a company more attractive to community members when considering employment options than to see long-term community support as a sponsor and to see knowledgeable speakers from that company talking about tackling challenging issues in interesting ways.
+#### Image and awareness: 
+    Members will gain a favorable impression of sponsoring companies and companies with knowledgeable employees speaking.
+#### Product exposure: 
+    Swag opportunities and presentations expose members to new products and ideas.
+#### Community influence: 
+    Presenting provides the opportunity to influence community thinking about tools, processes, libraries, and features.
+#### Giving back: 
+    Sponsoring is a great way to support the community and be seen doing so.
 
 ## Value to employees as attendees or speakers:
 
-    - **Better training**: Employees that attend are better informed about best practices and new features and tools.
-    
-    - **Better engagement**: Employees that attend have higher morale and are excited about applying what they've learned.
-    
-    - **Develop expertise**: Researching a topic for a presentation is a valuable learning experience.
-    
-    - **Better leaders**: Employees that participate as group speakers or organizers are learning leadership skills not always available in their regular roles.
+#### Better training: 
+    Employees that attend are better informed about best practices and new features and tools.
+#### Better engagement: 
+    Employees that attend have higher morale and are excited about applying what they've learned.
+#### Develop expertise: 
+    Researching a topic for a presentation is a valuable learning experience.
+#### Better leaders: 
+    Employees that participate as group speakers or organizers are learning leadership skills not always available in their regular roles.
 
 Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/) if you need more detailed information.
 
