@@ -48,6 +48,10 @@ May we suggest:
 - Subscribe and share our [Youtube Channel](https://youtube.com/c/CppIndiaUG)
 - Spread the words.
 
+## Sponsors
+
+[![jetbrains](jetbrains.png)](https://www.jetbrains.com)
+
 ## Community Sponsor
 
 [![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com)
