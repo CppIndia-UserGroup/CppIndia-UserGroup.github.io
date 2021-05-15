@@ -42,7 +42,7 @@ Supporting and sponsoring CppIndia delivers value to companies in our community 
 Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/) if you need more detailed information.
 
 ## Sponsors
-- [![jetbrains](jetbrains.png)](https://www.jetbrains.com)
+[![jetbrains](jetbrains.png)](https://www.jetbrains.com)
 
 ## Community sponsors
 
