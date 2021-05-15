@@ -41,11 +41,11 @@ Supporting and sponsoring CppIndia delivers value to companies in our community 
 
 Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/) if you need more detailed information.
 
+## Sponsors
+- [![jetbrains](jetbrains.png)](https://www.jetbrains.com)
+
 ## Community sponsors
 
-- [C++ user groups of Sweden](https://www.swedencpp.se/)
-![C++ User Groups of Sweden](SwedenCppOfficial.png)
-- [Meeting C++](https://www.meetingcpp.com)
-![Meeting C++](meeting_cpp.png)
-- [#include<C++>](https://www.includecpp.org/)
-![#include<C++>](include_logo.png)
+[![C++ User Groups of Sweden](SwedenCppOfficial.png)](https://www.swedencpp.se/)
+[![Meeting C++](meeting_cpp.png)](https://www.meetingcpp.com)
+[![#include<C++>](include_logo.png)](https://www.includecpp.org/)
