@@ -50,7 +50,7 @@ May we suggest:
 
 ## Sponsors
 
-[![jetbrains](jetbrains.png)](https://www.jetbrains.com)
+[![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com)
 
 ## Community Sponsor
 
