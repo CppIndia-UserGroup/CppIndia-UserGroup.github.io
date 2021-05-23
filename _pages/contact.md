@@ -28,10 +28,9 @@ toc: true
 - [Mahendra Garodi](https://www.linkedin.com/in/garodimahendra "https://www.linkedin.com/in/garodimahendra")
 - [Shilpa Dodeja](https://www.linkedin.com/in/shilpa-dodeja-3740005b/ "https://www.linkedin.com/in/shilpa-dodeja-3740005b/")
 
-## Moderator(s)
+## Moderators
 
 - [Vishal Chovatiya](https://www.linkedin.com/in/vishal-chovatiya-b7896484/ "https://www.linkedin.com/in/vishal-chovatiya-b7896484/")
 - [Kashish Nagpal](https://www.linkedin.com/in/mr-k-508823156 "https://www.linkedin.com/in/mr-k-508823156")
 - [Hemil Ruparel](https://www.linkedin.com/in/hemil-ruparel-2aa513166/ "https://www.linkedin.com/in/hemil-ruparel-2aa513166/")
 - [Anushree Khanna](https://www.linkedin.com/in/anushree-khanna-10419a179/ "https://www.linkedin.com/in/anushree-khanna-10419a179/")
-- [Ayaan Khan](https://www.linkedin.com/in/ayaan-khan-873736192/ "https://www.linkedin.com/in/ayaan-khan-873736192/")
