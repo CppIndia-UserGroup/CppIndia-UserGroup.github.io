@@ -21,6 +21,8 @@ main:
   #   url: /sitemap/
 
 sidebar:
+  - title: Logo Contest
+      url: /_pages/logocontest/
   - title: Home
     url: /
     children:
