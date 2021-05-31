@@ -22,7 +22,7 @@ main:
 
 sidebar:
   - title: Logo Contest
-      url: /_pages/logocontest/
+    url: _pages/logocontest/
   - title: Home
     url: /
     children:
