@@ -15,7 +15,8 @@ Our events happen on alternate Saturday at 11:00 AM IST(online, we started in 20
 
 ### Sponsor's Catagory
 - **Platinum** - 20000/- INR for a year
-Our Hosting Sponsorship is Rs 1000 monthly meeting. This sponsorship covers our all hosting virtual sessions and other services.
+- **Gold** - 15000/- INR for a year
+- **Silver** - 10000/- INR for a year
 
 ### Benefits
 - Listed as our group sponsor on our website.
@@ -25,7 +26,7 @@ Our Hosting Sponsorship is Rs 1000 monthly meeting. This sponsorship covers our 
 - If you have any open positions, we can announce that with a short message like "Currently looking for C++ developers.”
 - You can reach to a huge group of C++ developers in India.
 
-Fill [this form](https://forms.gle/FCLdLbUytdqtAALZ6) for any query.
+Fill [this form](https://forms.gle/FCLdLbUytdqtAALZ6){:target="_blank"} for any query.
 Drop us a mail at **info@cppindia.co.in** for more information.
 
 ## Why sponsor CppIndia
@@ -55,13 +56,13 @@ Supporting and sponsoring CppIndia delivers value to companies in our community 
 
 **Better leaders**: Employees that participate as group speakers or organizers are learning leadership skills not always available in their regular roles.
 
-Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/) if you need more detailed information.
+Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
 
 ## Sponsors
-[![jetbrains](jetbrains.png)](https://www.jetbrains.com)
+[![jetbrains](jetbrains.png)](https://www.jetbrains.com){:target="_blank"}
 
 ## Community sponsors
 
-[![C++ User Groups of Sweden](SwedenCppOfficial.png)](https://www.swedencpp.se/)
-[![Meeting C++](meeting_cpp.png)](https://www.meetingcpp.com)
-[![#include<C++>](include_logo.png)](https://www.includecpp.org/)
+[![C++ User Groups of Sweden](SwedenCppOfficial.png)](https://www.swedencpp.se/){:target="_blank"}
+[![Meeting C++](meeting_cpp.png)](https://www.meetingcpp.com){:target="_blank"}
+[![#include<C++>](include_logo.png)](https://www.includecpp.org/){:target="_blank"}
