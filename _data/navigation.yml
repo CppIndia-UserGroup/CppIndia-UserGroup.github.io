@@ -21,8 +21,8 @@ main:
   #   url: /sitemap/
 
 sidebar:
-  - title: Logo Contest
-    url: _pages/logocontest/
+  #- title: Logo Contest
+  #  url: _pages/logocontest/
   - title: Home
     url: /
     children:
@@ -37,23 +37,18 @@ sidebar:
   - title: Resources
     # url: /TechTalk/2020/
     children:
-      - title: "Tech-Talks 2020"
-        url: /TechTalk/2020/
+      - title: Session Schedule
+        url: /TechTalk/schedule/
       - title: "Tech-Talks 2021"
         url: /TechTalk/2021/
+      - title: "Tech-Talks 2020"
+        url: /TechTalk/2020/
+  - title: Call For Speakers
+    url: /callforspeakers/call_for_speakers/
   - title: Sponsors
     url: /Sponsors/Sponsor/
-    # children:
-    #   - title: "Community Sponsors"
-    #     url: /Sponsors/Sponsor/
-  - title: Session schedule
-    url: https://docs.google.com/spreadsheets/d/1xE_MINL8qqNk9XBB6aUv-JdcciY4qGZSO7etEccYCb0/edit?usp=sharing
-    # children:
-    #   - title: "Community Sponsors"
-    #     url: /Sponsors/Sponsor/
-
-  # - title: Conferences and Events
-  #   url: /conferences/
+  # - title: Conferences
+  #   url: /conferences/conference_home/
   #   children:
   #     - title: "Attending"
   #       url: /conferences/attending-conferences/
