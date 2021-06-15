@@ -13,7 +13,8 @@ If you would like to sponsor an event, but do not have a suitable platform, cont
 
 Our events happen on alternate Saturday at 11:00 AM IST(online, we started in 2020. Hope you understand).
 
-### Rate
+### Sponsor's Catagory
+- **Platinum** - 20000/- INR for a year
 Our Hosting Sponsorship is Rs 1000 monthly meeting. This sponsorship covers our all hosting virtual sessions and other services.
 
 ### Benefits

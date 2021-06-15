@@ -3,7 +3,7 @@ toc: true
 layout: home
 title: "CppIndia"
 ---
-[![Join Us](/assets/images/JoinUs.jpg "Join Us")](https://forms.gle/N4TZwqPW24kY1y4WA) [![Logo Contest](/assets/images/logo_contest.png "Logo Contest")](/_pages/logocontest/)
+[![Join Us](/assets/images/JoinUs.jpg "Join Us")](https://forms.gle/N4TZwqPW24kY1y4WA){:target="_blank"} 
 
 ## Who Are We?
 
@@ -34,7 +34,7 @@ We do a meetup on every alternate Saturday which is approximately twice a month.
 
 Each session is of 60 mins and can be extended by additional 15-20 mins depending on the topic.
 
-We also have a [Discord channel](https://discord.gg/Wz42tX5) so that people can interact with each other and ask their queries.
+We also have a [Discord channel](https://discord.gg/Wz42tX5){:target="_blank"} so that people can interact with each other and ask their queries.
 
 ## What You Can Do?
 
@@ -43,17 +43,17 @@ May we suggest:
 - Present on any C++ topic in community tech-talk.
 - Helps organizers to organize community discussion/tech-talks.
 - Read our resources, and let us know about anything that's worth adding.
-- Join our [Discord](https://discord.gg/Wz42tX5) server.
-- Follow us on [LinkedIn](https://www.linkedin.com/company/cppindia/), [Twitter](https://twitter.com/CppIndiaUG) and [Facebook](https://www.facebook.com/CppIndiaUG).
-- Subscribe and share our [Youtube Channel](https://youtube.com/c/CppIndiaUG)
+- Join our [Discord](https://discord.gg/Wz42tX5){:target="_blank"} server.
+- Follow us on [LinkedIn](https://www.linkedin.com/company/cppindia/){:target="_blank"}, [Twitter](https://twitter.com/CppIndiaUG){:target="_blank"} and [Facebook](https://www.facebook.com/CppIndiaUG){:target="_blank"}.
+- Subscribe and share our [Youtube Channel](https://youtube.com/c/CppIndiaUG){:target="_blank"}
 - Spread the words.
 
 ## Sponsors
 
-[![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com)
+[![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} 
 
 ## Community Sponsor
 
-[![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com)
-[![SwedenCpp](/Sponsors/SwedenCppOfficial.png "SwedenCpp")](https://www.swedencpp.se)
-[![#include ＜C++＞](/Sponsors/include_logo.png "#include ＜C++＞")](https://www.includecpp.org/)
+[![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com){:target="_blank"} 
+[![SwedenCpp](/Sponsors/SwedenCppOfficial.png "SwedenCpp")](https://www.swedencpp.se){:target="_blank"} 
+[![#include ＜C++＞](/Sponsors/include_logo.png "#include ＜C++＞")](https://www.includecpp.org/){:target="_blank"} 

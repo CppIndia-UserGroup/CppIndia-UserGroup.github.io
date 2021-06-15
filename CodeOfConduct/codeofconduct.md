@@ -7,4 +7,4 @@ toc: false
 
 ## Code Of Conduct
 
-Our events are an open, inclusive and positive space and therefore we apply the [Berlin Code of Conduct](https://berlincodeofconduct.org/).
+Our events are an open, inclusive and positive space and therefore we apply the [Berlin Code of Conduct](https://berlincodeofconduct.org/){:target="_blank"}.
