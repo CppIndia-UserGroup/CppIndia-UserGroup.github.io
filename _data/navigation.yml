@@ -39,18 +39,22 @@ sidebar:
     children:
       - title: "The C++ Standard"
       # url: /CppStandard/
+      - title: "Articles & Blogs"
+      # url: /ArticlesBlogs/
   - title: "Tech-Talks"
     children:
       - title: "2021"
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
-  - title: "Royal Code Roast"
-  # url: /RoyalCodeRoast/
-  - title: "Community Fireside Chat"
-  # url: /CommunityFiresideChat/
-  - title: Session Schedule
-    url: /TechTalk/schedule/
+  - title: "Community Activities"
+    children:
+      - title: "Royal Code Roast"
+      # url: /RoyalCodeRoast/
+      - title: "Community Fireside Chat"
+      # url: /CommunityFiresideChat/
+  # - title: Session Schedule
+  # url: /TechTalk/schedule/
   - title: Call For Speakers
     url: /callforspeakers/call_for_speakers/
   - title: Sponsors
