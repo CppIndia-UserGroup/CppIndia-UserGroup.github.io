@@ -58,8 +58,8 @@ sidebar:
   # url: /TechTalk/schedule/
   - title: Call For Speakers
     url: /callforspeakers/call_for_speakers/
-  - title: Sponsors
-    url: /Sponsors/Sponsor/
+  # - title: Sponsors
+  #   url: /Sponsors/Sponsor/
   # - title: Conferences
   #   url: /conferences/conference_home/
   #   children:
