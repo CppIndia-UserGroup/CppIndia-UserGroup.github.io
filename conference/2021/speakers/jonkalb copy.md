@@ -8,7 +8,7 @@ speakers: true
 registerforcppday: true
 ---
 
-![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")
+![Jon Kalb](/conference/2021/graphics/JonKalb.jpg "Jon Kalb")
 
 
 **Jon Kalb** is using his decades of software engineering experience and knowledge about C++ to make other people better software engineers. He train experienced software engineers to be better programmers. He present at and help run technical conferences and local user groups.
@@ -17,8 +17,4 @@ He is passionate about quality code and want to inspire others to achieve their 
 He is excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++.
 
 [![Jon Kalb](/assets/images/linkedin.png "Jon Kalb")](https://www.linkedin.com/in/jonkalb/)
-<<<<<<< HEAD
-[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")](https://twitter.com/_JonKalb)
-=======
-[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")]()
->>>>>>> 2d01c35231217781566474d8d36cfa35eabc6352
+[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")](https://www.linkedin.com/in/jonkalb/)
