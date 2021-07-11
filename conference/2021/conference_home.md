@@ -8,6 +8,7 @@ speakers: true
 registerforcppday: true
 ---
 
+![CppDay](/conference/2021/graphics/CppDay.png "CppDay")
 
 CppDay is the first International conference hosted by the CppIndia community. 
 
