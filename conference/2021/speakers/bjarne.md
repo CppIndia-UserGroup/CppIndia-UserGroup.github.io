@@ -1,0 +1,19 @@
+---
+layout: single
+title: Bjarne Stroustrup
+permalink: /conference/2021/speakers/bjarne/
+toc: false
+widget: false
+speakers: true
+registerforcppday: true
+---
+
+![Bjarne Stroustrup](/conference/2021/graphics/bjarne.jpg "Bjarne Stroustrup")
+
+
+**Bjarne Stroustrup** is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee."
+
+Currently Bjarne is a **Technical Fellow** and a **Managing Director** in the technology division of **Morgan Stanley in New York City** and a **Visiting Professor in Computer Science at Columbia University**.
+
+[![Bjarne Stroustrup](/assets/images/linkedin.png "Bjarne Stroustrup")](https://www.linkedin.com/in/bjarnestroustrup/)
+[![Bjarne Stroustrup](/assets/images/twitter.png "Bjarne Stroustrup")]()

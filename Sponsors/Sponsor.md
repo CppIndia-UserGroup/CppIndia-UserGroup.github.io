@@ -4,6 +4,7 @@ title: Sponsors Space
 permalink: /Sponsors/Sponsor/
 toc: true
 widget: true
+registerforcppday: true
 ---
 
 ## How to sponsor CppIndia

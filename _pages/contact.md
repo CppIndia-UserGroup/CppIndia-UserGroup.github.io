@@ -4,6 +4,8 @@ title: Contact Us
 permalink: /_pages/contact/
 toc: true
 widget: true
+registerforcppday: true
+speakers: true
 ---
 
 ## Email
