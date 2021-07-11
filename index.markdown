@@ -3,6 +3,8 @@ toc: false
 layout: home
 title: "India's very own C++ Community"
 widget: true
+registerforcppday: true
+speakers: false
 ---
 Click on the "Join Us" button to register with the community
 [![Join Us](/assets/images/JoinUs.jpg "Join Us")](/_pages/join_us)

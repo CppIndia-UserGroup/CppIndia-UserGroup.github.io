@@ -13,5 +13,5 @@ registerforcppday: true
 
 About Ankur
 
-[![Ankur Satle](/assets/images/linkedin.png "Ankur Satle")](https://www.linkedin.com/in/ankursatle/)
-[![Ankur Satle](/assets/images/twitter.png "Ankur Satle")]()
+[![Ankur Satle](/assets/images/linkedin.png "Ankur Satle")](https://www.linkedin.com/in/ankursatle/){:target="_blank"}
+[![Ankur Satle](/assets/images/twitter.png "Ankur Satle")](https://twitter.com/AnkurSatle){:target="_blank"}

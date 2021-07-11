@@ -17,5 +17,5 @@ Bryce is passionate about C++ and is one of the leaders of the C++ community. He
 
 On the C++ Committee, he has personally worked on the C++17 parallel algorithms, executors, futures, senders/receivers, multidimensional arrays, and modules. He is one of the initial developers of the HPX parallel runtime system. He also helped start the LLVMLinux initiative and has occasionally contributed to the Boost C++ libraries.
 
-[![Bryce Adelstein Lelbach](/assets/images/linkedin.png "Bryce Adelstein Lelbach")](https://www.linkedin.com/in/brycelelbach/)
-[![Bryce Adelstein Lelbach](/assets/images/twitter.png "Bryce Adelstein Lelbach")](https://twitter.com/blelbach)
+[![Bryce Adelstein Lelbach](/assets/images/linkedin.png "Bryce Adelstein Lelbach")](https://www.linkedin.com/in/brycelelbach/){:target="_blank"}
+[![Bryce Adelstein Lelbach](/assets/images/twitter.png "Bryce Adelstein Lelbach")](https://twitter.com/blelbach){:target="_blank"}

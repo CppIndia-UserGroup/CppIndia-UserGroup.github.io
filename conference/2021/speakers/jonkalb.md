@@ -17,4 +17,4 @@ He is passionate about quality code and want to inspire others to achieve their 
 He is excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++.
 
 [![Jon Kalb](/assets/images/linkedin.png "Jon Kalb")](https://www.linkedin.com/in/jonkalb/)
-[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")]()
+[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")](https://twitter.com/_JonKalb)

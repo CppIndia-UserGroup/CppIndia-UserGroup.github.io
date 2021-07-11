@@ -4,7 +4,7 @@ layout: home
 title: "Join CppIndia"
 widget: true
 registerforcppday: true
-speakers: true
+speakers: false
 ---
 
 {% include join_us.html %}
