@@ -3,6 +3,8 @@ toc: true
 layout: home
 title: "About CppIndia"
 widget: true
+registerforcppday: true
+speakers: true
 ---
 
 ## Who Are We?
