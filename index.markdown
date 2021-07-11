@@ -7,7 +7,7 @@ widget: true
 Click on the "Join Us" button to register with the community
 [![Join Us](/assets/images/JoinUs.jpg "Join Us")](/_pages/join_us)
 ## Next Event
-The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.
+The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech-Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.
 
 At CppIndia, we organise a Tech-Talk/Royal Code Roast/Community Fireside Chat every **alternate Saturday**. 
 
