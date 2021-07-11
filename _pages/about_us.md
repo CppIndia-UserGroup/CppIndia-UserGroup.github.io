@@ -4,7 +4,7 @@ layout: home
 title: "About CppIndia"
 widget: true
 registerforcppday: true
-speakers: true
+speakers: false
 ---
 
 ## Who Are We?

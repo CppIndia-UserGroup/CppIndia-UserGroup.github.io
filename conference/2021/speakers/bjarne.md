@@ -15,5 +15,5 @@ registerforcppday: true
 
 Currently Bjarne is a **Technical Fellow** and a **Managing Director** in the technology division of **Morgan Stanley in New York City** and a **Visiting Professor in Computer Science at Columbia University**.
 
-[![Bjarne Stroustrup](/assets/images/linkedin.png "Bjarne Stroustrup")](https://www.linkedin.com/in/bjarnestroustrup/)
-[![Bjarne Stroustrup](/assets/images/twitter.png "Bjarne Stroustrup")]()
+[![Bjarne Stroustrup](/assets/images/linkedin.png "Bjarne Stroustrup")](https://www.linkedin.com/in/bjarnestroustrup/){:target="_blank"}
+[![Bjarne Stroustrup](/assets/images/twitter.png "Bjarne Stroustrup")](https://twitter.com/stroustrup){:target="_blank"}

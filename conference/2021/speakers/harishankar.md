@@ -13,5 +13,5 @@ registerforcppday: true
 
 About Harishankar
 
-[![Harishankar Singh](/assets/images/linkedin.png "Harishankar Singh")](https://www.linkedin.com/in/harishankarsinghyadav/)
-[![Harishankar Singh](/assets/images/twitter.png "Harishankar Singh")](https://twitter.com/HarishankarSY)
+[![Harishankar Singh](/assets/images/linkedin.png "Harishankar Singh")](https://www.linkedin.com/in/harishankarsinghyadav/){:target="_blank"}
+[![Harishankar Singh](/assets/images/twitter.png "Harishankar Singh")](https://twitter.com/HarishankarSY){:target="_blank"}
