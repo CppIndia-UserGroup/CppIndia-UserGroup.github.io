@@ -16,7 +16,7 @@ registerforcppday: true
 | 11:30 - 11:45 |  15 min Break |  | 
 | 11:45 - 13:00 |  **What belongs in the C++ Standard Library** | [Bryce Adelstein Lelbach](/conference/2021/speakers/bryce/){:target="_blank"} | |
 | 11:30 - 11:45 |  15 min Break |  | 
-| 13:00 - 14:00 |  **TBD** | [Harishankar Singh](/conference/2021/speakers/harishankar/){:target="_blank"} | |
+| 13:00 - 14:00 |  **C++20 Ranges: Code expressively with Ranges** | [Harishankar Singh](/conference/2021/speakers/harishankar/){:target="_blank"} | This talk will start with short introduction with Ranges. The focus will be on  how Ranges can change the way you write code in C++. Write Complex Problems/Algorithms in more expressive way in C++ with Ranges using some examples. |
 | 14:00 - 14:45 |  Lunch & Networking | | 
 | 14:45 - 13:45 |  **TBD** | [Ankur Satle](/conference/2021/speakers/ankur/){:target="_blank"} | |
 | 13:45 - 16:00 |  15 min Break |  | 
