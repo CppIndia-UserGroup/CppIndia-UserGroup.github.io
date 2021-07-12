@@ -13,6 +13,8 @@ registerforcppday: true
 
 **Bjarne Stroustrup** is best known for his work on C++. In 1979, he began developing C++ (initially called "C with Classes"). In his own words, he "invented C++, wrote its early definitions, and produced its first implementation chose and formulated the design criteria for C++, designed all its major facilities, and was responsible for the processing of extension proposals in the C++ standards committee."
 
+Bjarne is an active member of the **ISO C++ standards committee**, a prolific writer and speaker on topics related to C++, and a recipient of the **Draper award and the Faraday medal**.
+
 Currently Bjarne is a **Technical Fellow** and a **Managing Director** in the technology division of **Morgan Stanley in New York City** and a **Visiting Professor in Computer Science at Columbia University**.
 
 [![Bjarne Stroustrup](/assets/images/www.png "Bjarne Stroustrup")](https://stroustrup.com/){:target="_blank"}
