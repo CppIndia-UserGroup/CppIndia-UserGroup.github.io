@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/bryce/
 toc: false
 widget: false
 speakers: true
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 ![Bryce Adelstein Lelbach](/conference/2021/graphics/bryce.jpg "Bryce Adelstein Lelbach")

@@ -32,13 +32,13 @@ sidebar:
         url: /_pages/about_us
       - title: "Contact Us"
         url: /_pages/contact/
-  # - title: CppDay 2021 Conference
-  #   url: /conference/2021/conference_home/
-  #   children:
-  #     - title: "Schedule"
-  #       url: /conference/2021/schedule/
-  #     - title: "Speakers"
-  #       url: /conference/2021/speakers/speakers/
+  - title: CppIndiaCon 2021
+    url: /conference/2021/conference_home/
+    children:
+      - title: "Schedule"
+        url: /conference/2021/schedule/
+      - title: "Speakers"
+        url: /conference/2021/speakers/speakers/
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
   # - title: Resources

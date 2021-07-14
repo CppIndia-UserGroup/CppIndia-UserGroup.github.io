@@ -3,15 +3,23 @@ toc: false
 layout: home
 title: "India's very own C++ Community"
 widget: true
-registerforcppday: true
-speakers: false
+registerforCppIndiaCon: true
+speakers: true
 ---
-Click on the "Join Us" button to register with the community
-[![Join Us](/assets/images/JoinUs.jpg "Join Us")](/_pages/join_us)
+<!-- Click on the "Join Us" button to register with the community
+[![Join Us](/assets/images/JoinUs.jpg "Join Us")](/_pages/join_us) -->
 ## Next Event
-The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech-Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.
+[![CppIndiaCon](/conference/2021/graphics/cppindiacon_banner.png "CppIndiaCon")](/conference/2021/conference_home/)
 
-At CppIndia, we organise a Tech-Talk/Royal Code Roast/Community Fireside Chat every **alternate Saturday**. 
+CppIndiaCon is the first International conference hosted by the CppIndia community. 
+
+The conference will happen on the [**15th of August, 2021**](https://en.wikipedia.org/wiki/Independence_Day_(India)){:target="_blank"} which is CppIndia’s **first anniversary** as a C++ community and also the **Indian Independence Day**.
+
+> [Click here](/conference/2021/conference_home/) for more details.
+<!-- The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech-Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.-->
+
+<!--At CppIndia, we organise a Tech-Talk/Royal Code Roast/Community Fireside Chat every **alternate Saturday**.  -->
+---
 
 To speak at CppIndia, please email us at <info@cppindia.co.in>. A Call for Speakers page is coming soon. 
 

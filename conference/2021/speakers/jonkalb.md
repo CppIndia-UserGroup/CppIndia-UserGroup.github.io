@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/jonkalb/
 toc: false
 widget: false
 speakers: true
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 ![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")
@@ -16,6 +16,6 @@ registerforcppday: true
 He is passionate about quality code and want to inspire others to achieve their best engineering work.
 He is excited about modern C++ and how we can exploit the latest hardware developments with standard, portable C++.
 
-[![Jon Kalb](/assets/images/linkedin.png "Jon Kalb")](https://www.linkedin.com/in/jonkalb/)
-[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")](https://twitter.com/_JonKalb)
+[![Jon Kalb](/assets/images/linkedin.png "Jon Kalb")](https://www.linkedin.com/in/jonkalb/){:target="_blank"}
+[![Jon Kalb](/assets/images/twitter.png "Jon Kalb")](https://twitter.com/_JonKalb){:target="_blank"}
 

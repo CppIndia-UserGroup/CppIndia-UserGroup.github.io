@@ -4,7 +4,7 @@ title: Schedule[In Progress]
 permalink: /TechTalk/schedule/
 toc: false
 widget: true
-registerforcppday: true
+registerforCppIndiaCon: true
 speakers: true
 ---
 

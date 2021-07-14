@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/bjarne/
 toc: false
 widget: false
 speakers: true
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 ![Bjarne Stroustrup](/conference/2021/graphics/bjarne.jpg "Bjarne Stroustrup")

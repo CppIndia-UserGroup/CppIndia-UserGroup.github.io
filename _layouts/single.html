@@ -34,14 +34,14 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.toc or page.widget or page.speakers or page.registerforcppday %}
+        {% if page.toc or page.widget or page.speakers or page.registerforCppIndiaCon %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <a href="https://twitter.com/CppIndiaUG?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CppIndiaUG</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            <!-- <a href="/conference/2021/cppday-reg-form/">
+            <a href="/conference/2021/CppIndiaCon-reg-form/">
               <img src="/conference/2021/graphics/ClickHeretoRegister.gif" alt="funny GIF" width="100%">
-            </a> -->
+            </a>
             {% if page.speakers %}
-              <h2>CppDay Speakers</h2>
+              <h3>CppIndiaCon Speakers</h3>
               <div class="sidebarrightrow">
                 <div class="sidebarrightcolumn">
                   <a href="/conference/2021/speakers/jonkalb/">
