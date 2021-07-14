@@ -6,7 +6,7 @@ toc: false
 widget: false
 # classes: wide
 speakers: false
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 [![Ankur Satle](/conference/2021/graphics/ankur.jpg "Ankur Satle")](/conference/2021/speakers/ankur/)

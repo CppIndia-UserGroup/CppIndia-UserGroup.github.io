@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/ankur/
 toc: false
 widget: false
 speakers: true
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 ![Ankur Satle](/conference/2021/graphics/ankur.jpg "Ankur Satle")

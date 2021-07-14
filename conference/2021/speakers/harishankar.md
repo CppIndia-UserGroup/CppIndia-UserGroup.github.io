@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/harishankar/
 toc: false
 widget: false
 speakers: true
-registerforcppday: true
+registerforCppIndiaCon: true
 ---
 
 ![Harishankar Singh](/conference/2021/graphics/hari.jpg "Harishankar Singh")
