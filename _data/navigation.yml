@@ -35,10 +35,13 @@ sidebar:
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
+      - title: "Register"
+        url: /conference/2021/CppIndiaCon-reg-form/
       - title: "Schedule"
         url: /conference/2021/schedule/
       - title: "Speakers"
         url: /conference/2021/speakers/speakers/
+      
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
   # - title: Resources
