@@ -13,17 +13,18 @@ registerforCppIndiaCon: true
 | :------------- | :-----------:   |:----:|:----|
 | 10:00 - 10:30 |  **Introduction** | [](){:target="_blank"} |
 | 10:30 - 11:30 |  **C++ Today: The Beast is Back** | [Jon Kalb](/conference/2021/speakers/jonkalb/){:target="_blank"} | This presentation will cover why engineers looking for performance choose C++. I will present a historical perspective of C++ focusing on what’s going on in the C++ community right now and where the language and its user base is heading. With a renewed interest in performance for both data centers and mobile devices, and the success of open source software libraries, C++ is back and it is hot. This presentation will explain why C++ is most software engineers' go-to language for performance. You will receive a rough historical sketch that puts C++ in perspective and covers its popularity ups and downs. This talk is based, in part, on the book "C++ Today: The Beast is Back" published by O’Reilly. |
-| 11:30 - 11:45 |  15 min Break |  | 
-| 11:45 - 13:00 |  **What belongs in the C++ Standard Library** | [Bryce Adelstein Lelbach](/conference/2021/speakers/bryce/){:target="_blank"} | |
-| 11:30 - 11:45 |  15 min Break |  | 
+| 11:30 - 11:45 |  15 min Break & Networking |  | 
+| 11:45 - 12:45 |  **What belongs in the C++ Standard Library** | [Bryce Adelstein Lelbach](/conference/2021/speakers/bryce/){:target="_blank"} | |
+| 12:45 - 13:00 |  15 min Break & Networking |  | 
 | 13:00 - 14:00 |  **C++20 Ranges: Code expressively with Ranges** | [Harishankar Singh](/conference/2021/speakers/harishankar/){:target="_blank"} | This talk will start with short introduction with Ranges. The focus will be on  how Ranges can change the way you write code in C++. Write Complex Problems/Algorithms in more expressive way in C++ with Ranges using some examples. |
 | 14:00 - 14:45 |  Lunch & Networking | | 
-| 14:45 - 13:45 |  **C++20 concepts - are they the base classes of generic programming?** | [Ankur Satle](/conference/2021/speakers/ankur/){:target="_blank"} | C++20 introduced concepts. One could draw an analogy between concepts of the Generic Programming world and base classes of the trusted OOP world. But are they really similar? In what ways? This talk: 1. outlines what concepts are, 2. compares and contrasts it with the base class parallel. 3. presents some guidelines on working with concepts. By the end of the talk, we will learn whether concepts match up what we have come to expect off base classes. And, if they match up in functionality. How we can achieve similar levels of checks (and more!) as compared to inheritance. |
-| 13:45 - 16:00 |  15 min Break |  | 
+| 14:45 - 15:45 |  **C++20 concepts - are they the base classes of generic programming?** | [Ankur Satle](/conference/2021/speakers/ankur/){:target="_blank"} | C++20 introduced concepts. One could draw an analogy between concepts of the Generic Programming world and base classes of the trusted OOP world. But are they really similar? In what ways? This talk: 1. outlines what concepts are, 2. compares and contrasts it with the base class parallel. 3. presents some guidelines on working with concepts. By the end of the talk, we will learn whether concepts match up what we have come to expect off base classes. And, if they match up in functionality. How we can achieve similar levels of checks (and more!) as compared to inheritance. |
+| 15:45 - 16:00 |  15 min Break & Networking |  | 
 | 16:00 - 17:00 |  **Contract Programming : What, Why, and How?** | [Saurabh Joshi](/conference/2021/speakers/saurabhjoshi/){:target="_blank"} | Software has penetrated almost every aspect of our lives, from our washing machines to cars, from airplanes to medical devices.  As a programmer, would you use an insulin pump or a pacemaker for which you have written the program that drives it? How, as a programmer, can you ensure that nothing would go wrong? This talk will talk about what code contracts are and why they are extremely important. Talk will discuss how contracts along with contract checkers can make our world a safer place. It will discuss aspects of static time contract checking versus runtime contract checking. Later this talk will discuss code contracts in the context of C++ along with a few examples. |
-| 17:00 - 17:15 |  15 min Break |  | 
+| 17:00 - 17:15 |  15 min Break & Networking |  | 
 | 17:15 - 18:15 |  **AMA With Bjarne Stroustrup** | [Bjarne Stroustrup](/conference/2021/speakers/bjarne/){:target="_blank"} | |
-| 18:30 - 19:00 |  **Closing** | | 
+| 18:15 - 18:30 |  **Closing** | | 
+| 18:15 - Drop Dead |  **Networking** | |
 
 ---
 
