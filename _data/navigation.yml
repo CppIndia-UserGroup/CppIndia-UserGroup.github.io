@@ -50,7 +50,7 @@ sidebar:
   #     # url: /CppStandard/
   #     - title: "Articles & Blogs"
   #     # url: /ArticlesBlogs/
-  - title: "Tech-Talks"
+  - title: "Community Tech-Talks"
     children:
       - title: "2021"
         url: /TechTalk/2021/

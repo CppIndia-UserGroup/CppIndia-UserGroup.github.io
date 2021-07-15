@@ -13,7 +13,7 @@ speakers: true
 
 CppIndiaCon is the first International conference hosted by the CppIndia community. 
 
-The conference will happen on the [**15th of August, 2021**](https://en.wikipedia.org/wiki/Independence_Day_(India)){:target="_blank"} which is CppIndia’s **first anniversary** as a C++ community and also the **Indian Independence Day**.
+The conference is scheduled for [**15th of August, 2021**](https://en.wikipedia.org/wiki/Independence_Day_(India)){:target="_blank"} which is CppIndia’s **first anniversary** as a C++ community and also the **Indian Independence Day**.
 
 > [Click here](/conference/2021/conference_home/) for more details.
 <!-- The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech-Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.-->
@@ -32,7 +32,7 @@ Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} 
 
-## Community Sponsor
+## Community Sponsors
 
 [![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com){:target="_blank"} 
 [![SwedenCpp](/Sponsors/SwedenCppOfficial.png "SwedenCpp")](https://www.swedencpp.se){:target="_blank"} 
