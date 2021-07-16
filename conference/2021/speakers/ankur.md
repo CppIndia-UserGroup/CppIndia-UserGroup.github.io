@@ -10,7 +10,9 @@ registerforCppIndiaCon: true
 
 ![Ankur Satle](/conference/2021/graphics/ankur.jpg "Ankur Satle")
 
-**Ankur Satle** is an **Architect** working on **Telecom products** at EXFO. He has extensive experience in high-performance VoIP, 3G/4G protocols, Network Monitoring, OSS/BSS systems. He strongly recommends building functionality as libraries - build once and use everywhere. He can often find him talking about the importance of implementations that are `easy-to-use-correctly`, `correct-by-construction`, and `minimalistic-that-enables-change`. Distributed Architecture, Cloud Technologies and DevOps fascinate him. He is a B. Tech. in Electronics and Telecom and a Post-graduate Diploma in Software Technology. An engineer at heart, he has a strong focus on optimisation, using less resources and minimalism. No wonder, C++ is his favourite tool. He has a multi-codebase modernisation experience. 
+**Ankur Satle** is an **Architect** working on **Telecom products** at EXFO. He has extensively worked on high-performance **VoIP, 3G/4G/IMS protocols, Network Monitoring, OSS/BSS** monolith & distributed systems in his 18+ years of experience. 
+
+He is a strong proponent of building functionality as build-once-and-use-everywhere libraries and building software capital on Open-source or InnerSource. He greatly values implementations that are `easy-to-use-correctly`, `correct-by-construction`, and `minimalistic-that-enables-change`. Distributed Architecture, Cloud Technologies and DevOps fascinate him. He holds a B. Tech. in Electronics and Telecom and a Post-graduate Diploma in Software Technology. An engineer at heart, he has a strong optimisation focus, using less resources and minimalism. No wonder, C++ is his favourite tool. He has a multi-codebase modernisation experience. 
 
 He loves learning languages - natural languages :). He has a fair grip on a few Indian languages and is currently learning French. A father of two, he loves outdoor activities and talking about cosmology with children. He loves playing football and watching thrillers & mystery movies. He is constantly learning something or the other, you may often find. 
 
