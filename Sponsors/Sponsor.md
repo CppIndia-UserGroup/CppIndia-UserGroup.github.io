@@ -3,6 +3,8 @@ layout: single
 title: Sponsors Space
 permalink: /Sponsors/Sponsor/
 toc: true
+widget: true
+registerforCppIndiaCon: true
 ---
 
 ## How to sponsor CppIndia

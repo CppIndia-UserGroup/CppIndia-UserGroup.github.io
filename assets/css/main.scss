@@ -6,3 +6,16 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.sidebarrightcolumn {
+float: left;
+width: 50%;
+padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.sidebarrightrow::after {
+content: "";
+clear: both;
+display: table;
+}

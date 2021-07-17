@@ -27,39 +27,49 @@ sidebar:
     url: /
     children:
       - title: "Join Us"
-        url: https://forms.gle/N4TZwqPW24kY1y4WA
+        url: /_pages/join_us
       - title: "About Us"
-        url: /
+        url: /_pages/about_us
       - title: "Contact Us"
         url: /_pages/contact/
+  - title: CppIndiaCon 2021
+    url: /conference/2021/conference_home/
+    children:
+      - title: "Register"
+        url: /conference/2021/CppIndiaCon-reg-form/
+      - title: "Schedule"
+        url: /conference/2021/schedule/
+      - title: "Speakers"
+        url: /conference/2021/speakers/speakers/      
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
-  - title: Resources
-    # url: /Resources/
-    children:
-      - title: "The C++ Standard"
-      # url: /CppStandard/
-  - title: "Tech-Talks"
+  # - title: Resources
+  #   # url: /Resources/
+  #   children:
+  #     - title: "The C++ Standard"
+  #     # url: /CppStandard/
+  #     - title: "Articles & Blogs"
+  #     # url: /ArticlesBlogs/
+  - title: "Community Tech-Talks"
     children:
       - title: "2021"
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
-  - title: "Royal Code Roast"
-  # url: /RoyalCodeRoast/
-  - title: "Community Fireside Chat"
-  # url: /CommunityFiresideChat/
-  - title: Session Schedule
-    url: /TechTalk/schedule/
-  - title: Call For Speakers
-    url: /callforspeakers/call_for_speakers/
-  - title: Sponsors
-    url: /Sponsors/Sponsor/
-  # - title: Conferences
-  #   url: /conferences/conference_home/
+
+  # - title: "Community Activities"
   #   children:
-  #     - title: "Attending"
-  #       url: /conferences/attending-conferences/
+  #     - title: "Royal Code Roast"
+  #     # url: /RoyalCodeRoast/
+  #     - title: "Community Fireside Chat"
+  #     # url: /CommunityFiresideChat/
+  # - title: Session Schedule
+  # url: /TechTalk/schedule/
+  # - title: Call For Speakers
+  #   url: /callforspeakers/call_for_speakers/
+  # - title: Sponsors
+  #   url: /Sponsors/Sponsor/
+ 
   #     - title: "Scholarships"
   #       url: /conferences/scholarships/
   #     - title: "Organising"

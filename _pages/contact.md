@@ -3,6 +3,9 @@ layout: single
 title: Contact Us
 permalink: /_pages/contact/
 toc: true
+widget: true
+registerforCppIndiaCon: true
+speakers: false
 ---
 
 ## Email
