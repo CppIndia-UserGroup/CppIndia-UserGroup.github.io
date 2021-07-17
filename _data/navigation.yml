@@ -26,7 +26,7 @@ sidebar:
   - title: Home
     url: /
     children:
-      - title: "Join Us"
+      - title: "Join CppIndia"
         url: /_pages/join_us
       - title: "About Us"
         url: /_pages/about_us
@@ -35,7 +35,7 @@ sidebar:
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
-      - title: "Register"
+      - title: "Conference Registration"
         url: /conference/2021/CppIndiaCon-reg-form/
       - title: "Schedule"
         url: /conference/2021/schedule/
