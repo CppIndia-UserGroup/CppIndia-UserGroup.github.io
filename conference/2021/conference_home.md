@@ -1,6 +1,6 @@
 ---
 layout: single
-title: CppIndiaCon - A C++ conference in India.
+title: CppIndiaCon - The C++ conference of India.
 permalink: /conference/2021/conference_home/
 toc: false
 widget: true
