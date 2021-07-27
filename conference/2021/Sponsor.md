@@ -56,8 +56,8 @@ CppIndiaCon 2021 Conference is accepting Gold and Silver sponsorship plans as be
 
 Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
 
-## Sponsors
-[![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"}
+<!-- ## Sponsors
+[![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} -->
 
 ## Community sponsors
 
