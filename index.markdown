@@ -1,7 +1,7 @@
 ---
 toc: false
 layout: home
-title: "India's very own C++ Community"
+title: <center>India's very own C++ Community
 widget: true
 registerforCppIndiaCon: true
 speakers: true
