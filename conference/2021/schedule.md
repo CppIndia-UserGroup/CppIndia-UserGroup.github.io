@@ -6,6 +6,7 @@ toc: false
 widget: true
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->
 

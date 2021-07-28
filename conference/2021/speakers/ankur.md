@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Ankur Satle](/conference/2021/graphics/ankur.jpg "Ankur Satle")

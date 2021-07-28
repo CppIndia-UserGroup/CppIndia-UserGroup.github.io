@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Harishankar Singh](/conference/2021/graphics/hari.jpg "Harishankar Singh")

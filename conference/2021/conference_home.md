@@ -6,6 +6,7 @@ toc: false
 widget: true
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 [![CppIndiaCon](/conference/2021/graphics/cppindiacon_banner.png "CppIndiaCon")](/conference/2021/CppIndiaCon-reg-form/)

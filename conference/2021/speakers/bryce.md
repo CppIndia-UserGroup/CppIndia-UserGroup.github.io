@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Bryce Adelstein Lelbach](/conference/2021/graphics/bryce.jpg "Bryce Adelstein Lelbach")

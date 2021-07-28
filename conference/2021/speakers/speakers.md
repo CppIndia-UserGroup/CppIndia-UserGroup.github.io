@@ -7,6 +7,7 @@ widget: true
 # classes: wide
 speakers: false
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 |---|---|---|
@@ -16,3 +17,22 @@ registerforCppIndiaCon: true
 |  |  |  |
 | [![Harishankar Singh](/conference/2021/graphics/hari.jpg "Harishankar Singh")](/conference/2021/speakers/harishankar/) | [![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")](/conference/2021/speakers/jonkalb/) | [![Saurabh Joshi](/conference/2021/graphics/saurabhjoshi.jpg "Saurabh Joshi")](/conference/2021/speakers/saurabhjoshi/) |
 | [Harishankar Singh](/conference/2021/speakers/harishankar/) | [Jon Kalb](/conference/2021/speakers/jonkalb/) | [Saurabh Joshi](/conference/2021/speakers/saurabhjoshi/) |
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>

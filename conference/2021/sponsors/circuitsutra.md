@@ -5,10 +5,12 @@ permalink: /conference/2021/sponsors/circuitsutra
 toc: false
 widget: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")
->#### Modelling Silicon Dreams
+<!-- <center> Modelling Silicon Dreams</center> -->
+<h1 style="font-size:2em"><center>Modelling Silicon Dreams</center></h1>
 
 ## About CircuitSutra
 

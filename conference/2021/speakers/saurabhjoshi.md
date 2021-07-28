@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Saurabh Joshi](/conference/2021/graphics/saurabhjoshi.jpg "Saurabh Joshi")
