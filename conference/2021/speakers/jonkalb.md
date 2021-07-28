@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")

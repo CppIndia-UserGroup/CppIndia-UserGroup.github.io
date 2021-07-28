@@ -43,10 +43,10 @@ sidebar:
         url: /conference/2021/speakers/speakers/  
       - title: "Sponsors Space"
         url: /conference/2021/Sponsor/
-  # - title: CppIndiaCon Sponsors
-  #   children:
-  #     - title: CircuitSutra
-  #       url: /conference/2021/sponsors/circuitsutra
+  - title: CppIndiaCon Sponsors
+    children:
+      - title: CircuitSutra
+        url: /conference/2021/sponsors/circuitsutra
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
   # - title: Resources

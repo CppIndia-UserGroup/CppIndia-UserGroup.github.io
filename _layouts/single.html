@@ -34,7 +34,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {% if page.toc or page.widget or page.speakers or page.registerforCppIndiaCon %}
+        {% if page.toc or page.widget or page.speakers or page.registerforCppIndiaCon or page.cppindiaconsponsors %}
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <a href="https://twitter.com/CppIndiaUG?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @CppIndiaUG</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             <a href="/conference/2021/CppIndiaCon-reg-form/">
@@ -75,6 +75,15 @@ layout: default
                 </div>
               </div>
             {% endif %}
+            {% if page.cppindiaconsponsors %}
+            <h3>CppIndiaCon <br>Gold Sponsors</h3>
+            <div class="widget">
+              <a href="/conference/2021/sponsors/circuitsutra">
+                <img src="/conference/2021/sponsors/circuitsutra.jpg" alt="CircuitSutra" style="width:100%">
+              </a>
+            </div>
+            {% endif %}
+            <pre></pre>
             {% if page.toc %}
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>

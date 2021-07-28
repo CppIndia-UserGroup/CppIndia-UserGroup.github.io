@@ -6,6 +6,7 @@ toc: false
 widget: false
 speakers: true
 registerforCppIndiaCon: true
+cppindiaconsponsors: true
 ---
 
 ![Bjarne Stroustrup](/conference/2021/graphics/bjarne.jpg "Bjarne Stroustrup")
