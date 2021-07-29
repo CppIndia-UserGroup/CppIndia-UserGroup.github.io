@@ -8,14 +8,18 @@ registerforCppIndiaCon: true
 cppindiaconsponsors: true
 ---
 
-![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")
+[![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")](https://www.circuitsutra.com/){:target="_blank"}
 <!-- <center> Modelling Silicon Dreams</center> -->
-<h1 style="font-size:2em"><center>Modelling Silicon Dreams</center></h1>
+<h1 style="font-size:2em; color:blue"><center>Modelling Silicon Dreams</center></h1>
 
 ## About CircuitSutra
-
+<!-- 
 >***Reduce the Cost and Time to Market for your next SoC design***
-***SHIFT-LEFT ESL methodologies for Hardware-Software Co-Design & Co-Verification***
+***SHIFT-LEFT ESL methodologies for Hardware-Software Co-Design & Co-Verification*** -->
+
+> **<center>Reduce the Cost and Time to Market for your next SoC design</center>**
+> **<center>SHIFT-LEFT ESL methodologies for Hardware-Software Co-Design & Co-Verification</center>**
+
 
 **CircuitSutra** is an **Electronics System Level (ESL)** design IP and services company, headquartered in *India*, having its offices at Noida, Bangalore and Santa Clara (USA). It enables customers to adopt advanced methodologies based on C, C++, SystemC/TLM2.0 (IEEE 1666-2011), Python, UPF3.0 (IEEE 1801-2015), IP-XACT (IEEE 1685-2014), Portable Stimulus. Our core competencies include Virtual Prototype (development, verification, deployment), High-Level Synthesis, Architecture & Performance modeling.
 
