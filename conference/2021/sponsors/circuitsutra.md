@@ -31,11 +31,12 @@ CircuitSutra is developing re-usable modelling infrastructure for the **RISC-V e
 
 ## Career Opportunity
 Do you have Strong Expertise in C, C++, OOPS, Data Structures, Algorithms ?
-And industry experience in any of the following:
-•	Embedded Software, Device Drivers, Firmware, BSP
-•	Semiconductor SoC Design / Verification  
 
-Shift to ESL: Put your career on the path of Faster Growth, Higher Value Creation & Breakthrough Technology Innovation 
+And industry experience in any of the following:
+- Embedded Software, Device Drivers, Firmware, BSP
+- Semiconductor SoC Design / Verification  
+
+**Shift to ESL**: Put your career on the path of Faster Growth, Higher Value Creation & Breakthrough Technology Innovation 
 
 [Know More ..](https://www.circuitsutra.com/opportunities_esl_embedded.html){:target="_blank"}
 
