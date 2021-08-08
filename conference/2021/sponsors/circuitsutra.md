@@ -36,7 +36,7 @@ And industry experience in any of the following:
 - Embedded Software, Device Drivers, Firmware, BSP
 - Semiconductor SoC Design / Verification  
 
-*Shift to ESL*: Put your career on the path of Faster Growth, Higher Value Creation & Breakthrough Technology Innovation 
+**Shift to ESL**: Put your career on the path of Faster Growth, Higher Value Creation & Breakthrough Technology Innovation 
 
 [Know More ..](https://www.circuitsutra.com/opportunities_esl_embedded.html){:target="_blank"}
 
