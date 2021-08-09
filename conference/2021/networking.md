@@ -9,6 +9,14 @@ registerforCppIndiaCon: true
 cppindiaconsponsors: true
 ---
 
+## What's on networking table?
+Get in touch with other community members and share thoughts
+
+### How to join?
+![How to join table](graphics/1_discord_table.gif)
+
+### How to share screen?
+![How to share screen](graphics/2_discord_screen_sharing.gif)
 
 ## What’s in #cpp-trivia?
 We will be posting Questions related to ongoing talks, for discussion. Anyone can share their opinions or what you understand on that topic.
@@ -20,6 +28,8 @@ Have a question for the speaker, or got a problem? Message here, we will try to 
 ## What’s in #compile_my_code?
 Use this channel to test and compile your code.
 Read [this link](https://headlinedev.xyz/discord-compiler/tutorial.html){:target="_blank"} to know how to use compiler bot.
+
+![How to compile code](graphics/3_compile_code.gif)
 
 ## What’s in the #new-member-introduction? 
 Let us all know about what a great personality you have! Maybe you can find people with similar interests here, or can make new connections.
