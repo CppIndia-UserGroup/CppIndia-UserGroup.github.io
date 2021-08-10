@@ -17,7 +17,7 @@ The conference is scheduled for [**15th of August, 2021**](https://en.wikipedia.
 
 Due to the Coronavirus pandemic, this conference will happen virtually. We have chosen to host this conference on **Microsoft Teams**, which is a very popular tool for meeting and conferences these days.
 
-CppIndiaCon is a free online conference with **6 talks** from renowned experts in a single track. 
+CppIndiaCon is a **free online conference** with **6 talks** from renowned experts in a single track. 
 
 >Check [CppIndiaCon schedule](/conference/2021/schedule/){:target="_blank"}
 
