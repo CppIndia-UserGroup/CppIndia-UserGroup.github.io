@@ -32,6 +32,10 @@ sidebar:
         url: /_pages/about_us
       - title: "Contact Us"
         url: /_pages/contact/
+      - title: "Call For Speakers"
+        url: /callforspeakers/call_for_speakers/
+      # - title: "CppIndia Team"
+      #   url: /_pages/team/
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
@@ -43,7 +47,7 @@ sidebar:
         url: /conference/2021/speakers/speakers/  
       - title: "Sponsors Space"
         url: /conference/2021/Sponsor/
-      - title: "Networking in CppIndiaCon"
+      - title: "Networking"
         url: /conference/2021/networking/
   - title: CppIndiaCon Sponsors
     children:
