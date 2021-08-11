@@ -9,8 +9,14 @@ registerforCppIndiaCon: true
 cppindiaconsponsors: true
 ---
 
+## Platform
+
+[Discord](https://discord.gg/Wz42tX5){:target="_blank"} is our networking platform for CppIndiaCon 2021. Please join the server in advance and familirize yourself.
+
+During this conference, you will see several text channels and voice/video/screen sharing tables.
+
 ## What's on networking table?
-Get in touch with other community members and share thoughts
+Get in touch with other community members and share thoughts.
 
 ### How to join and switch tables?
 ![How to join table](graphics/1_discord_table.gif)

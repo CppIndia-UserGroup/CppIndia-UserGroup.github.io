@@ -15,7 +15,7 @@ CppIndiaCon is the first International conference hosted by the CppIndia communi
 
 The conference is scheduled for [**15th of August, 2021**](https://en.wikipedia.org/wiki/Independence_Day_(India)){:target="_blank"} which is CppIndia’s **first anniversary** as a C++ community and also the **Indian Independence Day**.
 
-Due to the Coronavirus pandemic, this conference will happen virtually. We have chosen to host this conference on **Microsoft Teams**, which is a very popular tool for meeting and conferences these days.
+Due to the Coronavirus pandemic, this conference will happen virtually. We have chosen to host this conference on **Zoom Webinar**, which is a very popular tool for meeting and conferences these days.
 
 CppIndiaCon is a **free online conference** with **6 talks** from renowned experts in a single track. 
 
