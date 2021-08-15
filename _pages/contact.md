@@ -36,4 +36,4 @@ speakers: false
 - [Vishal Chovatiya](https://www.linkedin.com/in/vishal-chovatiya-b7896484/ "https://www.linkedin.com/in/vishal-chovatiya-b7896484/"){:target="_blank"} 
 - [Kashish Nagpal](https://www.linkedin.com/in/mr-k-508823156 "https://www.linkedin.com/in/mr-k-508823156"){:target="_blank"} 
 - [Hemil Ruparel](https://www.linkedin.com/in/hemil-ruparel-2aa513166/ "https://www.linkedin.com/in/hemil-ruparel-2aa513166/"){:target="_blank"} 
-- [Anushree Khanna](https://www.linkedin.com/in/anushree-khanna-10419a179/ "https://www.linkedin.com/in/anushree-khanna-10419a179/"){:target="_blank"} 
+- [Anushree Khanna](https://www.linkedin.com/in/anushreekhanna/ "https://www.linkedin.com/in/anushree-khanna-10419a179/"){:target="_blank"} 
