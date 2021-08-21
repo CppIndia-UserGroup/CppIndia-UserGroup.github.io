@@ -39,8 +39,8 @@ sidebar:
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
-      - title: "Conference Registration"
-        url: /conference/2021/CppIndiaCon-reg-form/
+      # - title: "Conference Registration"
+      #   url: /conference/2021/CppIndiaCon-reg-form/
       - title: "Schedule"
         url: /conference/2021/schedule/
       - title: "Speakers"
@@ -49,7 +49,7 @@ sidebar:
         url: /conference/2021/Sponsor/
       - title: "Networking"
         url: /conference/2021/networking/
-  - title: CppIndiaCon Sponsors
+  - title: CppIndiaCon2021 Sponsors
     children:
       - title: CircuitSutra
         url: /conference/2021/sponsors/circuitsutra
