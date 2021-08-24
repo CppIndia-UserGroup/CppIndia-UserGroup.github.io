@@ -14,9 +14,6 @@ cppindiaconsponsors: false
 Register with CppIndia if not done to attend the event.
 [![P.3 Express Intent (1 of N)](assets\images\SessionPost\28022021.png "P.3 Express Intent (1 of N)")](/_pages/join_us)
 
-<!-- The next tech-talk for **17-Jul-21** will be announced shortly. Feel free to check out our past Tech-Talks from [2021](/TechTalk/2021){:target="_blank"} and [2020](/TechTalk/2020/){:target="_blank"}.-->
-
-<!--At CppIndia, we organise a Tech-Talk/Royal Code Roast/Community Fireside Chat every **alternate Saturday**.  -->
 ---
 
 To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_speakers/) form.
