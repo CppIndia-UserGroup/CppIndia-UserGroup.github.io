@@ -20,6 +20,12 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LsNRdkTZWG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ao1e4NcwAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Zjgcnskwlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Giveaway Sponsors
 
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} 
