@@ -7,12 +7,15 @@ registerforCppIndiaCon: true
 speakers: false
 cppindiaconsponsors: false
 ---
-<!-- Click on the "Join Us" button to register with the community
-[![Join Us](/assets/images/JoinUs.jpg "Join Us")](/_pages/join_us) -->
-## Next Event
+
+## Next Event 
+<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tptEvent%20is%20in%20Progress.../tpc000/iso2021-09-11T11:00:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
 
 Register with CppIndia if not done to attend the event.
+
 [![Nest Session](assets\images\SessionPost\session_banner.png "Nest Session")](/_pages/join_us)
+<script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+<script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
 
 ---
 
@@ -20,11 +23,11 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BED-4jLqbL0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LsNRdkTZWG4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ao1e4NcwAJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Zjgcnskwlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Giveaway Sponsors
 
