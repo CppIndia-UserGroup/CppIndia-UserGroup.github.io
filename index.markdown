@@ -12,7 +12,7 @@ cppindiaconsponsors: false
 ## Next Event
 
 Register with CppIndia if not done to attend the event.
-[![P.3 Express Intent (1 of N)](assets\images\SessionPost\28022021.png "P.3 Express Intent (1 of N)")](/_pages/join_us)
+[![Nest Session](assets\images\SessionPost\session_banner.png "Nest Session")](/_pages/join_us)
 
 ---
 
