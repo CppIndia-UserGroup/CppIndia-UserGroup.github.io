@@ -29,6 +29,20 @@ CircuitSutra is developing re-usable modelling infrastructure for the **RISC-V e
  
 **CircuitSutra's Mission** is to accelerate the adoption of ESL methodologies in the Industry.
 
+## Career Opportunity
+Do you have Strong Expertise in C, C++, OOPS, Data Structures, Algorithms ?
+
+And industry experience in any of the following:
+- Embedded Software, Device Drivers, Firmware, BSP
+- Semiconductor SoC Design / Verification  
+
+**Shift to ESL**: Put your career on the path of Faster Growth, Higher Value Creation & Breakthrough Technology Innovation 
+
+[Know More ..](https://www.circuitsutra.com/opportunities_esl_embedded.html){:target="_blank"}
+
+Send your resume to <hr@circuitsutra.com>, or [apply here](https://www.circuitsutra.com/opportunities.html){:target="_blank"}
+
+
 [![CircuitSutra](/assets/images/www.png "CircuitSutra")](https://www.circuitsutra.com/){:target="_blank"}
 [![CircuitSutra](/assets/images/linkedin.png "CircuitSutra")](https://www.linkedin.com/company/1013850/admin/){:target="_blank"}
 [![CircuitSutra](/assets/images/facebook.jpg "CircuitSutra")](https://www.facebook.com/CircuitSutra/){:target="_blank"}
