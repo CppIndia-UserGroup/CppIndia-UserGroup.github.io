@@ -16,27 +16,6 @@ Register with CppIndia if not done to attend the event.
 [![Nest Session](assets\images\SessionPost\session_banner.png "Nest Session")](/_pages/join_us)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
-
-\
-This morning we host\
-The Royal Code Roast\
-Check out the code\
-Just a few hours to ghost!
-
-The code is funky\
-The author calls it punky\
-It's an interpreter for\
-A language called Monkey!
-
-Mash up your ideas\
-As you share the dias\
-With an open learning mind\
-Exposing any bias
-
-Whether you like bread or toast\
-From the hills or coast\
-Join virtually and boast\
-Hope to meet you most
   
 ---
 
