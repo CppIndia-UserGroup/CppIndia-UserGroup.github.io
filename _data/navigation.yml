@@ -41,6 +41,8 @@ sidebar:
     children:
       # - title: "Conference Registration"
       #   url: /conference/2021/CppIndiaCon-reg-form/
+      - title: "CppIndiaCon 2021 Videos"
+        url: /_pages/CppIndiaCon2021Video/
       - title: "Schedule"
         url: /conference/2021/schedule/
       - title: "Speakers"
@@ -49,10 +51,10 @@ sidebar:
         url: /conference/2021/Sponsor/
       - title: "Networking"
         url: /conference/2021/networking/
-  - title: CppIndiaCon2021 Sponsors
-    children:
-      - title: CircuitSutra
-        url: /conference/2021/sponsors/circuitsutra
+  # - title: CppIndiaCon2021 Sponsors
+  #   children:
+  #     - title: CircuitSutra
+  #       url: /conference/2021/sponsors/circuitsutra
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
   # - title: Resources
