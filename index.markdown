@@ -13,6 +13,7 @@ cppindiaconsponsors: false
 
 Register with CppIndia if not done to attend the event.
 
+GitHub Repo for Roast: [https://gitlab.com/rahem027/stfu](https://gitlab.com/rahem027/stfu){:target="_blank"} 
 [![Nest Session](assets\images\SessionPost\session_banner.png "Nest Session")](/_pages/join_us)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
