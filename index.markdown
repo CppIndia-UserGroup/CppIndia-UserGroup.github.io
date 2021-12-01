@@ -9,7 +9,7 @@ cppindiaconsponsors: false
 ---
 
 ## Next Event 
-<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tptEvent%20is%20in%20Progress.../tpc000/iso2021-12-04T13:30:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tptEvent%20is%20in%20Progress.../tpc000/iso2021-12-04T11:00:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
 
 Register with CppIndia if not done to attend the event.
 
