@@ -38,6 +38,8 @@ sidebar:
       #   url: /_pages/team/
   - title: "Community Tech-Talks"
     children:
+      - title: "2022"
+        url: /TechTalk/2022/
       - title: "2021"
         url: /TechTalk/2021/
       - title: "2020"
