@@ -36,6 +36,14 @@ sidebar:
         url: /callforspeakers/call_for_speakers/
       # - title: "CppIndia Team"
       #   url: /_pages/team/
+  - title: "Community Tech-Talks"
+    children:
+      - title: "2022"
+        url: /TechTalk/2022/
+      - title: "2021"
+        url: /TechTalk/2021/
+      - title: "2020"
+        url: /TechTalk/2020/
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
@@ -64,12 +72,6 @@ sidebar:
   #     # url: /CppStandard/
   #     - title: "Articles & Blogs"
   #     # url: /ArticlesBlogs/
-  - title: "Community Tech-Talks"
-    children:
-      - title: "2021"
-        url: /TechTalk/2021/
-      - title: "2020"
-        url: /TechTalk/2020/
 
   # - title: "Community Activities"
   #   children:
