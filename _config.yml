@@ -20,7 +20,8 @@
 
 title: CppIndia
 name: "CppIndia"
-email: cppindiausergroup@gmail.com
+email: info@cppindia.co.in
+tagline: A C++ community from India.
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to CppIndia, a community for developers having mutual interest in C++.
 # baseurl: "/web" # the subpath of your site, e.g. /blog
@@ -41,7 +42,7 @@ github: [metadata]
 
 locale                   : "en-US"
 title_separator          : "-"
-logo                     : "/assets/images/symbol_.png"
+logo                     : "/assets/images/cppindia_logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 

@@ -9,6 +9,8 @@ main:
     url: https://www.facebook.com/CppIndiaUG
   - title: "Discord"
     url: https://discord.gg/Wz42tX5
+  - title: "YouTube"
+    url: https://www.youtube.com/channel/UCwB-WjSJI2D97YZcACFxJDw
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -19,38 +21,71 @@ main:
   #   url: /sitemap/
 
 sidebar:
+  #- title: Logo Contest
+  #  url: _pages/logocontest/
   - title: Home
     url: /
     children:
-      - title: "Join Us"
-        url: https://forms.gle/N4TZwqPW24kY1y4WA
+      - title: "Join CppIndia"
+        url: /_pages/join_us
       - title: "About Us"
-        url: /
+        url: /_pages/about_us
       - title: "Contact Us"
         url: /_pages/contact/
-  - title: Resources
-    # url: /TechTalk/2020/
+      - title: "Call For Speakers"
+        url: /callforspeakers/call_for_speakers/
+      # - title: "CppIndia Team"
+      #   url: /_pages/team/
+  - title: "Community Tech-Talks"
     children:
-      - title: "Tech-Talks 2020"
-        url: /TechTalk/2020/
-      - title: "Tech-Talks 2021"
+      - title: "2022"
+        url: /TechTalk/2022/
+      - title: "2021"
         url: /TechTalk/2021/
-  - title: Sponsors
-    # url: /Sponsers/Sponsor/
+      - title: "2020"
+        url: /TechTalk/2020/
+  - title: CppIndiaCon 2021
+    url: /conference/2021/conference_home/
     children:
-      - title: "Community Sponsors"
-        url: /Sponsors/Sponsor/
-  - title: Session schedule
-    url: https://docs.google.com/spreadsheets/d/1xE_MINL8qqNk9XBB6aUv-JdcciY4qGZSO7etEccYCb0/edit?usp=sharing
-    # children:
-    #   - title: "Community Sponsors"
-    #     url: /Sponsors/Sponsor/
-
-  # - title: Conferences and Events
-  #   url: /conferences/
+      # - title: "Conference Registration"
+      #   url: /conference/2021/CppIndiaCon-reg-form/
+      - title: "CppIndiaCon 2021 Videos"
+        url: /_pages/CppIndiaCon2021Video/
+      - title: "Schedule"
+        url: /conference/2021/schedule/
+      - title: "Speakers"
+        url: /conference/2021/speakers/speakers/  
+      - title: "Sponsors Space"
+        url: /conference/2021/Sponsor/
+      - title: "Networking"
+        url: /conference/2021/networking/
+  # - title: CppIndiaCon2021 Sponsors
   #   children:
-  #     - title: "Attending"
-  #       url: /conferences/attending-conferences/
+  #     - title: CircuitSutra
+  #       url: /conference/2021/sponsors/circuitsutra
+  - title: Code Of Conduct
+    url: CodeOfConduct/codeofconduct
+  # - title: Resources
+  #   # url: /Resources/
+  #   children:
+  #     - title: "The C++ Standard"
+  #     # url: /CppStandard/
+  #     - title: "Articles & Blogs"
+  #     # url: /ArticlesBlogs/
+
+  # - title: "Community Activities"
+  #   children:
+  #     - title: "Royal Code Roast"
+  #     # url: /RoyalCodeRoast/
+  #     - title: "Community Fireside Chat"
+  #     # url: /CommunityFiresideChat/
+  # - title: Session Schedule
+  # url: /TechTalk/schedule/
+  # - title: Call For Speakers
+  #   url: /callforspeakers/call_for_speakers/
+  # - title: Sponsors
+  #   url: /Sponsors/Sponsor/
+ 
   #     - title: "Scholarships"
   #       url: /conferences/scholarships/
   #     - title: "Organising"
