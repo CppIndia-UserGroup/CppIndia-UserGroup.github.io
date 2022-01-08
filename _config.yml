@@ -100,18 +100,18 @@ analytics:
 
 # Site Author
 author:
-  # name             : "CppIndia"
+  name             : "Dheeraj Jha"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :
   location         :
-  email            :
+  email            : "contact@jhadheeraj.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.jhadheeraj.com/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

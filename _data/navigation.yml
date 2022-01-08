@@ -34,8 +34,8 @@ sidebar:
         url: /_pages/contact/
       - title: "Call For Speakers"
         url: /callforspeakers/call_for_speakers/
-      # - title: "CppIndia Team"
-      #   url: /_pages/team/
+      - title: "CppIndia Team"
+        url: /_pages/team/
   - title: "Community Tech-Talks"
     children:
       - title: "2022"
@@ -44,34 +44,36 @@ sidebar:
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
+      - title: Session Schedule
+        url: /TechTalk/schedule/
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:
       # - title: "Conference Registration"
       #   url: /conference/2021/CppIndiaCon-reg-form/
       - title: "CppIndiaCon 2021 Videos"
-        url: /_pages/CppIndiaCon2021Video/
-      - title: "Schedule"
-        url: /conference/2021/schedule/
+        url: /conference/2021/CppIndiaCon2021Video/
+      # - title: "Schedule"
+      #   url: /conference/2021/schedule/
       - title: "Speakers"
         url: /conference/2021/speakers/speakers/  
-      - title: "Sponsors Space"
-        url: /conference/2021/Sponsor/
-      - title: "Networking"
-        url: /conference/2021/networking/
+      # - title: "Sponsors Space"
+      #   url: /conference/2021/Sponsor/
+      # - title: "Networking"
+      #   url: /conference/2021/networking/
   # - title: CppIndiaCon2021 Sponsors
   #   children:
   #     - title: CircuitSutra
   #       url: /conference/2021/sponsors/circuitsutra
   - title: Code Of Conduct
     url: CodeOfConduct/codeofconduct
-  # - title: Resources
-  #   # url: /Resources/
-  #   children:
-  #     - title: "The C++ Standard"
-  #     # url: /CppStandard/
-  #     - title: "Articles & Blogs"
-  #     # url: /ArticlesBlogs/
+  - title: Resources
+    # url: /resources/resources
+    children:
+      - title: "Articles & Blogs "
+        url: /resources/resources
+      - title: "Book/Blogs/Video of the month "
+        url: /resources/resource_of_month
 
   # - title: "Community Activities"
   #   children:

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Schedule[In Progress]
+title: Upcoming Schedule Talks
 permalink: /TechTalk/schedule/
 toc: false
 widget: true
