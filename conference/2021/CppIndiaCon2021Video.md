@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CppIndiaCon 2021 Videos
-permalink: /_pages/CppIndiaCon2021Video/
+permalink: /conference/2021/CppIndiaCon2021Video/
 toc: false
 widget: true
 # classes: wide
