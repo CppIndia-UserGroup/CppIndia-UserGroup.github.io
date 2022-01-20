@@ -16,8 +16,6 @@ Register with CppIndia if not done to attend the event.
 <iframe src="https://cppindia-my.sharepoint.com/personal/info_cppindia_co_in/_layouts/15/Doc.aspx?sourcedoc={932631cc-08c3-44be-8197-2dfad8cd4961}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="650px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
-
-
 ---
 
 To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_speakers/) form.
