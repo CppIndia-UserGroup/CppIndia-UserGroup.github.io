@@ -13,7 +13,7 @@ cppindiaconsponsors: false
 
 Register with CppIndia if not done to attend the event.
 
-<iframe src="https://cppindia-my.sharepoint.com/personal/info_cppindia_co_in/_layouts/15/Doc.aspx?sourcedoc={932631cc-08c3-44be-8197-2dfad8cd4961}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="650px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+[![Next Session](assets\images\SessionPost\session_banner.png "Next Session")](/_pages/join_us)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
 
