@@ -5,7 +5,35 @@ permalink: /TechTalk/schedule/
 toc: false
 widget: true
 registerforCppIndiaCon: true
-speakers: true
+speakers: false
 ---
 
-[Schedule](https://cppindia-my.sharepoint.com/:x:/g/personal/info_cppindia_co_in/EQJepTZlslRBv4yLhCTUA2IBd9Mh84t9lMaMVKAoEoxOsg?e=fJopuT){:target="_blank"}
+<iframe width="659" height="730" frameborder="0" scrolling="no" src="https://cppindia-my.sharepoint.com/personal/info_cppindia_co_in/_layouts/15/Doc.aspx?sourcedoc={36a55e02-b265-4154-bf8c-8b8424d40362}&action=embedview&wdAllowInteractivity=False&Item='Sheet1'!A1%3AC35&wdHideGridlines=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
