@@ -16,8 +16,6 @@ Register with CppIndia if not done to attend the event.
 [![Next Session](assets\images\SessionPost\session_banner.png "Next Session")](/_pages/join_us)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
-
-
 ---
 
 To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_speakers/) form.
