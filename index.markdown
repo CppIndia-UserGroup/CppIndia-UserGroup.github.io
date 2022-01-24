@@ -16,6 +16,7 @@ Register with CppIndia if not done to attend the event.
 [![Next Session](assets\images\SessionPost\session_banner.png "Next Session")](/_pages/join_us)
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
+
 ---
 
 To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_speakers/) form.
@@ -23,12 +24,13 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPAve0s5zXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zULfe3N7Q00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DyQcX5UmTFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JCzxuZvHHs8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
+
 ## Giveaway Sponsors
 
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} 
