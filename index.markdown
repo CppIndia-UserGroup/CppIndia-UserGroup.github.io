@@ -9,7 +9,7 @@ cppindiaconsponsors: false
 ---
 
 ## Next Event In
-<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tpc000/iso2022-03-12T13:00:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
+<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tpc000/iso2022-03-26T11:00:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
 
 Register with CppIndia if not done to attend the event.
 
@@ -24,11 +24,11 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WgKQhhhsOgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MFpWGC7AAO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gF2_cSNKjmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPAve0s5zXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## Giveaway Sponsors
