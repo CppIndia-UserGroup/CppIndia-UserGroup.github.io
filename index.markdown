@@ -7,13 +7,23 @@ registerforCppIndiaCon: true
 speakers: false
 cppindiaconsponsors: false
 ---
-
-## Next Event In
-<iframe src="https://free.timeanddate.com/countdown/i7z3j8q4/n438/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pcfff/tcfff/fs100/szw448/szh189/tat%20/tac000/tpc000/iso2022-03-26T11:00:00/pa5" allowtransparency="true" frameborder="0" width="281" height="77"></iframe>
+<div id="event-timer" data-event-date="March 26, 2022 11:00:00+05:30" data-event-duration="60">
+    <h2 id="event-heading">Next Event</h2>
+    <p style="text-align: center;font-size: 1.5em;">
+        <strong id="event-countdown-timer"></strong>
+    </p>
+</div>
 
 Register with CppIndia if not done to attend the event.
 
-[![Next Session](assets\images\SessionPost\session_banner.png "Next Session")](/_pages/join_us)
+<a href="/_pages/join_us" id="session-banner" style="display:none;">
+    <img src="assets\images\SessionPost\session_banner.png" alt="Next Session" title="Next Session">
+</a>
+
+<a href="/_pages/join_us" id="coming-soon-banner" style="display:block;">
+    <img src="assets\images\SessionPost\coming_soon_banner.png" alt="Coming Soon!" title="Coming Soon">
+</a>
+
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
 <script type="IN/Share" data-url="https://www.cppindia.co.in"></script>
 
@@ -40,12 +50,3 @@ Have a suggestion for us, let us know at <info@cppindia.co.in>.
 [![Meeting C++](/Sponsors/meeting_cpp.png "Meeting C++")](https://www.meetingcpp.com){:target="_blank"} 
 [![SwedenCpp](/Sponsors/SwedenCppOfficial.png "SwedenCpp")](https://www.swedencpp.se){:target="_blank"} 
 [![#include ＜C++＞](/Sponsors/include_logo.png "#include ＜C++＞")](https://www.includecpp.org/){:target="_blank"} 
-
-
-<pre>
-
-
-
-
-
-</pre>
