@@ -299,3 +299,6 @@ defaults:
       comments: false # true
       share: true
       related: true
+
+footer_scripts:
+  - /assets/js/event_countdown_timer.js
