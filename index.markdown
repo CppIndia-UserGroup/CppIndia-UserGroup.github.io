@@ -7,7 +7,10 @@ registerforCppIndiaCon: true
 speakers: false
 cppindiaconsponsors: false
 ---
-<div id="event-timer" data-event-date="March 26, 2022 11:00:00+05:30" data-event-duration="60">
+
+[//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
+
+<div id="event-timer" data-event-date="2022-03-26T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event</h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
