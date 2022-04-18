@@ -3,14 +3,15 @@ toc: false
 layout: home
 title: <center>India's very own C++ Community
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
+joinCppIndia: true
 speakers: false
 cppindiaconsponsors: false
 ---
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2022-03-26T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2022-04-23T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event</h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>

@@ -5,7 +5,8 @@ permalink: /conference/2021/speakers/jonkalb/
 toc: false
 widget: false
 speakers: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
+joinCppIndia: true
 cppindiaconsponsors: true
 ---
 

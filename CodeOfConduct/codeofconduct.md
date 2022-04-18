@@ -4,7 +4,8 @@ title: Code Of Conduct
 permalink: CodeOfConduct/codeofconduct
 toc: false
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
+joinCppIndia: true
 ---
 
 ## Code Of Conduct
