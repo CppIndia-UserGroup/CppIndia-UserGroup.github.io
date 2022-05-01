@@ -21,11 +21,11 @@
 title: CppIndia
 name: "CppIndia"
 email: info@cppindia.co.in
-tagline: A C++ community from India.
+tagline: India's very own C++ Community.
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to CppIndia, a community for developers having mutual interest in C++.
 # baseurl: "/web" # the subpath of your site, e.g. /blog
-url: https://cppindia-usergroup.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.cppindia.co.in # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  CppIndia-UserGroup
 
@@ -82,7 +82,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "/assets/images/logo.png"
+og_image                 : "/assets/images/cppindia_logo.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -101,14 +101,14 @@ analytics:
 # Site Author
 author:
   name             : "Dheeraj Jha"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/dheeraj.png" # path of avatar image, e.g. "/assets/images/dheeraj.png"
   bio              :
   location         :
   email            : "contact@jhadheeraj.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:contact@jhadheeraj.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.jhadheeraj.com/"
