@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">A C++ festival of India.
+title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">The C++ festival of India.
 permalink: /conference/2022/conference_home/
 toc: false
 widget: true
@@ -12,14 +12,15 @@ cppindiaconsponsors: false
 
 [![CppIndiaCon](/conference/2022/graphics/CpIndiaCon2022.png "CppIndiaCon2022")](/conference/2022/CppIndiaCon-reg-form/)
 
-CppIndiaCon - A C++ festival of India. is back!  
+CppIndiaCon - The C++ festival of India is back!  
 
 CppIndiaCon is India's premier International Conference hosted by the [CppIndia](/_pages/about_us){:target="_blank"} community. CppIndia is excited to announce it's 2nd International Conference on **6th August 2022**.
 
 For our inaugural conference last year, we had talks from the greats of C++, including Bjarne Stroustrup, Bryce Lelbach, and Jon Kalb. [CppIndiaCon 2021 Speakers](/conference/2021/speakers/speakers/){:target="_blank"}
 
 This year again, CppIndiaCon is going to be a **free online conference** with talks from renowned experts but would require mandatory registration.
-We are exploring the platform for the conference. Keep tuned in to get update.
+
+We are exploring the platform for the conference. Stay tuned in to get updates.
 
 >If you want to attend this conference, please [register here](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}.
 
@@ -33,7 +34,7 @@ This conference will also give you an opportunity to network with other attendee
 >We will be using [**Discord**](https://discord.gg/Wz42tX5){:target="_blank"} for networking. 
 There will be many **voice tables**, open for you to join and discuss with other members on this table.
 
-CppIndia also invite you to submit your talks for the conference CppIndiaCon 2022. It will be an exciting experience to share the stage with renowned speakers.
+CppIndia would also like to invite you to submit your talk for the CppIndiaCon 2022. Get a chance to share the stage with renowned speakers!
 
 >[Call For Speakers](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}
 
