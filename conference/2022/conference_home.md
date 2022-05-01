@@ -19,6 +19,7 @@ CppIndiaCon is India's premier International Conference hosted by the [CppIndia]
 For our inaugural conference last year, we had talks from the greats of C++, including Bjarne Stroustrup, Bryce Lelbach, and Jon Kalb. [CppIndiaCon 2021 Speakers](/conference/2021/speakers/speakers/){:target="_blank"}
 
 This year again, CppIndiaCon is going to be a **free online conference** with talks from renowned experts but would require mandatory registration.
+
 We are exploring the platform for the conference. Stay tuned in to get updates.
 
 >If you want to attend this conference, please [register here](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}.
