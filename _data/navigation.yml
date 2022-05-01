@@ -46,11 +46,13 @@ sidebar:
         url: /TechTalk/2020/
       - title: Session Schedule
         url: /TechTalk/schedule/
-  # - title: CppIndiaCon 2022
-    # url: /conference/2022/conference_home/
-    # children:
-      # - title: "Conference Registration"
-        # url: /conference/2022/CppIndiaCon-reg-form/
+  - title: CppIndiaCon 2022
+    url: /conference/2022/conference_home/
+    children:
+      - title: "Conference Registration"
+        url: /conference/2022/CppIndiaCon-reg-form/
+      - title: "Call For Speakers"
+        url: /conference/2022/call-for-speakers/
       #- title: "CppIndiaCon 2022 Videos"
       #  url: /conference/2022/CppIndiaCon2022Video/
   #     - title: "Schedule"
