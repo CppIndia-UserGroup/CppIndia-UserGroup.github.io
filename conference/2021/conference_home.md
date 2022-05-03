@@ -4,9 +4,9 @@ title: <h1 style="font-size:2.5em"><center>CppIndiaCon</center></h1><center><p s
 permalink: /conference/2021/conference_home/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: true
-cppindiaconsponsors: true
+cppindiaconsponsors: false
 ---
 
 [![CppIndiaCon](/conference/2021/graphics/cppindiacon_banner.png "CppIndiaCon")](/conference/2021/CppIndiaCon-reg-form/)

@@ -3,11 +3,11 @@ layout: single
 title: Bryce Adelstein Lelbach
 permalink: /conference/2021/speakers/bryce/
 toc: false
-widget: false
-speakers: true
-registerforCppIndiaCon: false
+widget: true
+speakers: false
+registerforCppIndiaCon: true
 joinCppIndia: true
-cppindiaconsponsors: true
+cppindiaconsponsors: false
 ---
 
 ![Bryce Adelstein Lelbach](/conference/2021/graphics/bryce.jpg "Bryce Adelstein Lelbach")

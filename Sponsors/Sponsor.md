@@ -4,7 +4,7 @@ title: Sponsors Space
 permalink: /Sponsors/Sponsor/
 toc: true
 widget: true
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 ---
 

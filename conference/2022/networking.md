@@ -4,10 +4,10 @@ title: Networking during CppIndiaCon
 permalink: /conference/2022/networking/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
+speakers: false
+registerforCppIndiaCon: true
 joinCppIndia: true
-cppindiaconsponsors: true
+cppindiaconsponsors: false
 ---
 
 ## Platform
