@@ -4,7 +4,7 @@ title: Upcoming Schedule Talks
 permalink: /TechTalk/schedule/
 toc: false
 widget: true
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 speakers: false
 ---

@@ -6,9 +6,9 @@ toc: false
 widget: true
 # classes: wide
 speakers: false
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
-cppindiaconsponsors: true
+cppindiaconsponsors: false
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FlJh5KvatSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

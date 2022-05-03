@@ -4,9 +4,9 @@ title: CircuitSutra
 permalink: /conference/2022/sponsors/circuitsutra
 toc: false
 widget: true
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
-cppindiaconsponsors: true
+cppindiaconsponsors: false
 ---
 
 [![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")](https://www.circuitsutra.com/){:target="_blank"}
