@@ -5,6 +5,7 @@ permalink: /resources/resource_of_month
 toc: false
 widget: true
 registerforCppIndiaCon: true
+joinCppIndia: true
 speakers: false
 
 ---

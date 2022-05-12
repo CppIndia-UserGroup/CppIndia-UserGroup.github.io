@@ -5,6 +5,7 @@ permalink: /TechTalk/schedule/
 toc: false
 widget: true
 registerforCppIndiaCon: true
+joinCppIndia: true
 speakers: false
 ---
 

@@ -5,6 +5,7 @@ permalink: /resources/resources
 toc: false
 widget: true
 registerforCppIndiaCon: true
+joinCppIndia: true
 speakers: false
 
 ---

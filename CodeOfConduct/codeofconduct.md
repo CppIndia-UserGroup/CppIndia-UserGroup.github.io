@@ -5,6 +5,7 @@ permalink: CodeOfConduct/codeofconduct
 toc: false
 widget: true
 registerforCppIndiaCon: true
+joinCppIndia: true
 ---
 
 ## Code Of Conduct
