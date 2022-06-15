@@ -11,7 +11,7 @@ cppindiaconsponsors: false
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2022-06-04T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2022-06-18T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event</h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
@@ -21,11 +21,11 @@ cppindiaconsponsors: false
 Register with CppIndia if not done to attend the event.
 
 <a href="/_pages/join_us" id="session-banner" style="display:none;">
-    <img src="assets\images\SessionPost\session_banner.png" alt="Next Session" title="Next Session">
+    <img src="assets\images\SessionPost\session_banner.jpg" alt="Next Session" title="Next Session">
 </a>
 
 <a href="/_pages/join_us" id="coming-soon-banner" style="display:block;">
-    <img src="assets\images\SessionPost\coming_soon_banner.png" alt="Coming Soon!" title="Coming Soon">
+    <img src="assets\images\SessionPost\coming_soon_banner.jpg" alt="Coming Soon!" title="Coming Soon">
 </a>
 
 <script src="https://platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
@@ -38,11 +38,11 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/25bFsPV6IGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8q42RTzL48k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ipc602i_rKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C0cViWm4Wjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fotN5WSa7Y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b49WNBwaDas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 ## Giveaway Sponsors
