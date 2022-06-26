@@ -1,6 +1,7 @@
 ---
 layout: single
 title: CircuitSutra
+title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">Gold Sponsor
 permalink: /conference/2022/sponsors/circuitsutra
 toc: false
 widget: true

@@ -1,6 +1,7 @@
 ---
 layout: single
-title: CppIndiaCon Sponsors Space
+# title: CppIndiaCon2022 Sponsors Space
+title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">Sponsorship plan
 permalink: /conference/2022/Sponsor/
 toc: false
 widget: true
@@ -9,7 +10,7 @@ joinCppIndia: true
 speakers: false
 cppindiaconsponsors: false
 ---
-CppIndiaCon 2021 Conference is accepting Gold and Silver sponsorship plans as below:
+CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 
 #### Social Media & Promotion
 
@@ -58,8 +59,8 @@ CppIndiaCon 2021 Conference is accepting Gold and Silver sponsorship plans as be
 | Dedicated sponsor’s page on CppIndia | Y | - |	
 
 ## Sponsorship Cost
-Gold Sponsorship: Rs.30000/-
-<br>Silver Sponsorship: Rs.25000/-
+Gold Sponsorship: Rs.40000/-
+<br>Silver Sponsorship: Rs.35000/-
 
 Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
 
