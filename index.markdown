@@ -38,7 +38,7 @@ To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_spe
 Have a suggestion for us, let us know at <info@cppindia.co.in>.
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8q42RTzL48k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WX9DjeCWDbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0cViWm4Wjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
