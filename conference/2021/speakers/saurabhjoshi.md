@@ -3,10 +3,11 @@ layout: single
 title: Saurabh Joshi
 permalink: /conference/2021/speakers/saurabhjoshi/
 toc: false
-widget: false
-speakers: true
+widget: true
+speakers: false
 registerforCppIndiaCon: true
-cppindiaconsponsors: true
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 ![Saurabh Joshi](/conference/2021/graphics/saurabhjoshi.jpg "Saurabh Joshi")

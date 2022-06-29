@@ -5,6 +5,7 @@ permalink: /Sponsors/Sponsor/
 toc: true
 widget: true
 registerforCppIndiaCon: true
+joinCppIndia: true
 ---
 
 ## How to sponsor CppIndia
