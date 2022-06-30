@@ -44,8 +44,6 @@ sidebar:
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
-      - title: Session Schedule
-        url: /TechTalk/schedule/
   - title: CppIndiaCon 2022
     #url: /conference/2022/conference_home/
     children:
