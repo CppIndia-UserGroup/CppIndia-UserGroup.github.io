@@ -47,8 +47,10 @@ sidebar:
       - title: Session Schedule
         url: /TechTalk/schedule/
   - title: CppIndiaCon 2022
-    url: /conference/2022/conference_home/
+    #url: /conference/2022/conference_home/
     children:
+      - title: "Conference Home"
+        url: /conference/2022/conference_home/
       - title: "Conference Registration"
         url: /conference/2022/CppIndiaCon-reg-form/
       - title: "Call For Speakers"
@@ -91,9 +93,11 @@ sidebar:
   - title: Resources
     # url: /resources/resources
     children:
-      - title: "Articles & Blogs "
+      - title: "C++ Language & References"
         url: /resources/resources
-      - title: "Book/Blogs/Video of the month "
+      - title: "Articles & Blogs"
+        url: /resources/articles_blogs.md
+      - title: "Book/Blogs/Video of the month"
         url: /resources/resource_of_month
 
   # - title: "Community Activities"
