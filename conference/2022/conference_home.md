@@ -35,7 +35,7 @@ There will be many **voice and video tables**, open for you to join, discuss and
 
 CppIndia also invites you to submit your talk for the CppIndiaCon 2022. Do capitalize on the chance to share the stage with renowned speakers and make an impact yourself!
 
->[Call For Speakers](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}
+>[Call For Speakers](/conference/2022/call-for-speakers/){:target="_blank"}
 
 ## About CppIndia 
 
