@@ -11,13 +11,13 @@ joinCppIndia: true
 cppindiaconsponsors: false
 ---
 
-|---|---|---|
+|----|----|----|
 |  |  |  |
-| [![Ankur M Satle](/conference/2021/graphics/ankur.jpg "Ankur M Satle")](/conference/2021/speakers/ankur/) | [![Bjarne Stroustrup](/conference/2021/graphics/bjarne.jpg "Bjarne Stroustrup")](/conference/2021/speakers/bjarne/) | [![Bryce Adelstein Lelbach](/conference/2021/graphics/bryce.jpg "Bryce Adelstein Lelbach")](/conference/2021/speakers/bryce/) |
-| [Ankur M Satle](/conference/2021/speakers/ankur/) | [Bjarne Stroustrup](/conference/2021/speakers/bjarne/) | [Bryce Adelstein Lelbach](/conference/2021/speakers/bryce/) |
+| [![Inbal Levi](/assets/images/cppindia_logo.png "Inbal Levi")](/conference/2022/speakers/speakers/) | [![Mahendra Garodi](/assets/images/cppindia_logo.png "Mahendra Garodi")](/conference/2022/speakers/speakers/) | [![Selvakumar Jawahar](/assets/images/cppindia_logo.png "Selvakumar Jawahar")](/conference/2022/speakers/speakers/) |
+| [Inbal Levi](/conference/2022/speakers/speakers/) | [Mahendra Garodi](/conference/2022/speakers/speakers/) | [Selvakumar Jawahar](/conference/2022/speakers/speakers/) |
 |  |  |  |
-| [![Harishankar Singh](/conference/2021/graphics/hari.jpg "Harishankar Singh")](/conference/2021/speakers/harishankar/) | [![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")](/conference/2021/speakers/jonkalb/) | [![Saurabh Joshi](/conference/2021/graphics/saurabhjoshi.jpg "Saurabh Joshi")](/conference/2021/speakers/saurabhjoshi/) |
-| [Harishankar Singh](/conference/2021/speakers/harishankar/) | [Jon Kalb](/conference/2021/speakers/jonkalb/) | [Saurabh Joshi](/conference/2021/speakers/saurabhjoshi/) |
+| [![Greg Law](/assets/images/cppindia_logo.png "Greg Law")](/conference/2022/speakers/speakers/) | [![Ankur M Satle](/assets/images/cppindia_logo.png "Ankur M Satle")](/conference/2021/speakers/ankur/) |  |
+| [Greg Law](/conference/2022/speakers/speakers/) | [Ankur M Satle](/conference/2022/speakers/speakers/) |  |
 
 <pre>
 
