@@ -51,14 +51,14 @@ sidebar:
         url: /conference/2022/conference_home/
       - title: "Conference Registration"
         url: /conference/2022/CppIndiaCon-reg-form/
-      - title: "Call For Speakers"
-        url: /conference/2022/call-for-speakers/
-      - title: "Call For Volunteer"
-        url: /conference/2022/call-for-volunteer/
+      # - title: "Call For Speakers"
+      #   url: /conference/2022/call-for-speakers/
+      # - title: "Call For Volunteer"
+      #   url: /conference/2022/call-for-volunteer/
       #- title: "CppIndiaCon 2022 Videos"
       #  url: /conference/2022/CppIndiaCon2022Video/
-  #     - title: "Schedule"
-  #       url: /conference/2022/schedule/
+      - title: "Schedule"
+        url: /conference/2022/schedule/
   #     - title: "Speakers"
   #       url: /conference/2022/speakers/speakers/  
       - title: "Sponsorship plan"
