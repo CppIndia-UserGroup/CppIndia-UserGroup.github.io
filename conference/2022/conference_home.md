@@ -26,11 +26,11 @@ Like last year, CppIndiaCon 2022 shall be a **free online conference** despite t
 
 We are exploring the platform for the conference. Stay tuned to get updates.
 
-This year's schedule has been improvised based on feedback from last year. As against six talks & AMAs in 2021, this year, we are going to have a single track of five talks. This enabled us to increase the Networking time between talks to 30-min, doubling it from CppIndiaCon 2021. The community shall greatly be benefitted by the intense topics at the tech-talks and the close networking opportunity that the conference brings.
+This year's schedule has been improvised based on feedback from last year. As against six talks & AMAs in 2021, this year, we are going to have a single track of five talks. This enabled us to increase the Networking time between talks to 30-min, doubling it from CppIndiaCon 2021. The community shall greatly be benefitted by the intense topics at the tech-talks and the close networking opportunities that the conference brings.
 
 >Check out the [CppIndiaCon 2022 Schedule](/conference/2022/schedule/).
 
-Be prepared and try not to get stumped by the C++ trivia googlies that our team of enthusiastic volunteers have prepared for you unsuspecting attendees! There shall be prizes to be won from our Gold Sponsors. Do check out their pages and their products.
+Be prepared and try not to get stumped by the C++ trivia googlies that our [team of enthusiastic volunteers](/_pages/team) have prepared for you unsuspecting attendees! There shall be prizes to be won from our Gold Sponsors. Do check out their pages and their products.
 
 Our Gold Sponsors will also have a table set-up during the conference for direct connect with the community. You may try out their products, solutions and offering. Have your resumes handy to make the most of the opportunity.
 
