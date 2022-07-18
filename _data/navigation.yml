@@ -47,9 +47,9 @@ sidebar:
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
-      - title: "Conference Home"
+      - title: "Home"
         url: /conference/2022/conference_home/
-      - title: "Conference Registration"
+      - title: "Registration"
         url: /conference/2022/CppIndiaCon-reg-form/
       # - title: "Call For Speakers"
       #   url: /conference/2022/call-for-speakers/
