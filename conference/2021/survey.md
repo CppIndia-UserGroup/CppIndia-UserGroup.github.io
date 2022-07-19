@@ -5,9 +5,9 @@ title: "Event feedback survey"
 permalink: /conference/2021/survey/
 widget: true
 registerforCppIndiaCon: true
-joinCppIndia: true
+joinCppIndia: false
 sponsors: true
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 {% include CppIndiaCon-survey.html %}

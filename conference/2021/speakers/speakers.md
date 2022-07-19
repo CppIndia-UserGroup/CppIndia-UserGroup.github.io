@@ -5,10 +5,10 @@ permalink: /conference/2021/speakers/speakers/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 
 |---|---|---|

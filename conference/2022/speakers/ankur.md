@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Ankur Satle
-permalink: /conference/2021/speakers/ankur/
+permalink: /conference/2022/speakers/ankur/
 toc: false
 widget: true
 speakers: true
@@ -10,7 +10,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 
-![Ankur Satle](/conference/2021/graphics/ankur.jpg "Ankur Satle")
+![Ankur Satle](/conference/2022/graphics/ankur.png "Ankur Satle")
 
 **Ankur Satle** is an **Architect** working on **Telecom products** at EXFO. He has extensively worked on high-performance **VoIP, 3G/4G/IMS protocols, Network Monitoring, OSS/BSS** monolith & distributed systems in his 18+ years of experience. 
 

@@ -5,10 +5,10 @@ permalink: /_pages/team/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 
 ## Founder

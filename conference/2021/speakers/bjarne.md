@@ -4,10 +4,10 @@ title: Bjarne Stroustrup
 permalink: /conference/2021/speakers/bjarne/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 
 ![Bjarne Stroustrup](/conference/2021/graphics/bjarne.jpg "Bjarne Stroustrup")

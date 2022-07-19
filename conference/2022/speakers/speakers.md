@@ -5,21 +5,57 @@ permalink: /conference/2022/speakers/speakers/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 
-|----|----|----|
+|:----:|:----:|:----:|
 |  |  |  |
-| [![Inbal Levi](/assets/images/cppindia_logo.png "Inbal Levi")](/conference/2022/speakers/speakers/) | [![Mahendra Garodi](/assets/images/cppindia_logo.png "Mahendra Garodi")](/conference/2022/speakers/speakers/) | [![Selvakumar Jawahar](/assets/images/cppindia_logo.png "Selvakumar Jawahar")](/conference/2022/speakers/speakers/) |
-| [Inbal Levi](/conference/2022/speakers/speakers/) | [Mahendra Garodi](/conference/2022/speakers/speakers/) | [Selvakumar Jawahar](/conference/2022/speakers/speakers/) |
+| [![Inbal Levi](/conference/2022/graphics/inbal.png "Inbal Levi")](/conference/2022/speakers/inbal/) | [![Mahendra Garodi](/conference/2022/graphics/mahendra.png "Mahendra Garodi")](/conference/2022/speakers/mahendra/) | [![Selvakumar Jawahar](/conference/2022/graphics/selvakumar.png "Selvakumar Jawahar")](/conference/2022/speakers/selvakumar/) |
+| [Inbal Levi](/conference/2022/speakers/inbal/) | [Mahendra Garodi](/conference/2022/speakers/mahendra/) | [Selvakumar Jawahar](/conference/2022/speakers/selvakumar/) |
 |  |  |  |
-| [![Greg Law](/assets/images/cppindia_logo.png "Greg Law")](/conference/2022/speakers/speakers/) | [![Ankur M Satle](/assets/images/cppindia_logo.png "Ankur M Satle")](/conference/2021/speakers/ankur/) |  |
-| [Greg Law](/conference/2022/speakers/speakers/) | [Ankur M Satle](/conference/2022/speakers/speakers/) |  |
+| [![Dr. Greg Law](/conference/2022/graphics/greg.png "Dr. Greg Law")](/conference/2022/speakers/greg/) | [![Ankur M Satle](/conference/2022/graphics/ankur.png "Ankur M Satle")](/conference/2022/speakers/ankur/) |  |
+| [Dr. Greg Law](/conference/2022/speakers/greg/) | [Ankur M Satle](/conference/2022/speakers/ankur/) |  |
 
 <pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
