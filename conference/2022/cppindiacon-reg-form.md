@@ -7,7 +7,7 @@ widget: true
 registerforCppIndiaCon: true
 joinCppIndia: false
 sponsors: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 {% include CppIndiaCon-reg-form.html %}

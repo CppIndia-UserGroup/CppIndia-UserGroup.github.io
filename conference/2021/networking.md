@@ -4,9 +4,9 @@ title: Networking during CppIndiaCon
 permalink: /conference/2021/networking/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ## Platform

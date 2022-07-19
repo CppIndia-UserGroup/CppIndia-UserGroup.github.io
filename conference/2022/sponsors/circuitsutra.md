@@ -6,8 +6,8 @@ permalink: /conference/2022/sponsors/circuitsutra
 toc: false
 widget: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 
 [![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")](https://www.circuitsutra.com/){:target="_blank"}

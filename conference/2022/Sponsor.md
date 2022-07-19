@@ -6,9 +6,9 @@ permalink: /conference/2022/Sponsor/
 toc: false
 widget: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-speakers: false
-cppindiaconsponsors: false
+joinCppIndia: false
+speakers: true
+cppindiaconsponsors: true
 ---
 CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 

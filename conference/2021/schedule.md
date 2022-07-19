@@ -4,9 +4,9 @@ title: CppIndiaCon Schedule
 permalink: /conference/2021/schedule/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->
 

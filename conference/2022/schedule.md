@@ -4,15 +4,15 @@ title: CppIndiaCon Schedule
 permalink: /conference/2022/schedule/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-cppindiaconsponsors: false
+joinCppIndia: false
+cppindiaconsponsors: true
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->
 
 | Time(IST)     |  Topic        | Presenter | Abstract |
-| :------------- | :-----------:   |:----:|:----|
+| :-------------: | :-----------:   |:----:|:----|
 | 09:30 - 09:45 |  **Introduction** | CppIndia Hosts | Welcome, familiarisation with the conference setup and Networking tools.
 | 09:45 - 10:45 |  **Customization Methods: Connecting User And Library Code** | [Inbal Levi](/conference/2022/speakers/inbal/) | The interface between a library and its users is a major design consideration for every developer, and has been evolving greatly over C++’s lifetime. In this talk we will go over different methods for connecting generic library code with user-side specific code, commonly known as Customization Points. We will cover the benefits and downsides of different methods (including CTS, ADL, Concepts, CTOs, and the latest to be considered - tag_invoke), and present future directions for these mechanisms.<br>At the end of the talk, you’ll be familiar with the terminology and developments in this field, including the ones planned for C++23 and C++26. |
 | 10:45 - 11:15 |  30 min Break & Networking |  | 

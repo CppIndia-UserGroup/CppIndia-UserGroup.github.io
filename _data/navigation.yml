@@ -59,16 +59,18 @@ sidebar:
       #  url: /conference/2022/CppIndiaCon2022Video/
       - title: "Schedule"
         url: /conference/2022/schedule/
-  #     - title: "Speakers"
-  #       url: /conference/2022/speakers/speakers/  
+      - title: "Speakers"
+        url: /conference/2022/speakers/speakers/  
       - title: "Sponsorship plan"
         url: /conference/2022/Sponsor/
   #     - title: "Networking"
   #       url: /conference/2022/networking/
-  # - title: CppIndiaCon2022 Sponsors
-  #   children:
-  #     - title: CircuitSutra
-  #       url: /conference/2022/sponsors/circuitsutra
+  - title: CppIndiaCon 2022 Sponsors
+    children:
+      - title: Undo
+        url: /conference/2022/sponsors/Undo
+      - title: CircuitSutra
+        url: /conference/2022/sponsors/circuitsutra
   - title: CppIndiaCon 2021
     url: /conference/2021/conference_home/
     children:

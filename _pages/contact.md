@@ -5,8 +5,8 @@ permalink: /_pages/contact/
 toc: false
 widget: true
 registerforCppIndiaCon: true
-joinCppIndia: true
-speakers: false
+joinCppIndia: false
+speakers: true
 ---
 
 ## Email
