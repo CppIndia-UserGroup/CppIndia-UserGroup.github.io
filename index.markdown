@@ -12,16 +12,16 @@ cppindiaconsponsors: true
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
 <div id="event-timer" data-event-date="2022-08-06T09:30:00.000+05:30" data-event-duration="60">
-    <h2 id="event-heading">Next Event</h2>
+    <h2 id="event-heading">Next Event - CppIndiaCon 2022</h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
     </p>
 </div>
 
-Register with CppIndia if not done to attend the event.
+[Register](/conference/2022/CppIndiaCon-reg-form/) for CppIndiaCon 2022, the C++ festival of India - an all-day virtual event on 06-Aug-2022. Check out the [Conference Homepage](/conference/2022/conference_home/). 
 
 <a href="/conference/2022/CppIndiaCon-reg-form" id="session-banner" style="display:none;">
-    <img src="assets\images\SessionPost\session_banner.jpg" alt="Next Session" title="Next Session">
+    <img src="assets\images\SessionPost\session_banner.jpg" alt="Next Session" title="CppIndiaCon 2022, the C++ festival of India">
 </a>
 
 <!-- <a href="/_pages/join_us" id="session-banner" style="display:none;">
@@ -37,9 +37,9 @@ Register with CppIndia if not done to attend the event.
 
 ---
 
-To speak at CppIndia, Fill this [Call For Speaker](/callforspeakers/call_for_speakers/) form.
+To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_speakers/) form.
 
-Have a suggestion for us, let us know at <info@cppindia.co.in>.
+Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WX9DjeCWDbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
