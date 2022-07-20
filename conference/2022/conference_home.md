@@ -18,7 +18,7 @@ CppIndiaCon is India's premier International Conference hosted by [CppIndia](/_p
 
 For our inaugural conference last year, we had talks from the greats of C++, including [Bjarne Stroustrup](/conference/2021/speakers/bjarne/), [Bryce Lelbach](/conference/2021/speakers/bryce/), and [Jon Kalb](/conference/2021/speakers/jonkalb/). Do check out the [CppIndiaCon 2021 Speakers](/conference/2021/speakers/speakers/).
 
-For CppIndiaCon 2022 too, we have an exciting line-up of talks by [Inbal Levi](/conference/2022/speakers/speakers/), [Greg Law](/conference/2022/speakers/speakers/), [Mahendra Garodi](/conference/2022/speakers/speakers/) and [Ankur Satle](/conference/2022/speakers/speakers/). Check out all about our favourite speakers on the [CppIndiaCon 2022 Speakers page](/conference/2022/speakers/speakers/).
+For CppIndiaCon 2022 too, we have an exciting line-up of talks by [Inbal Levi](/conference/2022/speakers/inbal/), [Greg Law](/conference/2022/speakers/greg/), [Mahendra Garodi](/conference/2022/speakers/mahendra/), [Selvakumar Jawahar](/conference/2022/speakers/selvakumar/) and [Ankur Satle](/conference/2022/speakers/ankur/). Check out all about our favourite speakers on the [CppIndiaCon 2022 Speakers page](/conference/2022/speakers/speakers/).
 
 Like last year, CppIndiaCon 2022 shall be a **free online conference** despite the high quality talks from industry experts. Attending requires registration.
 
