@@ -12,7 +12,7 @@ cppindiaconsponsors: true
 ---
 <style type="text/css" rel="stylesheet">
 thead { visibility: hidden; }
-img { max-width:80%; width:200px; }
+td img { max-width:80%; width:200px; }
 thead { border:none; }
 td { border:none; }
 </style>
