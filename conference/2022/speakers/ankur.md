@@ -10,7 +10,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 
-![Ankur Satle](/conference/2022/graphics/ankur.png "Ankur Satle")
+![Ankur Satle](/conference/2022/graphics/ankur.png "Ankur Satle"){:style="max-width:50%"}
 
 **Ankur Satle** is an **Architect** working on **Telecom products** at [EXFO](https://www.exfo.com/){:target="_blank"}. He has extensively worked on **high-performance 3G/4G/5G/IMS/VoIP products, Network Monitoring, OSS/BSS** monolith & distributed systems in his 19+ years of experience. He is currently exploring some new technology to build a Smart Data Platform for 5G/4G/3G Service Assurance & Network Monitoring. 
 
