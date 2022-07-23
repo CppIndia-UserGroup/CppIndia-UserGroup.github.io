@@ -18,23 +18,35 @@ CppIndiaCon is India's premier International Conference hosted by [CppIndia](/_p
 
 For our inaugural conference last year, we had talks from the greats of C++, including [Bjarne Stroustrup](/conference/2021/speakers/bjarne/), [Bryce Lelbach](/conference/2021/speakers/bryce/), and [Jon Kalb](/conference/2021/speakers/jonkalb/). Do check out the [CppIndiaCon 2021 Speakers](/conference/2021/speakers/speakers/).
 
-For CppIndiaCon 2022 too, we have an exciting line-up of talks by [Inbal Levi](/conference/2022/speakers/speakers/), [Greg Law](/conference/2022/speakers/speakers/), [Mahendra Garodi](/conference/2022/speakers/speakers/) and [Ankur Satle](/conference/2022/speakers/speakers/). Check out all about our favourite speakers on the [CppIndiaCon 2022 Speakers page](/conference/2022/speakers/speakers/).
+For CppIndiaCon 2022 too, we have an exciting line-up of talks by [Inbal Levi](/conference/2022/speakers/inbal/), [Greg Law](/conference/2022/speakers/greg/), [Mahendra Garodi](/conference/2022/speakers/mahendra/), [Selvakumar Jawahar](/conference/2022/speakers/selvakumar/) and [Ankur Satle](/conference/2022/speakers/ankur/). Check out all about our favourite speakers on the [CppIndiaCon 2022 Speakers page](/conference/2022/speakers/speakers/).
+
+### Registration
 
 Like last year, CppIndiaCon 2022 shall be a **free online conference** despite the high quality talks from industry experts. Attending requires registration.
 
 >To attend, please [register here](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}.
 
+### Platform
+
 We are exploring the platform for the conference. Stay tuned to get updates.
+
+### Schedule
 
 This year's schedule has been improvised based on feedback from last year. As against six talks & AMAs in 2021, this year, we are going to have a single track of five talks. This enabled us to increase the Networking time between talks to 30-min, doubling it from CppIndiaCon 2021. The community shall greatly be benefitted by the intense topics at the tech-talks and the close networking opportunities that the conference brings.
 
 >Check out the [CppIndiaCon 2022 Schedule](/conference/2022/schedule/).
 
+### During the Conference - C++ Trivia and Prizes
+
 Be prepared and try not to get stumped by the C++ trivia googlies that our [team of enthusiastic volunteers](/_pages/team) have prepared for you unsuspecting attendees! There shall be prizes to be won from our Gold Sponsors. Do check out their pages and their products.
+
+### Industry Connect
 
 Our Gold Sponsors will also have a table set-up during the conference for direct connect with the community. You may try out their products, solutions and offering. Have your resumes handy to make the most of the opportunity.
 
 <!-- The conference will start at **10:00 AM IST**. Use this to check time in your [time zone](https://savvytime.com/converter/ist/aug-15-2021/10-00am){:target="_blank"}. -->
+
+### Networking
 
 We look forward to attendees from all walks of life: including industry leaders, engineers, researchers, students or just interested or exploring. There will be a lot of networking opportunities, bumping into interesting people and learning & sharing from each other.
 
