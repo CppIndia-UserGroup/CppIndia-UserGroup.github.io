@@ -26,9 +26,9 @@ Like last year, CppIndiaCon 2022 shall be a **free online conference** despite t
 
 >To attend, please [register here](/conference/2022/CppIndiaCon-reg-form/){:target="_blank"}.
 
-### Platform
+### Platform and Format
 
-We are exploring the platform for the conference. Stay tuned to get updates.
+This will be an **online conference**. We are exploring the platform for the conference. Stay tuned to get updates.
 
 ### Schedule
 
