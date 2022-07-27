@@ -11,6 +11,9 @@ cppindiaconsponsors: true
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->
 
+This is an **online conference** that will be held on Zoom for the talks while Discord will be used for networking. 
+Register [here](/conference/2022/CppIndiaCon-reg-form/) now!
+
 | Time(IST)     |  Topic        | Presenter | Abstract |
 | :-------------: | :-----------:   |:----:|:----|
 | 09:30 - 09:45 |  **Introduction** | CppIndia Hosts | Welcome, familiarisation with the conference setup and Networking tools.
