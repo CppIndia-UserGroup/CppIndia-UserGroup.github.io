@@ -60,7 +60,9 @@ sidebar:
       - title: "Schedule"
         url: /conference/2022/schedule/
       - title: "Speakers"
-        url: /conference/2022/speakers/speakers/  
+        url: /conference/2022/speakers/speakers/
+      - title: "Zoom Settings"
+        url: /conference/2022/speakers/zoom_settings/  
       - title: "Sponsorship plan"
         url: /conference/2022/Sponsor/
   #     - title: "Networking"
