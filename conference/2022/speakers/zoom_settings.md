@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Zoom Settings
+title: Zoom Settings for Speakers
 permalink: /conference/2022/speakers/zoom_settings/
 toc: false
 widget: true
@@ -10,7 +10,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 ## Installing/Updating Zoom
-* For a smooth presentation and better experience, please ensure that you have installed/updated the latest [Zoom client](https://zoom.us/download) **(version 5.11.3 or greater)** on your device
+* For a smooth presentation and better experience, please ensure that you have installed/updated the latest [Zoom client](https://zoom.us/download){:target="_blank"} **(version 5.11.3 or greater)** on your device
 
 ## Zoom Settings
 Please note that options may be labelled slightly differently depending on what operating system you are using.
