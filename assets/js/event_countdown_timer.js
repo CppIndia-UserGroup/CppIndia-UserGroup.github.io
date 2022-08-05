@@ -43,13 +43,30 @@ function startEventCountDownTimer(countDownDate, duration) {
   }, 1000);
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+function registerEventCountDownTimer() {
   var event_timer = document.getElementById('event-timer');
-  var event_date = event_timer.getAttribute('data-event-date');
-  event_date = event_date ? event_date : (Date.now() - 1);
-  event_date = new Date(event_date).getTime();
+  if (event_timer != null) {
+    var event_date = event_timer.getAttribute('data-event-date');
+    event_date = event_date ? event_date : (Date.now() - 1);
+    event_date = new Date(event_date).getTime();
 
-  var event_duration = event_timer.getAttribute('data-event-duration');
-  event_duration = event_duration ? event_duration : '60';
-  startEventCountDownTimer(event_date, Number(event_duration));
+    var event_duration = event_timer.getAttribute('data-event-duration');
+    event_duration = event_duration ? event_duration : '60';
+    startEventCountDownTimer(event_date, Number(event_duration));
+  }
+}
+document.addEventListener('DOMContentLoaded', () => {
+  registerEventCountDownTimer();
 });
+
+function read_more(hidden_id, read_more_id, read_less_id) {
+  document.getElementById(hidden_id).style.display = 'inline';
+  document.getElementById(read_more_id).style.display = 'none';
+  document.getElementById(read_less_id).style.display = 'block';
+}
+
+function read_less(hidden_id, read_more_id, read_less_id) {
+  document.getElementById(hidden_id).style.display = 'none';
+  document.getElementById(read_more_id).style.display = 'block';
+  document.getElementById(read_less_id).style.display = 'none';
+}
