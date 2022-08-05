@@ -18,7 +18,7 @@ td { border:none; }
 </style>
 |  |  |   |
 |:----:|:----:|:----:|
-| [![Inbal Levi](/conference/2022/graphics/inbal.png "Inbal Levi")](/conference/2022/speakers/inbal/) | [![Hemil Ruparel](/conference/2022/graphics/mahendra.png "Hemil Ruparel")](/conference/2022/speakers/Hemil/) | [![Selvakumar Jawahar](/conference/2022/graphics/selvakumar.png "Selvakumar Jawahar")](/conference/2022/speakers/selvakumar/) |
+| [![Inbal Levi](/conference/2022/graphics/inbal.png "Inbal Levi")](/conference/2022/speakers/inbal/) | [![Hemil Ruparel](/conference/2022/graphics/hemil.png "Hemil Ruparel")](/conference/2022/speakers/Hemil/) | [![Selvakumar Jawahar](/conference/2022/graphics/selvakumar.png "Selvakumar Jawahar")](/conference/2022/speakers/selvakumar/) |
 | [Inbal Levi](/conference/2022/speakers/inbal/) | [Hemil Ruparel](/conference/2022/speakers/Hemil/) | [Selvakumar Jawahar](/conference/2022/speakers/selvakumar/) |
 {:style="display:inline-table"}
 
