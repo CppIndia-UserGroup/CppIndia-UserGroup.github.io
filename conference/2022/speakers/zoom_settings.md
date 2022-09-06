@@ -4,10 +4,10 @@ title: Zoom Settings for Speakers
 permalink: /conference/2022/speakers/zoom_settings/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 ## Installing/Updating Zoom
 * For a smooth presentation and better experience, please ensure that you have installed/updated the latest [Zoom client](https://zoom.us/download){:target="_blank"} **(version 5.11.3 or greater)** on your device

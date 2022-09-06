@@ -4,9 +4,9 @@ title: Book(s)/Blog(s)/Video(s) of the month
 permalink: /resources/resource_of_month
 toc: false
 widget: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-speakers: true
+registerforCppIndiaCon: false
+joinCppIndia: true
+speakers: false
 
 ---
 

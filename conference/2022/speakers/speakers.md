@@ -5,10 +5,10 @@ permalink: /conference/2022/speakers/speakers/
 toc: false
 widget: true
 # classes: wide
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 <style type="text/css" rel="stylesheet">
 thead { visibility: hidden; }

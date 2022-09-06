@@ -4,10 +4,10 @@ title: Selvakumar Jawahar
 permalink: /conference/2022/speakers/selvakumar/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 ![Selvakumar Jawahar](/conference/2022/graphics/selvakumar.png "Selvakumar Jawahar"){:style="max-width:50%"}

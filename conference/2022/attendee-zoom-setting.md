@@ -4,10 +4,10 @@ title: Zoom Settings for attendees
 permalink: /conference/2022/speakers/attendee_zoom_setting/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 **CppIndiaCon 2022** will be an online conference via Zoom. An email with the link to the all-day conference will be sent a few days before the event. All talks will take place on the same Zoom event. To avoid last-minute delays, it is recommended that you install/update [Zoom](https://zoom.us/download){:target="_blank"} on your device beforehand.
