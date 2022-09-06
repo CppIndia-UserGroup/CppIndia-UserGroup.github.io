@@ -3,9 +3,9 @@ toc: true
 layout: home
 title: "About CppIndia"
 widget: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-speakers: true
+registerforCppIndiaCon: false
+joinCppIndia: true
+speakers: false
 ---
 
 ## Who Are We?

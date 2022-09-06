@@ -3,22 +3,20 @@ toc: false
 layout: home
 title: <center>India's very own C++ Community
 widget: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-speakers: true
-cppindiaconsponsors: true
+registerforCppIndiaCon: false
+joinCppIndia: true
+speakers: false
+cppindiaconsponsors: false
 ---
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2022-08-06T09:30:00.000+05:30" data-event-duration="60">
-    <h2 id="event-heading">Next Event<br><center>CppIndiaCon 2022<br>The C++ festival of India.</center></h2>
+<div id="event-timer" data-event-date="2022-09-10T11:00:00.000+05:30" data-event-duration="60">
+    <h2 id="event-heading">Next Event<br></h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
     </p>
 </div>
-
-[Register here](/conference/2022/CppIndiaCon-reg-form/) for CppIndiaCon 2022.
 
 <a href="/conference/2022/CppIndiaCon-reg-form" id="session-banner" style="display:none;">
     <img src="assets\images\SessionPost\session_banner.jpg" alt="Next Session" title="CppIndiaCon 2022, the C++ festival of India">
@@ -37,7 +35,7 @@ cppindiaconsponsors: true
 
 ---
 
-<!-- To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_speakers/) form. -->
+To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_speakers/) form.
 
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 

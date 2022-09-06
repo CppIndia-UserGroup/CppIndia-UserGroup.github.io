@@ -4,10 +4,10 @@ title: Jon Kalb
 permalink: /conference/2021/speakers/jonkalb/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 ![Jon Kalb](/conference/2021/graphics/jonkalb.jpg "Jon Kalb")

@@ -4,10 +4,10 @@ title: Dr Greg Law
 permalink: /conference/2022/speakers/greg/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 ![Dr Greg Law](/conference/2022/graphics/greg.png "Dr Greg Law"){:style="max-width:50%"}

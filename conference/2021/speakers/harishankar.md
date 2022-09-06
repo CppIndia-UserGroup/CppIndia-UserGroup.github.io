@@ -4,10 +4,10 @@ title: Harishankar Singh
 permalink: /conference/2021/speakers/harishankar/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: true
-joinCppIndia: false
-cppindiaconsponsors: true
+speakers: false
+registerforCppIndiaCon: false
+joinCppIndia: true
+cppindiaconsponsors: false
 ---
 
 ![Harishankar Singh](/conference/2021/graphics/hari.jpg "Harishankar Singh")
