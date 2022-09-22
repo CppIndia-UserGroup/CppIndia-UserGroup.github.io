@@ -11,7 +11,7 @@ cppindiaconsponsors: false
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2022-09-10T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2022-01-11T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event<br></h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
