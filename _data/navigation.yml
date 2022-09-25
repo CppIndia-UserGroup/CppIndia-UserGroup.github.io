@@ -55,16 +55,16 @@ sidebar:
       #   url: /conference/2022/call-for-speakers/
       # - title: "Call For Volunteer"
       #   url: /conference/2022/call-for-volunteer/
-      #- title: "CppIndiaCon 2022 Videos"
-      #  url: /conference/2022/CppIndiaCon2022Video/
-      - title: "Schedule"
-        url: /conference/2022/schedule/
+      - title: "CppIndiaCon 2022 Videos"
+        url: /conference/2022/CppIndiaCon2022Video/
+      #- title: "Schedule"
+      #  url: /conference/2022/schedule/
       - title: "Speakers"
         url: /conference/2022/speakers/speakers/
       # - title: "Conference self-help"
       #   url: /conference/2022/speakers/tech-help/  
-      - title: "Sponsorship plan"
-        url: /conference/2022/Sponsor/
+      #- title: "Sponsorship plan"
+      #  url: /conference/2022/Sponsor/
   #     - title: "Networking"
   #       url: /conference/2022/networking/
   # - title: CppIndiaCon 2022 Sponsors
@@ -83,7 +83,7 @@ sidebar:
       # - title: "Schedule"
       #   url: /conference/2021/schedule/
       - title: "Speakers"
-        url: /conference/2021/speakers/speakers/  
+        url: /conference/2021/speakers/speakers/
       # - title: "Sponsors Space"
       #   url: /conference/2021/Sponsor/
       # - title: "Networking"
