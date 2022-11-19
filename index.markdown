@@ -36,11 +36,13 @@ To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_spea
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WX9DjeCWDbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qyfRb_4My7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C0cViWm4Wjs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pUpPVPnF5Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/b49WNBwaDas" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6kfR4DDCMpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <!-- ## Giveaway Sponsors
