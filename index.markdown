@@ -11,7 +11,7 @@ cppindiaconsponsors: false
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2022-12-17T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2023-01-07T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event<br></h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
@@ -36,12 +36,11 @@ To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_spea
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-cv9fbziOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5gBjV36qog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qyfRb_4My7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pUpPVPnF5Ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 <!-- ## Giveaway Sponsors
