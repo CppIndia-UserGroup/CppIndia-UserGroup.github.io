@@ -10,7 +10,7 @@ sponsors: false
 cppindiaconsponsors: false
 ---
 
-{% include CppIndiaCon-reg-form.html %}
+<!-- {% include CppIndiaCon-reg-form.html %} -->
 
 <pre>
 
