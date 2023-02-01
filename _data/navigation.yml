@@ -66,7 +66,7 @@ sidebar:
       # - title: "Conference self-help"
       #   url: /conference/2023/speakers/tech-help/  
       - title: "Sponsorship plan"
-       url: /conference/2023/Sponsor/
+        url: /conference/2023/Sponsor/
   #     - title: "Networking"
   #       url: /conference/2023/networking/
   # - title: CppIndiaCon 2023 Sponsors
