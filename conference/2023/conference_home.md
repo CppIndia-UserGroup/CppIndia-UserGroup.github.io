@@ -29,19 +29,18 @@ Mark your calendars and join us for a day of learning, networking, and inspirati
 
 # [Call For Speakers](/conference/2023/call-for-speakers/)
 
-> Please submit your proposal by **February 28th, 2023** to be considered for the conference.
+> Please submit your proposal by **March 15th, 2023  11:59 PM IST** to be considered for the conference.
 
 > [Submit your talk here.](/conference/2023/call-for-speakers/)
 
-We are thrilled to announce that we are now accepting proposals for this year's conference, which will be held on **August 5th, 2023** as a virtual event.
+We are now accepting proposals for CppIndiaCon 2023, which will be held on **August 5th, 2023** as a virtual event.
 
-As a leading C++ conference, CppIndiaCon2023 is dedicated to exploring the latest trends and advancements in the C++ programming language. We bring together experts from around the world to share their knowledge and experiences on the latest techniques, tools, and best practices in C++.
-
-If you're an expert in C++ or a thought leader in the field, we want to hear from you! And even if you're a first-time speaker, we welcome you to **submit your proposal by February 28th for consideration**. We believe that everyone has valuable knowledge and experiences to share and we encourage you to take this opportunity to showcase your expertise and thought leadership.
+If you're an expert in C++ or a thought leader in the field, we want to hear from you! And even if not, but have an interesting application of C++ to share or a best practice or how C++ helped solve a tricky business problem or work around a technical constraint, we want to know about it!, we welcome you to **submit your proposal by March 15th, 2023 11:59 PM IST for consideration**. We believe that everyone has valuable knowledge and experiences to share and we encourage you to take this opportunity to showcase your expertise and thought leadership.
 
 ## Submission Guidelines:
 
-- Presentations should be focused on the latest developments and trends in C++ programming language.
+- Presentations should be on the latest developments, trends or good practices in C++ programming language.
+- Presentations don't have to be limited to advanced topics; feel free to present on basic C++ concepts in your own creative style!
 - Presentations should be technical and in-depth, catering to C++ programmers of all experience levels.
 - Proposals should be written in English.
 - All proposals will be reviewed and selected based on their relevance, originality, and quality.
@@ -64,13 +63,11 @@ Become a sponsor of CppIndiaCon2023 and support the C++ community! To learn more
 
 # Registration
 
-Attention C++ enthusiasts! Get ready to join us at CppIndiaCon2023, the premier virtual C++ conference. 
-
 We are excited to announce that conference registration will be opening soon. Stay tuned for further updates and make sure to mark your calendars for **August 5th, 2023**. We can't wait to bring the C++ community together for a full day of technical presentations and networking opportunities. See you there!
 
 # Schedule
 
-Exciting news for all C++ fans! The eagerly anticipated schedule for CppIndiaCon2023 is in the works and we're thrilled to reveal it to you soon. 
+The eagerly anticipated schedule for CppIndiaCon2023 is in the works and we're thrilled to reveal it to you soon. 
 
 This year's conference is set to be a full day of in-depth technical presentations and insightful conversations with C++ leaders from around the world. Get ready to join us on **August 5th, 2023** for this virtual gathering of the C++ community. Keep an eye out for updates on the conference schedule and make sure to mark your calendars. We can't wait to see you there!
 
