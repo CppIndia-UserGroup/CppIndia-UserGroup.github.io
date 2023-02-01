@@ -20,18 +20,19 @@ We are seeking sponsors to help make this event a success and offer a range of b
 - Opportunities to network and connect with other experts in the field
 - Demonstration of your organization's commitment to the C++ community
 
-There are several sponsorship opportunities available, including:
+<!-- There are several sponsorship opportunities available, including:
 
 - Gold sponsor
-- Silver sponsor
+- Silver sponsor -->
 <!-- Bronze sponsor
 Supporting sponsor
 Exhibitor sponsor -->
 
-We would be happy to tailor a sponsorship package to meet your specific needs and objectives. If you're interested in sponsoring CppIndiaCon2023, please reach out to us at [info@cppindia.co.in](mailto:info@cppindia.co.in).
+<!-- We would be happy to tailor a sponsorship package to meet your specific needs and objectives.  -->
+If you're interested in sponsoring CppIndiaCon2023, please reach out to us at [info@cppindia.co.in](mailto:info@cppindia.co.in).
 
 Don't miss this opportunity to support the C++ community and showcase your organization's commitment to the latest advancements in the field. Become a sponsor of CppIndiaCon2023 today!
-
+<!-- 
 # Sponsorship plans as below:
 
 #### Social Media & Promotion
@@ -82,9 +83,9 @@ Don't miss this opportunity to support the C++ community and showcase your organ
 
 ## Sponsorship Cost
 Gold Sponsorship: Rs.40000/-
-<br>Silver Sponsorship: Rs.35000/-
+<br>Silver Sponsorship: Rs.35000/- -->
 
-Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
+<!-- Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information. -->
 
 <!-- ## Sponsors
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} -->
