@@ -38,12 +38,43 @@ sidebar:
         url: /_pages/team/
   - title: "Community Tech-Talks"
     children:
+      - title: "2023"
+        url: /TechTalk/2023/
       - title: "2022"
         url: /TechTalk/2022/
       - title: "2021"
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
+  - title: CppIndiaCon 2023
+    url: /conference/2023/conference_home/
+    children:
+      - title: "Home"
+        url: /conference/2023/conference_home/
+      # - title: "Registration"
+      #   url: /conference/2023/CppIndiaCon-reg-form/
+      - title: "Call For Speakers"
+        url: /conference/2023/call-for-speakers/
+      # - title: "Call For Volunteer"
+      #   url: /conference/2023/call-for-volunteer/
+      # - title: "CppIndiaCon 2023 Videos"
+      #   url: /conference/2023/CppIndiaCon2023Video/
+      #- title: "Schedule"
+      #  url: /conference/2023/schedule/
+      # - title: "Speakers"
+      #   url: /conference/2023/speakers/speakers/
+      # - title: "Conference self-help"
+      #   url: /conference/2023/speakers/tech-help/  
+      - title: "Sponsorship plan"
+        url: /conference/2023/Sponsor/
+      #     - title: "Networking"
+      #       url: /conference/2023/networking/
+      # - title: CppIndiaCon 2023 Sponsors
+      #   children:
+      #     - title: Undo
+      #       url: /conference/2023/sponsors/undo
+      #     - title: CircuitSutra
+      #       url: /conference/2023/sponsors/circuitsutra
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
