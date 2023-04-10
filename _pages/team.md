@@ -18,7 +18,7 @@ cppindiaconsponsors: false
 | [![Dheeraj Jha](/assets/images/team/dheeraj.png "Dheeraj Jha")](https://www.jhadheeraj.com){:target="_blank"} |
 | [Dheeraj Jha](https://www.jhadheeraj.com){:target="_blank"} |
 
-## Core Team
+## Founder Members
 
 |---|---|
 |  |  |
