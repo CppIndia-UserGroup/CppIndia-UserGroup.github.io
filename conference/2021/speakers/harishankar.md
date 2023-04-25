@@ -5,7 +5,7 @@ permalink: /conference/2021/speakers/harishankar/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

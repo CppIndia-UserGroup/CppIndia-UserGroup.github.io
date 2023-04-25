@@ -5,7 +5,7 @@ permalink: /conference/2023/conference_home/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
 ---
@@ -18,16 +18,13 @@ Welcome to <strong>CppIndiaCon2023</strong>.<br>
 
 CppIndiaCon is a annual C++ conference which happens in the month of August. CppIndia has hosted 2 successful conferences in the last 2 years where we had speakers like [Bjarne](https://www.stroustrup.com/){:target="_blank"} - Father of C++, [Jon Kalb](https://twitter.com/_JonKalb){:target="_blank"} - CppCon conference chair, [Bryce](https://twitter.com/blelbach){:target="_blank"} - C++ Library Evolution chair, [Ankur](https://ankursatle.wordpress.com/){:target="_blank"} - Architect at EXFO, [Dr Greg Law](https://undo.io/about-us/undo/leadership-team/greg-law/){:target="_blank"} - founder of Undo, [Saurabh Joshi](https://sbjoshi.github.io/){:target="_blank"} - Principal Researcher at SupraOracles, and many more. You can find all the previous recordings on [CppIndia YouTube](https://www.youtube.com/@CppIndiaUG){:target="_blank"} channel.
 
-We are excited to announce that this year's conference will be held on **August 5th, 2023**, as a full-day virtual event. The platform for the conference will be announced soon, so stay tuned for more details.
+We are excited to announce that this year's conference will be held on **August 4th & 5th, 2023**, as a 2-day virtual event. The platform for the conference will be announced soon, so stay tuned for more details.
 
 As one of the premier C++ conferences in the world, CppIndiaCon2023 is dedicated to exploring the latest trends and developments in the C++ programming language. We bring together experts from around the globe to share their knowledge and insights on the latest techniques, tools, and best practices in C++.
 
-If you are interested in speaking at CppIndiaCon2023, we are currently accepting talk ideas and submissions. 
-
-
 Mark your calendars and join us for a day of learning, networking, and inspiration at CppIndiaCon2023. We look forward to seeing you there!
 
-# [Call For Speakers](/conference/2023/call-for-speakers/)
+<!-- # [Call For Speakers](/conference/2023/call-for-speakers/)
 
 > Please submit your proposal by **March 15th, 2023  11:59 PM IST** to be considered for the conference.
 
@@ -56,20 +53,26 @@ Don't miss this opportunity to be part of CppIndiaCon2023 and share your knowled
 
 If you have any questions or need further information, please reach out to us at [info@cppindia.co.in](mailto:info@cppindia.co.in). We look forward to receiving your submissions and seeing you at CppIndiaCon2023!
 
-> [Submit your talk here.](/conference/2023/call-for-speakers/)
+> [Submit your talk here.](/conference/2023/call-for-speakers/) -->
+
+# [Registration](/conference/2023/CppIndiaCon-reg-form/)
+> [Register here.](/conference/2023/CppIndiaCon-reg-form/)
+
+We are thrilled to announce that the registration for CppIndiaCon 2023 is now open! This year, we're bringing together the best minds in the C++ community for two days of insightful talks, hands-on workshops, and networking opportunities. Join us on **August 4th & 5th, 2023** to explore the latest trends and best practices in C++ development, and connect with fellow professionals from around the world. 
+
+Our lineup of speakers includes some of the most renowned names in the industry, who will share their knowledge and expertise on a wide range of topics. Don't miss out on this incredible opportunity to learn from the best and take your skills to the next level. 
+
+> [Register now](/conference/2023/CppIndiaCon-reg-form/) to secure your spot at CppIndiaCon 2023!
+
+# [Schedule](/conference/2023/schedule/)
+
+We're thrilled to announce that the [talk schedule](/conference/2023/schedule/) for CppIndiaCon 2023 is now available! 
+
+This year's conference is set to be a 2 day of in-depth technical presentations and insightful conversations with C++ leaders from around the world. <br>
+Don't miss out on this unique chance to broaden your knowledge and enhance your skills in the field of C++. Register now to secure your spot at CppIndiaCon 2023 and join us for two days of insightful talks, hands-on workshops, and networking opportunities on **August 4th & 5th, 2023**! We can't wait to see you there!
 
 # [Sponsorships](/conference/2023/Sponsor/)
 Become a sponsor of CppIndiaCon2023 and support the C++ community! To learn more about our sponsorship opportunities and packages, visit our [sponsorship page](/conference/2023/Sponsor/) today. Let's work together to make this event a success!
-
-# Registration
-
-We are excited to announce that conference registration will be opening soon. Stay tuned for further updates and make sure to mark your calendars for **August 5th, 2023**. We can't wait to bring the C++ community together for a full day of technical presentations and networking opportunities. See you there!
-
-# Schedule
-
-The eagerly anticipated schedule for CppIndiaCon2023 is in the works and we're thrilled to reveal it to you soon. 
-
-This year's conference is set to be a full day of in-depth technical presentations and insightful conversations with C++ leaders from around the world. Get ready to join us on **August 5th, 2023** for this virtual gathering of the C++ community. Keep an eye out for updates on the conference schedule and make sure to mark your calendars. We can't wait to see you there!
 
 # About CppIndia 
 

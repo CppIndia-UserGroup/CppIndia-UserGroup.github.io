@@ -6,7 +6,7 @@ permalink: /conference/2022/sponsors/circuitsutra
 toc: false
 speakers: false
 widget: true
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

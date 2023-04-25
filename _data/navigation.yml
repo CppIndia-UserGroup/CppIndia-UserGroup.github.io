@@ -51,21 +51,21 @@ sidebar:
     children:
       - title: "Home"
         url: /conference/2023/conference_home/
-      # - title: "Registration"
-      #   url: /conference/2023/CppIndiaCon-reg-form/
-      - title: "Call For Speakers"
-        url: /conference/2023/call-for-speakers/
+      - title: "Registration"
+        url: /conference/2023/CppIndiaCon-reg-form/
+      # - title: "Call For Speakers"
+      #   url: /conference/2023/call-for-speakers/
       # - title: "Call For Volunteer"
       #   url: /conference/2023/call-for-volunteer/
       # - title: "CppIndiaCon 2023 Videos"
       #   url: /conference/2023/CppIndiaCon2023Video/
-      #- title: "Schedule"
-      #  url: /conference/2023/schedule/
-      # - title: "Speakers"
-      #   url: /conference/2023/speakers/speakers/
+      - title: "Schedule"
+        url: /conference/2023/schedule/
+      - title: "Speakers"
+        url: /conference/2023/speakers/speakers/
       # - title: "Conference self-help"
       #   url: /conference/2023/speakers/tech-help/  
-      - title: "Sponsorship plan"
+      - title: "Sponsorship"
         url: /conference/2023/Sponsor/
       #     - title: "Networking"
       #       url: /conference/2023/networking/
@@ -78,8 +78,8 @@ sidebar:
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
-      - title: "Home"
-        url: /conference/2022/conference_home/
+      # - title: "Home"
+      #   url: /conference/2022/conference_home/
       # - title: "Registration"
       #   url: /conference/2022/CppIndiaCon-reg-form/
       # - title: "Call For Speakers"

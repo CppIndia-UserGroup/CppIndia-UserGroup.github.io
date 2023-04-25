@@ -5,7 +5,7 @@ permalink: /conference/2022/speakers/mahendra/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

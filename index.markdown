@@ -3,11 +3,14 @@ toc: false
 layout: home
 title: <center>India's very own C++ Community
 widget: true
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 joinCppIndia: true
 speakers: false
 cppindiaconsponsors: false
 ---
+Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br>
+[Register here](/conference/2023/CppIndiaCon-reg-form/)<br>
+[CppIndiaCon 2023 Schedule](/conference/2023/schedule/)
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
