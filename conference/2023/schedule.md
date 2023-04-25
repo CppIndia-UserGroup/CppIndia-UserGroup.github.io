@@ -31,7 +31,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">09:30 - 09:45<br></td>
+      <td style="text-align: center">09:45 - 10:00<br></td>
       <td style="text-align: center"><strong>Introduction</strong></td>
       <td style="text-align: center">CppIndia Hosts</td>
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
@@ -151,7 +151,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: center">09:30 - 09:45<br></td>
+      <td style="text-align: center">09:45 - 10:00<br></td>
       <td style="text-align: center"><strong>Introduction</strong></td>
       <td style="text-align: center">CppIndia Hosts</td>
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
