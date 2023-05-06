@@ -30,7 +30,7 @@ td { border:none; }
 
 |  |  |
 |:----:|:----:|
-| [![Kiran Kannappan](/conference/2023/graphics/speakers/kiran.png "Kiran Kannappan")](/conference/2023/speakers/kiran/) | [![Kushashwa Ravi Shrimali](/conference/2023/graphics/speakers/ravi.png "Kushashwa Ravi Shrimali")](/conference/2023/speakers/ravi/) | [![Venkata Naga Ravikiran Bulusu ](/cppindia_logo.png "Venkata Naga Ravikiran Bulusu ")](/conference/2023/speakers/ravikiran/) |
+| [![Kiran Kannappan](/conference/2023/graphics/speakers/kiran.png "Kiran Kannappan")](/conference/2023/speakers/kiran/) | [![Kushashwa Ravi Shrimali](/conference/2023/graphics/speakers/ravi.png "Kushashwa Ravi Shrimali")](/conference/2023/speakers/ravi/) | [![Venkata Naga Ravikiran Bulusu ](/conference/2023/graphics/speakers/ravikiran.png "Venkata Naga Ravikiran Bulusu ")](/conference/2023/speakers/ravikiran/) |
 | [Kiran Kannappan](/conference/2023/speakers/kiran/) | [Kushashwa Ravi Shrimali](/conference/2023/speakers/ravi/) | [Venkata Naga Ravikiran Bulusu ](/conference/2023/speakers/ravikiran/) |
 {:style="display:inline-table"}
 <pre>

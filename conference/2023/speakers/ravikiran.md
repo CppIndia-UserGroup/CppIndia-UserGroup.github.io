@@ -9,7 +9,7 @@ registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
 ---
-![Venkata Naga Ravikiran Bulusu](/cppindia_logo.png "Venkata Naga Ravikiran Bulusu"){:style="max-width:50%"}
+![Venkata Naga Ravikiran Bulusu](/conference/2023/graphics/speakers/ravikiran.png "Venkata Naga Ravikiran Bulusu"){:style="max-width:50%"}
 
 **Venkata Naga Ravikiran Bulusu**, is a C/C++ Embedded developer with 6 years of experience in Embedded Systems development. 
  
