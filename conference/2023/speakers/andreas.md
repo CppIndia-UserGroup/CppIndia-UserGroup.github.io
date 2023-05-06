@@ -24,7 +24,7 @@ You can find Andreas online at [andreasfertig.com](andreasfertig.com){:target="_
 [![Andreas Fertig](/assets/images/www.png "Andreas Fertig")](https://andreasfertig.com/){:target="_blank"}
 [![Andreas Fertig](/assets/images/linkedin.png "Andreas Fertig")](https://de.linkedin.com/in/andreasfertig){:target="_blank"}
 [![Andreas Fertig](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Andreas Fertig"){:style="max-width:13%"}](https://github.com/andreasfertig){:target="_blank"}
-[![Andreas Fertig](/assets/images/twitter.png "Andreas Fertig")](https://twitter.com/AnkurSatle){:target="_blank"}
+[![Andreas Fertig](/assets/images/twitter.png "Andreas Fertig")](https://twitter.com/Andreas__Fertig){:target="_blank"}
 <pre>
 
 
