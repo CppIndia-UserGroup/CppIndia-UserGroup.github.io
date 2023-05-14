@@ -28,7 +28,7 @@ To ensure a fair and transparent competition, we have established some rules tha
 
 3. **Process Overview**:
     - Community managers will nominate their community members.
-    - Nominated members will register at www.cppindia.co.in
+    - Nominated members will register [here](/hackthon/hackathon-reg-form).
     - Registered participants will receive an invitation to an introductory session providing an initial overview of the technology, competition, and process.
     - The introductory session will be conducted a week before.
     - Participants will also receive access to the Undo University course and labs for practice.
