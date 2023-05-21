@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <h1 style="font-size:2.5em"><center>Time Travel Debugging Hackathon 2023</center></h1><center><p style="font-size:1.5em">Travel back in time to debug the future</p><center>
+title: <h1 style="font-size:2.5em"><center>Time Travel Debugging Hackathon 2023</center></h1><center><p style="font-size:1.5em">Debug your way to success!</p><center>
 permalink: /hackthon/hackathon2023
 toc: false
 widget: true
@@ -57,6 +57,7 @@ For any query write to [*info@cppindia.co.in*](mailto:info@cppindia.co.in)
 
 -------------------------------------
 
+<!-- [![Undo](/assets/images/hackathon/hackathon.png "Undo")](https://undo.io/){:target="_blank"} -->
 # About Undo
 ## Building a world in which computers tell us exactly what they did and why
 [Undo](https://undo.io/){:target="_blank"} is the time travel debugging company for Linux. We equip developers with the technology to understand complex code and fix bugs faster.
