@@ -1,6 +1,6 @@
 ---
 layout: single
-title: <h1 style="font-size:2.5em"><center>Time Travel Debugging Hackathon 2023</center></h1><center><p style="font-size:1.5em">Debug your way to success!</p><center>
+title: <h1 style="font-size:2.5em"><center>Time Travel Debugging Hackathon 2023</center></h1><center><p style="font-size:1em">Step back in time to debug your way to success!</p><center>
 permalink: /hackthon/hackathon2023
 toc: false
 widget: true
