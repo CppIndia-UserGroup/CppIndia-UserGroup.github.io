@@ -46,6 +46,8 @@ sidebar:
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
+  - title: Time Travel Debugging Hackathon 2023
+    url: /hackthon/hackathon2023
   - title: CppIndiaCon 2023
     url: /conference/2023/conference_home/
     children:

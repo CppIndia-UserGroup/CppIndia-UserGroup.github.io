@@ -58,7 +58,7 @@ For any query write to [*info@cppindia.co.in*](mailto:info@cppindia.co.in)
 -------------------------------------
 
 <!-- [![Undo](/assets/images/hackathon/hackathon.png "Undo")](https://undo.io/){:target="_blank"} -->
-# About Undo
+# About [![Undo](/assets/images/hackathon/undo.png "Undo")](https://undo.io/){:target="_blank"}
 ## Building a world in which computers tell us exactly what they did and why
 [Undo](https://undo.io/){:target="_blank"} is the time travel debugging company for Linux. We equip developers with the technology to understand complex code and fix bugs faster.
 

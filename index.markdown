@@ -8,9 +8,13 @@ joinCppIndia: true
 speakers: false
 cppindiaconsponsors: false
 ---
-Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br>
-[Register here](/conference/2023/CppIndiaCon-reg-form/)<br>
-[CppIndiaCon 2023 Schedule](/conference/2023/schedule/)
+[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
+<!-- Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br> -->
+[Register here](/conference/2023/CppIndiaCon-reg-form/) || [Schedule](/conference/2023/schedule/)
+
+---
+
+[![CppIndiaCon](/assets/images/hackathon/TTD.png "TTD Hackathon 2023")](/hackthon/hackathon2023)
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
