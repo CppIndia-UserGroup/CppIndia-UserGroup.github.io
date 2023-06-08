@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Undo
+title: Qube Cinema
 # title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2023</center></h1><center><p style="font-size:1.5em">Gold Sponsor
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2023</center></h1><center><p style="font-size:1.5em">The C++ festival of India</p><p style="font-size:1.5em"><mark style="background-color:gold;"><strong>Gold Sponsor</strong></mark>
 permalink: /conference/2023/sponsors/qube_cinema
