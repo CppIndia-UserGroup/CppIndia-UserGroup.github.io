@@ -13,13 +13,16 @@ cppindiaconsponsors: false
 ---
 
 <div style="text-align: center;">
-  <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html">
+  <!-- <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html"> -->
     <img src="/conference/2023/sponsors/intel.png" alt="Intel Software" title="Intel Software">
-  </a>
+  <!-- </a> -->
 </div>
+---
 
 <div style="text-align: center; margin-top: 20px;">
-  <img src="/conference/2023/sponsors/intel-one-api.png" alt="Intel® oneAPI" title="Intel® oneAPI">
+  <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html">
+    <img src="/conference/2023/sponsors/intel-one-api.png" alt="Intel® oneAPI" title="Intel® oneAPI">
+  </a>
 </div>
 
 ## Intel® oneAPI

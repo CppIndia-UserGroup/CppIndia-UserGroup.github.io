@@ -12,7 +12,12 @@ joinCppIndia: true
 cppindiaconsponsors: false
 ---
 
-[![Qube Cinema](/conference/2023/sponsors/QubeCinema.png "Qube Cinema")](https://www.qubecinema.com/){:target="_blank"}
+<!-- [![Qube Cinema](/conference/2023/sponsors/QubeCinema.png "Qube Cinema")](https://www.qubecinema.com/){:target="_blank"} -->
+<div style="text-align: center;">
+  <a href="https://www.qubecinema.com/">
+    <img src="/conference/2023/sponsors/QubeCinema.png" alt="Qube Cinema" title="Qube Cinema">
+  </a>
+</div>
 <!-- <center> Modelling Silicon Dreams</center> -->
 <!-- <h1 style="font-size:2em; color:blue"><center>Modelling Silicon Dreams</center></h1> -->
 
