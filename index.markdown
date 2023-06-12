@@ -5,7 +5,7 @@ title: <center>India's very own C++ Community
 widget: true
 registerforCppIndiaCon: true
 joinCppIndia: true
-speakers: false
+speakers: true
 cppindiaconsponsors: false
 ---
 [![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)

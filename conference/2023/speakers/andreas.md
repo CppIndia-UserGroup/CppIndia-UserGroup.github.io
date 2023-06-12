@@ -4,7 +4,7 @@ title: Andreas Fertig
 permalink: /conference/2023/speakers/andreas/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false

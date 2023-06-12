@@ -4,7 +4,7 @@ title: Mahendra Garodi
 permalink: /conference/2022/speakers/mahendra/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false

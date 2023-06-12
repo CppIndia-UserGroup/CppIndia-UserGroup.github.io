@@ -4,7 +4,7 @@ title: CppIndiaCon 2023 Schedule
 permalink: /conference/2023/schedule/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false

@@ -5,7 +5,7 @@ permalink: /conference/2022/CppIndiaCon2022Video/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: true
 cppindiaconsponsors: false
