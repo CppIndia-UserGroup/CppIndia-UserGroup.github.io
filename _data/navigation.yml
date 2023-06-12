@@ -71,12 +71,12 @@ sidebar:
         url: /conference/2023/Sponsor/
       #     - title: "Networking"
       #       url: /conference/2023/networking/
-      # - title: CppIndiaCon 2023 Sponsors
-      #   children:
-      #     - title: Undo
-      #       url: /conference/2023/sponsors/undo
-      #     - title: CircuitSutra
-      #       url: /conference/2023/sponsors/circuitsutra
+  - title: CppIndiaCon 2023 Sponsors
+    children:
+      - title: Intel
+        url: /conference/2023/sponsors/intel
+      - title: Qube Cinema
+        url: /conference/2023/sponsors/qube_cinema
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
