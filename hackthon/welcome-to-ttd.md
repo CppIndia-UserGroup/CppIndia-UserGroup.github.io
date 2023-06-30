@@ -12,9 +12,11 @@ cppindiaconsponsors: false
 
 ![CppIndiaCon](/assets/images/hackathon/TTD.png "TTD Hackathon 2023")
 
-> [Click here to go to virtual enverioment.](https://undo-university.appsembler.com/event/liverecorder-lab/){:target="_blank"}
+> [Click here to go to virtual environment.](https://undo-university.appsembler.com/event/liverecorder-lab/){:target="_blank"}
 
 > [Submit your answer here.](/hackthon/welcome-to-ttd#:~:text=to%20virtual%20enverioment.-,Submit%20Answer%20Here,-LINKEDIN)
+
+<p><center><span style="background-color: orange;">Don't restart your virtual environment session. <br>you will lose history and progress.</span></center></p>
 
 ## Rules
 
@@ -53,15 +55,16 @@ In the event of any technical issues or platform-related problems, please reach 
 The submitted answers will undergo a thorough review and evaluation process by our esteemed panel of judges. The judges' decision will be final and binding.
 
 ## How to build the code?
-- `g++ -g problem1.cpp -o problem1`
-- `g++ -g problem2.cpp -o problem2`
 
-Note: You are free to use any compiler flag of your choice.
+- `cd /home/labuser/TTDHackathon`
+- `make`
 
-> [Click here to go to virtual enverioment.](https://undo-university.appsembler.com/event/liverecorder-lab/){:target="_blank"}
+> [Click here to go to virtual environment.](https://undo-university.appsembler.com/event/liverecorder-lab/){:target="_blank"}
+
+> [UDB Ref guide](https://docs.undo.io/UDB-quickref.pdf){:target="_blank"}
 
 # Submit Answer Here
-<iframe width="640px" height= "480px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=Jn9TZ3Xd6kqTEsg3rhHIIAuRMnTbm4dDnnjVyAfKrhJUNUFKUDk2WFY3SFFMNldLSExZOEI3VDQ5SC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="640px" height= "900px" src= "https://forms.office.com/Pages/ResponsePage.aspx?id=Jn9TZ3Xd6kqTEsg3rhHIIAuRMnTbm4dDnnjVyAfKrhJUNUFKUDk2WFY3SFFMNldLSExZOEI3VDQ5SC4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
 <pre>
