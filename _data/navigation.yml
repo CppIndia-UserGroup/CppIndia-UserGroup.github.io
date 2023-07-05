@@ -57,8 +57,8 @@ sidebar:
         url: /conference/2023/CppIndiaCon-reg-form/
       # - title: "Call For Speakers"
       #   url: /conference/2023/call-for-speakers/
-      # - title: "Call For Volunteer"
-      #   url: /conference/2023/call-for-volunteer/
+      - title: "Call For Volunteer"
+        url: /conference/2023/call-for-volunteer/
       # - title: "CppIndiaCon 2023 Videos"
       #   url: /conference/2023/CppIndiaCon2023Video/
       - title: "Schedule"
