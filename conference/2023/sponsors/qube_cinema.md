@@ -14,7 +14,7 @@ cppindiaconsponsors: false
 
 <!-- [![Qube Cinema](/conference/2023/sponsors/QubeCinema.png "Qube Cinema")](https://www.qubecinema.com/){:target="_blank"} -->
 <div style="text-align: center;">
-  <a href="https://www.qubecinema.com/">
+  <a href="https://www.qubecinema.com/"  target="_blank">
     <img src="/conference/2023/sponsors/QubeCinema.png" alt="Qube Cinema" title="Qube Cinema">
   </a>
 </div>

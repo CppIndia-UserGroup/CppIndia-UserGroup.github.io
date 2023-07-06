@@ -20,7 +20,7 @@ cppindiaconsponsors: false
 ---
 
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html">
+  <a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html"  target="_blank">
     <img src="/conference/2023/sponsors/intel-one-api.png" alt="Intel® oneAPI" title="Intel® oneAPI">
   </a>
 </div>

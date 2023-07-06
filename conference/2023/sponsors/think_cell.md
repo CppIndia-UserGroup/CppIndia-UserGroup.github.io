@@ -12,7 +12,7 @@ joinCppIndia: true
 cppindiaconsponsors: false
 ---
 <div style="text-align: center;">
-  <a href="https://www.think-cell.com/cppindiacon">
+  <a href="https://www.think-cell.com/en" target="_blank">
     <img src="/conference/2023/sponsors/think-cell.png" alt="think-cell" title="think-cell">
   </a>
 </div>
@@ -21,7 +21,7 @@ cppindiaconsponsors: false
 
 Would you like to know what it is like working as a [C++ developer](https://www.think-cell.com/cppindiacon){:target="_blank"} in a role with a <strong>highly competitive salary, life-style friendly hours</strong> and <strong>no deadlines or overtime</strong>?  
 
-[think-cell](https://www.think-cell.com/cppindiacon){:target="_blank"} ⁠is the leading data visualization software for business presentations. Our mission is to offer the most intuitive user interface for generating complex data-driven charts and slides, while at the same time ensuring seamless integration with Microsoft Office. We work on challenging visualization problems, reverse-engineer Microsoft’s code, and reinvent how slides are created. think-cell is the only German company funding a C++ ISO committee delegation, so there is a good chance that components we invent will find their way into the standard.
+[think-cell](https://www.think-cell.com/en){:target="_blank"} ⁠is the leading data visualization software for business presentations. Our mission is to offer the most intuitive user interface for generating complex data-driven charts and slides, while at the same time ensuring seamless integration with Microsoft Office. We work on challenging visualization problems, reverse-engineer Microsoft’s code, and reinvent how slides are created. think-cell is the only German company funding a C++ ISO committee delegation, so there is a good chance that components we invent will find their way into the standard.
 
 Right now, <strong>we are looking for smart, creative developers</strong> with a solid theoretical background to join our engineering team. What’s in it for you?
 
@@ -35,7 +35,7 @@ Right now, <strong>we are looking for smart, creative developers</strong> with a
 - An international team of brilliant minds
 - <strong>No scheduled meetings</strong>
 
-Ready to apply? Find out more [here](https://www.think-cell.com/cppindiacon){:target="_blank"}!
+**Ready to apply?** Find out more [here](https://www.think-cell.com/cppindiacon){:target="_blank"}!
 
 We look forward to hearing from you,<br>
 The team at think-cell 
