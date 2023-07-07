@@ -77,8 +77,8 @@ sidebar:
         url: /conference/2023/sponsors/intel
       - title: Qube Cinema
         url: /conference/2023/sponsors/qube_cinema
-      # - title: think_cell
-      #   url: /conference/2023/sponsors/think_cell
+      - title: think_cell
+        url: /conference/2023/sponsors/think_cell
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
