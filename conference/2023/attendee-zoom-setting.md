@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Zoom Settings for attendees
-permalink: /conference/2022/speakers/attendee_zoom_setting/
+permalink: /conference/2023/speakers/attendee_zoom_setting/
 toc: false
 widget: true
 speakers: true
@@ -10,12 +10,12 @@ joinCppIndia: true
 cppindiaconsponsors: false
 ---
 
-**CppIndiaCon 2022** will be an online conference via Zoom. An email with the link to the all-day conference will be sent a few days before the event. All talks will take place on the same Zoom event. To avoid last-minute delays, it is recommended that you install/update [Zoom](https://zoom.us/download){:target="_blank"} on your device beforehand.
+**CppIndiaCon 2023** will be an online conference via Zoom. An email with the link to the all-day conference will be sent a few days before the event. All talks will take place on the same Zoom event. To avoid last-minute delays, it is recommended that you install/update [Zoom](https://zoom.us/download){:target="_blank"} on your device beforehand.
 
 ## Joining a Zoom Webinar
 You will find the Zoom invite link in the email you received. If you are prompted to allow the Zoom application to open this application, please click on Open and the Zoom app will open the meeting. Provide your name and email address, then click Join Webinar or tap Join.
 
-![zoom_popup](/conference/2022/graphics/tech_help/zoom_popup.jpg "zoom_popup")
+![zoom_popup](/conference/2023/graphics/tech_help/zoom_popup.jpg "zoom_popup")
 
 If you do not want to use the Zoom desktop application, cancel the prompt, and click on the Join from your browser link on the Zoom webpage. *Please note that some features are not available in the browser-only experience*.
 
@@ -29,7 +29,7 @@ If the host hasn’t started broadcasting the webinar, you’ll receive the mess
 
 ## Webinar Controls
 
-![webinar_control](/conference/2022/graphics/tech_help/zoom_webinar_control.jpg "webinar_control")
+![webinar_control](/conference/2023/graphics/tech_help/zoom_webinar_control.jpg "webinar_control")
 
 ### Unmute / Mute: 
 You will be muted by default. When the host allows you to talk, you will receive a notification to unmute. Then, you can unmute and talk during the webinar. All participants will be able to hear you. 

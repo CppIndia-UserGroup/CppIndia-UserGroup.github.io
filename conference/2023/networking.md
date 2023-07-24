@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Networking during CppIndiaCon
-permalink: /conference/2022/networking/
+permalink: /conference/2023/networking/
 toc: false
 widget: true
 speakers: true
@@ -12,7 +12,7 @@ cppindiaconsponsors: false
 
 ## Platform
 
-[Discord](https://discord.gg/Wz42tX5){:target="_blank"} is our networking platform for CppIndiaCon 2021. Please join the server in advance and familirize yourself.
+[Discord](https://discord.gg/Wz42tX5){:target="_blank"} is our networking platform for CppIndiaCon 2023. Please join the server in advance and familiarize yourself.
 
 During this conference, you will see several text channels and voice/video/screen sharing tables.
 
@@ -21,19 +21,19 @@ During this conference, you will see several text channels and voice/video/scree
 Get in touch with other community members and share thoughts.
 
 ### How to join and switch tables?
-![How to join table](graphics/1_discord_table.gif)
+![How to join table](/conference/2023/graphics/tech_help/1_discord_table.gif)
 
 ### How to share screen?
-![How to share screen](graphics/2_discord_screen_sharing.gif)
+![How to share screen](/conference/2023/graphics/tech_help/2_discord_screen_sharing.gif)
 
 ### How to chat in discord voice channel?
-![How to chat in discord voice channel](/conference/2022/graphics/tech_help/How_to_talk_in_table.gif)
+![How to chat in discord voice channel](/conference/2023/graphics/tech_help/4_talk_in_table.gif)
 
-## What’s in [#welcome-rules-and-coc](https://discord.gg/jwN7ZrcN){:target="_blank"}?
+<!-- ## What’s in [#welcome-rules-and-coc](https://discord.gg/jwN7ZrcN){:target="_blank"}?
 This is an important channel. It is highly recommended to read the rules pinned in this channel.
 
 ## What's in [#announcement](https://discord.gg/83UxvueZ){:target="_blank"}?
-This is readonly channel. CppIndia will make announcments here throughout the day. Keep watching this channel.
+This is readonly channel. CppIndia will make announcements here throughout the day. Keep watching this channel.
 
 ## What’s in [#conference-help](https://discord.gg/4DqN468N){:target="_blank"}?
 You can ask any queries or doubts related to any of the talks or sessions from the Conference.
@@ -49,7 +49,7 @@ You can discuss any C++ related topic here.
 There will be a C++ trivia contest will be running throughout the day. We will be posting questions(puzzles, MCQ, design questions, etc.), for discussion. Anyone can share their opinions or what they understand on that topic. At the end of the day, winners will be announced.
 
 ## What's in [#contest-social-media](https://discord.gg/eVzGTReQ){:target="_blank"}?
-A socia media contest will be going on throughout the day. For rules and guidlines, please check pinned post in the channel.  At the end of the day, winners will be announced.
+A social media contest will be going on throughout the day. For rules and guidelines, please check pinned post in the channel.  At the end of the day, winners will be announced.
 
 ## What's in [#show-and-tell](https://discord.gg/P2qJDhfp){:target="_blank"}?
 Use the channel to show case any of your project, work, YouTube channel, Podcast etc. Self-Promotions.
@@ -82,7 +82,7 @@ There are few open voice tables for networking. Use these to intract with other 
 Use this channel to test and compile your code.
 Read [this link](https://headlinedev.xyz/discord-compiler/tutorial.html){:target="_blank"} to know how to use compiler bot.
 
-![How to compile code](graphics/3_compile_code.gif)
+![How to compile code](/conference/2023/graphics/tech_help/3_compile_code.gif)
 
 ## What’s in the [#new-member-introduction](https://discord.gg/tK2p9u8KFv){:target="_blank"}? 
 Let us all know about what a great personality you have! Maybe you can find people with similar interests here, or can make new connections.
@@ -92,6 +92,6 @@ Here’s a basic template what you can use to tell us about yourself:
 -  Your location. 
 -  What are you currently doing (Working Professional/Student/Other)
 -  Your hobbies/interests.
--  Profile or portfolio links.
+-  Profile or portfolio links. -->
 
 
