@@ -56,7 +56,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
     </tr>
     <tr>
       <td style="text-align: center">11:30 - 12:30</td>
-      <td style="text-align: center"><strong>Introduction to Intel OneAPI</strong></td>
+      <td style="text-align: center"><strong>Introduction to Intel oneAPI</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/kiran/">Kiran Kannappan</a></td>
       <td style="text-align: left">
       Working with heterogeneous compute environments has become the requirement of the day, <span id="hidden-second" style="display:none"> the ecosystem needed like programming languages, optimization tools still remain different requiring code rewrites. oneAPI an industry initiative by Intel, makes a bold attempt to bridge this gap, providing a unified development system to enhance productivity. Intel also provides oneAPI tools, to work with various compute hardware with one point of entry. This is the language SYCL/DPC++ (Data Parallel C++)
