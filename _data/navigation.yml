@@ -46,8 +46,8 @@ sidebar:
         url: /TechTalk/2021/
       - title: "2020"
         url: /TechTalk/2020/
-  - title: Time Travel Debugging Hackathon 2023
-    url: /hackthon/hackathon2023
+  # - title: Time Travel Debugging Hackathon 2023
+  #   url: /hackthon/hackathon2023
   - title: CppIndiaCon 2023
     url: /conference/2023/conference_home/
     children:
@@ -77,8 +77,10 @@ sidebar:
         url: /conference/2023/sponsors/intel
       - title: Qube Cinema
         url: /conference/2023/sponsors/qube_cinema
-      - title: think cell
+      - title: think-cell
         url: /conference/2023/sponsors/think_cell
+      # - title: Bloomberg LP
+      #   url: /conference/2023/sponsors/bloomberg
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
