@@ -79,8 +79,8 @@ sidebar:
         url: /conference/2023/sponsors/qube_cinema
       - title: think-cell
         url: /conference/2023/sponsors/think_cell
-      # - title: Bloomberg LP
-      #   url: /conference/2023/sponsors/bloomberg
+      - title: Bloomberg LP
+        url: /conference/2023/sponsors/bloomberg
   - title: CppIndiaCon 2022
     url: /conference/2022/conference_home/
     children:
