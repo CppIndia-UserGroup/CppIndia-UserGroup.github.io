@@ -37,7 +37,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
     </tr>
     <tr>
-      <td style="text-align: center">10:00 - 11:00
+      <td style="text-align: center">10:00 - 11:00 <br><!--Change here-->
       </td>
       <td style="text-align: center"><strong>Optimization Design Patterns</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/mike/">Mike Shah</a></td>
@@ -55,7 +55,8 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">11:30 - 12:30</td>
+      <td style="text-align: center">11:30 - 12:30 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>Introduction to Intel oneAPI</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/kiran/">Kiran Kannappan</a></td>
       <td style="text-align: left">
@@ -72,7 +73,8 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">13:00 - 14:00</td>
+      <td style="text-align: center">13:00 - 14:00 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>C++ Features You Might Not Know</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/jonathan/">Jonathan Muller</a></td>
       <td style="text-align: left">
@@ -84,13 +86,14 @@ This is an **online conference** that will be held on Zoom for the talks while D
       </td>
     </tr>
     <tr>
-      <td style="text-align: center">14:00 - 15:00</td>
+      <td style="text-align: center">14:00 - 15:00 </td>
       <td style="text-align: center">Lunch &amp; Networking</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">15:00 - 16:00</td>
+      <td style="text-align: center">15:00 - 16:00 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>Understanding common concurrency patterns with tricky examples</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ravikiran/">Venkata Naga Ravikiran Bulusu</a></td>
       <td style="text-align: left">
@@ -103,13 +106,14 @@ This is an **online conference** that will be held on Zoom for the talks while D
       </td>
     </tr>
     <tr>
-      <td style="text-align: center">16:00 - 16:30</td>
+      <td style="text-align: center">16:00 - 16:30 </td>
       <td style="text-align: center">30 min Break &amp; Networking</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">16:30 - 17:30</td>
+      <td style="text-align: center">16:30 - 17:30 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>AI-assisted programming (ChatGPT, etc)</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/bryce/">Bryce Adelstein Lelbach </a></td>
       <td style="text-align: left">
@@ -123,7 +127,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
       </td>
     </tr>
     <tr>
-      <td style="text-align: center">17:30 - 17:45</td>
+      <td style="text-align: center">17:30 - 17:45 </td>
       <td style="text-align: center"><strong>Day 1 closure</strong></td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: left">&nbsp;</td>
@@ -157,7 +161,7 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
     </tr>
     <tr>
-      <td style="text-align: center">10:00 - 11:00
+      <td style="text-align: center">10:00 - 11:00 <br><!--Change here-->
       </td>
       <td style="text-align: center"><strong>Value-Oriented Design - by example</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ankur/">Ankur Satle
@@ -170,13 +174,14 @@ This is an **online conference** that will be held on Zoom for the talks while D
       </td>
     </tr>
     <tr>
-      <td style="text-align: center">11:00 - 11:30</td>
+      <td style="text-align: center">11:00 - 11:30 </td>
       <td style="text-align: center">30 min Break &amp; Networking</td>
       <td style="text-align: center">&nbsp;</td>
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">11:30 - 12:30</td>
+      <td style="text-align: center">11:30 - 12:30 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>C++ Coroutines from scratch</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/andreas/">Andreas Fertig</a></td>
       <td style="text-align: left">
@@ -197,7 +202,8 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">13:00 - 14:00</td>
+      <td style="text-align: center">13:00 - 14:00 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>Using C++ for your Artificial Intelligence Solution</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ravi/">Kushashwa Ravi Shrimali</a></td>
       <td style="text-align: left">
@@ -214,7 +220,8 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">15:00 - 16:00</td>
+      <td style="text-align: center">15:00 - 16:00 <br><!--Change here-->
+      </td>
       <td style="text-align: center"><strong>Why 5G is Fast? and C++ in 5G Open Source</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/selvakumar/">Selvakumar Jawahar</a></td>
       <td style="text-align: left">
