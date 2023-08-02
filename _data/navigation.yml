@@ -69,8 +69,8 @@ sidebar:
       #   url: /conference/2023/speakers/tech-help/  
       - title: "Sponsorship"
         url: /conference/2023/Sponsor/
-      #     - title: "Networking"
-      #       url: /conference/2023/networking/
+      - title: "Networking"
+        url: /conference/2023/networking/
   - title: CppIndiaCon 2023 Sponsors
     children:
       - title: Intel
