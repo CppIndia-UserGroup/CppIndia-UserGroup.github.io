@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Zoom Settings for attendees
-permalink: /conference/2023/speakers/attendee_zoom_setting/
+permalink: /conference/2023/attendee_zoom_setting/
 toc: false
 widget: true
 speakers: true

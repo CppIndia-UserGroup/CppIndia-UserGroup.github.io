@@ -65,8 +65,8 @@ sidebar:
         url: /conference/2023/schedule/
       - title: "Speakers"
         url: /conference/2023/speakers/speakers/
-      # - title: "Conference self-help"
-      #   url: /conference/2023/speakers/tech-help/  
+      - title: "Conference self-help"
+        url: /conference/2023/tech-help/  
       - title: "Sponsorship"
         url: /conference/2023/Sponsor/
       - title: "Networking"
