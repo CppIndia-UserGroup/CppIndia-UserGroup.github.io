@@ -37,7 +37,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
     </tr>
     <tr>
-      <td style="text-align: center">10:00 - 11:00 <br><!--Change here-->
+      <td style="text-align: center">10:00 - 11:00 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230804T043000Z%2F20230804T053000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Optimization%20Design%20Patterns%20by%20Mike%20Shah" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T05%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T04%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Optimization%20Design%20Patterns%20by%20Mike%20Shah" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T05%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T04%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Optimization%20Design%20Patterns%20by%20Mike%20Shah" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a><!--Change here-->
       </td>
       <td style="text-align: center"><strong>Optimization Design Patterns</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/mike/">Mike Shah</a></td>
@@ -55,7 +58,11 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">11:30 - 12:30 <br><!--Change here-->
+      <td style="text-align: center">11:30 - 12:30 <br>
+      Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230804T060000Z%2F20230804T070000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Introduction%20to%20Intel%20oneAPI%20by%20Kiran%20Kannappan" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T07%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T06%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Introduction%20to%20Intel%20oneAPI%20by%20Kiran%20Kannappan" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T07%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T06%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Introduction%20to%20Intel%20oneAPI%20by%20Kiran%20Kannappan" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>Introduction to Intel oneAPI</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/kiran/">Kiran Kannappan</a></td>
@@ -73,7 +80,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">13:00 - 14:00 <br><!--Change here-->
+      <td style="text-align: center">13:00 - 14:00 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230804T073000Z%2F20230804T083000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Features%20You%20Might%20Not%20Know%20by%20Jonathan%20Muller" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T08%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T07%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Features%20You%20Might%20Not%20Know%20by%20Jonathan%20Muller" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T08%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T07%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Features%20You%20Might%20Not%20Know%20by%20Jonathan%20Muller" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>C++ Features You Might Not Know</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/jonathan/">Jonathan Muller</a></td>
@@ -92,7 +102,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">15:00 - 16:00 <br><!--Change here-->
+      <td style="text-align: center">15:00 - 16:00 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230804T093000Z%2F20230804T103000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Understanding%20common%20concurrency%20patterns%20with%20tricky%20examples%20by%20Venkata%20Naga%20Ravikiran%20Bulusu" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T10%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T09%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Understanding%20common%20concurrency%20patterns%20with%20tricky%20examples%20by%20Venkata%20Naga%20Ravikiran%20Bulusu" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T10%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T09%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Understanding%20common%20concurrency%20patterns%20with%20tricky%20examples%20by%20Venkata%20Naga%20Ravikiran%20Bulusu" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>Understanding common concurrency patterns with tricky examples</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ravikiran/">Venkata Naga Ravikiran Bulusu</a></td>
@@ -112,7 +125,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">16:30 - 17:30 <br><!--Change here-->
+      <td style="text-align: center">16:30 - 17:30 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230804T110000Z%2F20230804T120000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20AI-assisted%20programming%20%28ChatGPT%2C%20etc%29%20by%20Bryce%20Adelstein%20Lelbachu" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T12%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T11%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20AI-assisted%20programming%20%28ChatGPT%2C%20etc%29%20by%20Bryce%20Adelstein%20Lelbach" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-04T12%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-04T11%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20AI-assisted%20programming%20%28ChatGPT%2C%20etc%29%20by%20Bryce%20Adelstein%20Lelbach" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>AI-assisted programming (ChatGPT, etc)</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/bryce/">Bryce Adelstein Lelbach </a></td>
@@ -161,7 +177,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">Welcome, familiarisation with the conference setup and Networking tools.</td>
     </tr>
     <tr>
-      <td style="text-align: center">10:00 - 11:00 <br><!--Change here-->
+      <td style="text-align: center">10:00 - 11:00 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230805T043000Z%2F20230805T053000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Value-Oriented%20Design%20-%20by%20example%20by%20Ankur%20Satle" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T05%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T04%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Value-Oriented%20Design%20-%20by%20example%20by%20Ankur%20Satle" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T05%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T04%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Value-Oriented%20Design%20-%20by%20example%20by%20Ankur%20Satle" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>Value-Oriented Design - by example</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ankur/">Ankur Satle
@@ -180,7 +199,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">11:30 - 12:30 <br><!--Change here-->
+      <td style="text-align: center">11:30 - 12:30 <br>Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230805T060000Z%2F20230805T070000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Coroutines%20from%20scratch%20by%20Andreas%20Fertig" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T07%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T06%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Coroutines%20from%20scratch%20by%20Andreas%20Fertig" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T07%3A00%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T06%3A00%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20C%2B%2B%20Coroutines%20from%20scratch%20by%20Andreas%20Fertig" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>C++ Coroutines from scratch</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/andreas/">Andreas Fertig</a></td>
@@ -202,7 +224,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">13:00 - 14:00 <br><!--Change here-->
+      <td style="text-align: center">13:00 - 14:00 <br><!--Change here-->Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230805T073000Z%2F20230805T083000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Using%20C%2B%2B%20for%20your%20Artificial%20Intelligence%20Solution%20by%20Kushashwa%20Ravi%20Shrimali" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T08%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T07%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Using%20C%2B%2B%20for%20your%20Artificial%20Intelligence%20Solution%20by%20Kushashwa%20Ravi%20Shrimali" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T08%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T07%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Using%20C%2B%2B%20for%20your%20Artificial%20Intelligence%20Solution%20by%20Kushashwa%20Ravi%20Shrimali" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>Using C++ for your Artificial Intelligence Solution</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/ravi/">Kushashwa Ravi Shrimali</a></td>
@@ -220,7 +245,10 @@ This is an **online conference** that will be held on Zoom for the talks while D
       <td style="text-align: left">&nbsp;</td>
     </tr>
     <tr>
-      <td style="text-align: center">15:00 - 16:00 <br><!--Change here-->
+      <td style="text-align: center">15:00 - 16:00 <br><!--Change here-->Add to 
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&dates=20230805T093000Z%2F20230805T103000Z&details=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&location=Zoom%20Virtual&text=%5BCppIndiaCon%202023%5D%20Why%205G%20is%20Fast%3F%20and%20C%2B%2B%20in%205G%20Open%20Source%20by%20Selvakumar%20Jawahar" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Google</a><br>
+        <a href="https://outlook.live.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T10%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T09%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Why%205G%20is%20Fast%3F%20and%20C%2B%2B%20in%205G%20Open%20Source%20by%20Selvakumar%20Jawahar" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Outlook</a><br>
+        <a href="https://outlook.office.com/calendar/0/action/compose?body=Register%20for%20CppIndiaCon%202023%20to%20join%20the%20talk%20https%3A%2F%2Fwww.cppindia.co.in%2Fconference%2F2023%2FCppIndiaCon-reg-form%2F%20&enddt=2023-08-05T10%3A30%3A00%2B00%3A00&location=Zoom%20Virtual&path=%2Fcalendar%2Faction%2Fcompose&rru=addevent&startdt=2023-08-05T09%3A30%3A00%2B00%3A00&subject=%5BCppIndiaCon%202023%5D%20Why%205G%20is%20Fast%3F%20and%20C%2B%2B%20in%205G%20Open%20Source%20by%20Selvakumar%20Jawahar" target="_blank" style="text-decoration: underline;" title="Save Event in my Calendar">Office</a>
       </td>
       <td style="text-align: center"><strong>Why 5G is Fast? and C++ in 5G Open Source</strong></td>
       <td style="text-align: center"><a href="/conference/2023/speakers/selvakumar/">Selvakumar Jawahar</a></td>
