@@ -4,7 +4,7 @@ title: Resources
 permalink: /resources/resources
 toc: false
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 speakers: true
 

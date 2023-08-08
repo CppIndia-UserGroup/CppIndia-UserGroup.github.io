@@ -5,7 +5,7 @@ permalink: /conference/2021/networking/
 toc: false
 widget: true
 speakers: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 cppindiaconsponsors: false
 ---
 

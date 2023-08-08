@@ -5,7 +5,7 @@ permalink: /conference/2022/speakers/inbal/
 toc: false
 widget: true
 speakers: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

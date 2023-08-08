@@ -4,7 +4,7 @@ title: CppIndiaCon Sponsors Space
 permalink: /conference/2021/Sponsor/
 toc: false
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 speakers: true
 cppindiaconsponsors: false
 ---

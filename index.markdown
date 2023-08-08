@@ -3,7 +3,7 @@ toc: false
 layout: home
 title: <center>India's very own C++ Community
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 speakers: true
 cppindiaconsponsors: false

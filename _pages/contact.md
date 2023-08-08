@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /_pages/contact/
 toc: false
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 speakers: true
 ---

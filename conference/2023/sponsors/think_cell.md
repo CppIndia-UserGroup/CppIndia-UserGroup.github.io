@@ -7,7 +7,7 @@ permalink: /conference/2023/sponsors/think_cell
 toc: false
 speakers: true
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

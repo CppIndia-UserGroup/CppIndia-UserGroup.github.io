@@ -5,7 +5,7 @@ permalink: /hackthon/hackathon2023
 toc: false
 widget: true
 speakers: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

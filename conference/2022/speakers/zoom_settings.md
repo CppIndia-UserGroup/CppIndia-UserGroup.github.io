@@ -5,7 +5,7 @@ permalink: /conference/2022/speakers/zoom_settings/
 toc: false
 widget: true
 speakers: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

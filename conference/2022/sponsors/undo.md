@@ -6,7 +6,7 @@ permalink: /conference/2022/sponsors/undo
 toc: false
 speakers: true
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---

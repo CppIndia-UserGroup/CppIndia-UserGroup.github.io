@@ -3,7 +3,7 @@ toc: true
 layout: home
 title: "About CppIndia"
 widget: true
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: true
 speakers: true
 ---
