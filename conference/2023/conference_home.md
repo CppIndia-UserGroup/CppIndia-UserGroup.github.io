@@ -10,8 +10,11 @@ joinCppIndia: true
 cppindiaconsponsors: false
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
+[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
 
-[![CppIndiaCon](/conference/2023/graphics/CppIndiaCon2023.png "CppIndiaCon2023")](/conference/2023/CppIndiaCon-reg-form/)
+<img src="/conference/2023/graphics/CppIndiaCon2023.png" alt="CppIndiaCon2023 Image">
+
+## [Unveiling the Triumph - A Reflection on CppIndiaCon 2023's Spectacular Journey (Report)](/conference/2023/conference_report/)
 
 Welcome to <strong>CppIndiaCon2023</strong>.<br> 
 <i>The 3rd annual international C++ festival<i> celebration hosted by CppIndia!

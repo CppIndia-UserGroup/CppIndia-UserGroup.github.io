@@ -11,6 +11,7 @@ cppindiaconsponsors: false
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
 Author: [Dheeraj Jha](https://www.jhadheeraj.com/)
+[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
 
 ## Testimonial
 <div class="image-container">
@@ -26,17 +27,17 @@ As we stride forward in our mission to strengthen the C++ community, I am deligh
 Join me as I take you on a captivating journey, reflecting on the meticulous planning that went into making CppIndiaCon 2023 a resounding success. From its inception to the heartwarming interactions during the event, this blog will recount the experiences, appreciate the contributions, and envision the bright future that lies ahead for CppIndia and its passionate community of C++ developers. 
 
 # Planning and Execution of CppIndiaCon 2023: A Journey to Success 
-Like the previous iterations of CppIndiaCon, CppIndiaCon 2023 proved to be a resounding success. This year, we undertook several trial runs to ensure a seamless experience. 
+Like the previous iterations of CppIndiaCon, ***CppIndiaCon 2023*** proved to be a resounding success. This year, we undertook several trial runs to ensure a seamless experience. 
 
-Our journey began in January 2023, with the first question revolving around the conference dates. It was clear that August was the month of choice. Aligning with CppIndia's birth date on August 15th, a date symbolic for our community, we aimed for this month. However, considering the Indian Independence Day on the same date, we decided to sidestep that week. With Raksha Bandhan, a significant festival in India, taking place on August 30th, that week was also marked off, eventually leading us to select the first week of August. 
+Our journey began in *January 2023*, with the first question revolving around the conference dates. It was clear that August was the month of choice. Aligning with CppIndia's birth date on August 15th, a date symbolic for our community, we aimed for this month. However, considering the Indian Independence Day on the same date, we decided to sidestep that week. With Raksha Bandhan, a significant festival in India, taking place on August 30th, that week was also marked off, eventually leading us to select the first week of August. 
 
 Traditionally, our regular sessions and previous conferences were held on weekends. Contemplating hosting the conference on a weekday was met with uncertainty. We weighed the potential drawbacks of attendees being preoccupied with work or studies against the convenience of attending a virtual conference from home or office. This deliberation, while discussed within the team numerous times, yielded no definitive numbers in favor of either choice. 
 
 Opting to take a chance, we decided on a Friday and Saturday event, scheduled for August 4th and 5th. With dates set, we delved into execution, dividing responsibilities among ourselves – I, Mahendra, and Ankur. We established web pages and speaker application forms on our website, initiating efforts to spread the word. The response was swift, with talk proposals flowing in. 
 
-In the months of May and June, we put out a call for volunteers, and the response from our community was fantastic as people eagerly filled out the form. With 22 enthusiastic volunteers registering, we kicked off our work, joining forces with both our returning volunteers from the previous year and the fresh faces who were joining the team for the first time. 
+In the months of May and June, we put out a call for volunteers, and the response from our community was fantastic as people eagerly filled out the form. With *22 enthusiastic volunteers* registering, we kicked off our work, joining forces with both our returning volunteers from the previous year and the fresh faces who were joining the team for the first time. 
 
-Utilizing Zoom as the platform of choice for the conference and leveraging the CppIndia Discord server for networking, we explored Discord Stage for post-talk Q&A, which turned out to be a successful addition. One observation was that transitioning between Zoom and Discord wasn't as seamless as desired, prompting the search for an improved solution for future virtual events. 
+Utilizing **Zoom** as the platform of choice for the conference and leveraging the CppIndia Discord server for networking, we explored Discord Stage for post-talk Q&A, which turned out to be a successful addition. One observation was that transitioning between Zoom and Discord wasn't as seamless as desired, prompting the search for an improved solution for future virtual events. 
 
 This year saw over 20 talk proposals, a notable increase from prior conferences. In mid-April, we meticulously evaluated each proposal, meticulously curating the final talks that would shape the conference content. ([CppIndiaCon 2023 Schedule](https://www.cppindia.co.in/conference/2023/schedule/)) 
 
@@ -69,15 +70,15 @@ Demographic insights can be found below in the accompanying visuals.
 
 # A Journey of Gratitude and Achievements 
 
-As the echoes of CppIndiaCon 2023 continue to reverberate, we find ourselves overwhelmed with gratitude for each individual who registered and contributed to the triumph of this remarkable event. At the heart of this success beats the vibrant pulse of the CppIndians community – the driving force that fueled the resounding accomplishment of CppIndiaCon 2023. 
+As the echoes of **CppIndiaCon 2023** continue to reverberate, we find ourselves overwhelmed with gratitude for each individual who registered and contributed to the triumph of this remarkable event. At the heart of this success beats the vibrant pulse of the CppIndians community – the driving force that fueled the resounding accomplishment of CppIndiaCon 2023. 
 
-A special tribute is owed to Sparsh, Subhash, Kashish, and Krishnan, whose unwavering support in hosting engaging Q&A sessions was invaluable. We extend our heartfelt appreciation to Kashish and Hemil for orchestrating the captivating C++ Trivia event, and our gratitude to Harshal and Thilak for crafting captivating social media content that resonated with our audience. 
+A special tribute is owed to **Sparsh**, **Subhash**, **Kashish**, and **Krishnan**, whose unwavering support in hosting engaging Q&A sessions was invaluable. We extend our heartfelt appreciation to **Kashish** and **Hemil** for orchestrating the captivating C++ Trivia event, and our gratitude to **Harshal** and **Thilak** for crafting captivating social media content that resonated with our audience. 
 
-Behind the scenes, the unyielding dedication of our backbone team – Jayshree, Subhash, and Niket – ensured the seamless execution of the conference, managing the intricate backend setup that powered the event's success. 
+Behind the scenes, the unyielding dedication of our backbone team – **Jayshree**, **Subhash**, and **Niket** – ensured the seamless execution of the conference, managing the intricate backend setup that powered the event's success. 
 
-A pivotal role in our journey was played by Mahendra and Ankur, whose steadfast support and guidance steered us toward triumph. Their profound commitment to CppIndiaCon 2023 and CppIndia as a whole have been instrumental in elevating the community to new heights. 
+A pivotal role in our journey was played by **Mahendra** and **Ankur**, whose steadfast support and guidance steered us toward triumph. Their profound commitment to CppIndiaCon 2023 and CppIndia as a whole have been instrumental in elevating the community to new heights. 
 
-We extend our sincere appreciation to our esteemed speakers – Bryce, Mike Shah, Kiran Kannappan, Jonathan Muller, Venkata Naga Ravikiran Bulusu, Ankur Satle, Andreas Fertig, Kushashwa Ravi Shrimali, Selvakumar Jawahar, Mahendra, Prince Gupta, and Emmanuel Danso Nyarko – for enriching the conference with their expertise and insights. 
+We extend our sincere appreciation to our esteemed speakers – *Bryce, Mike Shah, Kiran Kannappan, Jonathan Muller, Venkata Naga Ravikiran Bulusu, Ankur Satle, Andreas Fertig, Kushashwa Ravi Shrimali, Selvakumar Jawahar, Mahendra, Prince Gupta, and Emmanuel Danso Nyarko* – for enriching the conference with their expertise and insights. 
 
 CppIndiaCon stands as a monumental platform, the largest C++ conference in India, fostering the exchange of knowledge and ideas among passionate C++ enthusiasts. Beyond the talks, it is a canvas for showcasing personal projects and hobbies, fostering connections, and seeking guidance from industry leaders within the expansive realm of C++. 
 
@@ -91,7 +92,7 @@ In the span of two engaging days, CppIndiaCon 2023 unfolded with a rich assortme
 <table>
     <tr>
         <th>Topic</th>
-        <th>Rating</th>
+        <th>Avg Rating</th>
     </tr>
     <tr>
         <td>Optimization Design Patterns</td>
@@ -165,7 +166,7 @@ Following a dynamic Discord networking interlude, **Kiran Kannappan** enlightene
         <td><img src="/conference/2023/graphics/stats/Jonathan (4).png" alt="Image 2"></td>
     </tr>
 </table>
-The exploration of C++ continued to evolve as Venkata Naga Ravikiran Bulusu delved into the intricate realm of concurrency with "Understanding Common Concurrency Patterns with Tricky Examples." Ravikiran ingeniously crafted scenarios to elucidate the design of diverse concurrency challenges while unveiling tools to aid developers in navigating these complex waters. 
+The exploration of C++ continued to evolve as **Venkata Naga Ravikiran Bulusu** delved into the intricate realm of concurrency with "**Understanding Common Concurrency Patterns with Tricky Examples.**" Ravikiran ingeniously crafted scenarios to elucidate the design of diverse concurrency challenges while unveiling tools to aid developers in navigating these complex waters. 
 <table>
     <tr>
         <td><img src="/conference/2023/graphics/stats/ravikiran (1).png" alt="Image 1"></td>
@@ -189,28 +190,98 @@ The conference's centrepiece arrived at 4:30 PM IST, with **Bryce**'s keynote pr
 </table>
 
 ## Day 2: A Cascade of Insights
-Day two unfurled with renewed energy and a design-oriented discourse by Ankur Satle. His talk, "Value-Oriented Design," advocated for unlearning established methodologies, shedding light on compiler-generated ways of value-oriented programming as an alternative to traditional object-oriented approaches. 
-
-Andreas Fertig followed suit, elucidating the intricate landscape of C++ Coroutines with his session "C++ Coroutines from Scratch." With eloquence, he demystified the journey from functions to coroutines, decoding various customization points and coroutine keywords, all while exploring the realm of generators. 
-
-As the clock struck 1:00 PM IST, Kushashwa Ravi Shrimali captured the audience's attention with "Using C++ for Your Artificial Intelligence Solution." Through insightful elucidation, he navigated the synergy between C++ and AI, sharing poignant advice on open-source contributions and the importance of understanding the tools we wield. 
-
-Selvakumer Jawahar's presentation, "Why 5G is Fast? and C++ in 5G Open Source," shed light on the architecture of 5G Core and unveiled open-source C++ frameworks that underpin 5G components, offering a glimpse into the intersection of C++ and groundbreaking technology. 
+Day two unfurled with renewed energy and a design-oriented discourse by **Ankur Satle**. His talk, "**Value-Oriented Design**", advocated for unlearning established methodologies, shedding light on compiler-generated ways of value-oriented programming as an alternative to traditional object-oriented approaches. 
+<table>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Ankur (1).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Ankur (2).png" alt="Image 2"></td>
+    </tr>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Ankur (3).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Ankur (4).png" alt="Image 2"></td>
+    </tr>
+</table>
+**Andreas Fertig** followed suit, elucidating the intricate landscape of C++ Coroutines with his session "**C++ Coroutines from Scratch**". With eloquence, he demystified the journey from functions to coroutines, decoding various customization points and coroutine keywords, all while exploring the realm of generators. 
+<table>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Andreas (1).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Andreas (2).png" alt="Image 2"></td>
+    </tr>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Andreas (3).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Andreas (4).png" alt="Image 2"></td>
+    </tr>
+</table>
+As the clock struck 1:00 PM IST, **Kushashwa Ravi Shrimali** captured the audience's attention with "**Using C++ for Your Artificial Intelligence Solution**". Through insightful elucidation, he navigated the synergy between C++ and AI, sharing poignant advice on open-source contributions and the importance of understanding the tools we wield. 
+<table>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Kushwashwa (1).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Kushwashwa (2).png" alt="Image 2"></td>
+    </tr>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Kushwashwa (3).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Kushwashwa (4).png" alt="Image 2"></td>
+    </tr>
+</table>
+**Selvakumer Jawahar**'s presentation, "**Why 5G is Fast? and C++ in 5G Open Source**", shed light on the architecture of 5G Core and unveiled open-source C++ frameworks that underpin 5G components, offering a glimpse into the intersection of C++ and groundbreaking technology. 
+<table>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Selva (1).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Selva (2).png" alt="Image 2"></td>
+    </tr>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/Selva (3).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/Selva (4).png" alt="Image 2"></td>
+    </tr>
+</table>
 
 ### Lightning Talks: Insights in a Flash
-The conference drew to a close with a flurry of enlightening lightning talks. Prince Gupta eloquently expounded on "Taking Advantage of Auto Vectorization," revealing the benefits of this optimization technique. Emmanuel Danso Nyarko transported us to Ghana with "Understanding Dynamic Allocators for Optimization in Containers," and Mahendra Garodi unveiled the world of "Standard C++ Attributes." 
-
+The conference drew to a close with a flurry of enlightening lightning talks. **Prince Gupta** eloquently expounded on "**Taking Advantage of Auto Vectorization**", revealing the benefits of this optimization technique. **Emmanuel Danso Nyarko** transported us to Ghana with "**Understanding Dynamic Allocators for Optimization in Containers**" and **Mahendra Garodi** unveiled the world of "**Standard C++ Attributes**". 
+<table>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/LT (6).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/LT (2).png" alt="Image 2"></td>
+    </tr>
+    <tr>
+        <td><img src="/conference/2023/graphics/stats/LT (3).png" alt="Image 1"></td>
+        <td><img src="/conference/2023/graphics/stats/LT (5).png" alt="Image 2"></td>
+    </tr>
+</table>
 As the curtain fell on Day 2, a sense of fulfilment and camaraderie enveloped the virtual space, marking the successful conclusion of CppIndiaCon 2023. The symphony of talks, discussions, and connections resonated deeply, encapsulating the spirit of learning, collaboration, and innovation that defines the C++ community. 
+<br>
 
 # A Heartfelt Appreciation to Our Gold Sponsors at CppIndiaCon 2023
-Gratitude flows abundantly as we extend our heartfelt appreciation to our esteemed Gold sponsors, whose unwavering support has been instrumental in making CppIndiaCon 2023 a resounding success. With esteemed partners like Intel Software, Qube Cinema, think-cell, and Bloomberg LP standing by our side, it becomes evident that our community is advancing on the right path, fostering growth, and collectively creating a remarkable impact. Your support echoes the strength of our collective endeavour, and we are deeply honoured to have partners who share our vision and propel us forward. 
+Gratitude flows abundantly as we extend our heartfelt appreciation to our esteemed Gold sponsors, whose unwavering support has been instrumental in making CppIndiaCon 2023 a resounding success. With esteemed partners like ***Intel Software, Qube Cinema, think-cell, and Bloomberg LP*** standing by our side, it becomes evident that our community is advancing on the right path, fostering growth, and collectively creating a remarkable impact. Your support echoes the strength of our collective endeavour, and we are deeply honoured to have partners who share our vision and propel us forward. 
 
 <!-- logo & links -->
+<table>
+    <tr>
+        <td><a href="https://www.think-cell.com/cppindiacon" target="_blank"><img class="linked-image" src="/conference/2023/sponsors/think-cell.png" alt="think-cell"></a></td>
+        <td><a href="https://www.qubecinema.com/" target="_blank"><img class="linked-image" src="/conference/2023/sponsors/QubeCinema.png" alt="Qube Cinema"></a></td>
+    </tr>
+    <tr>
+        <td><a href="https://www.intel.com/content/www/us/en/developer/tools/oneapi/toolkits.html" target="_blank"><img class="linked-image" src="/conference/2023/sponsors/intel.png" alt="Intel Software"></a></td>
+        <td><a href="https://www.techatbloomberg.com/" target="_blank"><img class="linked-image" src="/conference/2023/sponsors/bloomberg.png" alt="Bloomberg LP"></a></td>
+    </tr>
+</table>
+<br>
+
+<div style="border-left: 3px solid #ccc; padding-left: 10px; margin: 10px;">
+    <p style="font-style: italic; color: #555;">think-cell is hiring. Apply now:</p>
+    <ul style="list-style-type: disc; margin-left: 20px;">
+        <li><a href="https://www.think-cell.com/cppindiacon" target="_blank" style="text-decoration: none; color: #007bff;">C++ developers</a></li>
+        <li><a href="https://www.think-cell.com/cppindiacon_testing" target="_blank" style="text-decoration: none; color: #007bff;">Software testers</a></li>
+    </ul>
+</div>
+
+<div style="border-left: 3px solid #ccc; padding-left: 10px; margin: 10px;">
+    <p><a href="https://forms.office.com/r/msivcA8k9z" target="_blank" style="text-decoration: none; color: #007bff;">Intel Survey link</a></p>
+</div><br>
 
 # Embracing the Future with In-Person Meetups and New Goals  
 
 As the curtains fall on CppIndiaCon 2023, we embark on an exciting journey towards our next endeavour. Our sights are set on the horizon, with plans to bring CppIndiaCon 2023 to life in a vibrant in-person format. But before that, we're thrilled to announce a series of upcoming physical meetups that will serve as steppingstones on this path. 
 
-Our first meetup is scheduled to take place before December 2023, marking a significant stride toward achieving our annual objectives. We invite you to be a part of this engaging journey, whether by joining us physically, sharing your ideas, or considering sponsorship opportunities for CppIndia. Reach out to us at info@cppindia.co.in to express your interest or contribute to our vibrant community. 
+*Our first meetup is scheduled to take place before December 2023*, marking a significant stride toward achieving our annual objectives. We invite you to be a part of this engaging journey, whether by joining us physically, sharing your ideas, or considering sponsorship opportunities for CppIndia. Reach out to us at [info@cppindia.co.in](mailto:info@cppindia.co.in) to express your interest or contribute to our vibrant community. 
 
-We encourage you to become a part of our vibrant discussions by joining our Discord server. Together, we'll shape the future of CppIndia and continue our mission of fostering knowledge, collaboration, and growth within the C++ community. 
+We encourage you to become a part of our vibrant discussions by joining our [Discord server](https://discord.gg/Wz42tX5){:target="_blank"}. Together, we'll shape the future of CppIndia and continue our mission of fostering knowledge, collaboration, and growth within the C++ community. 
