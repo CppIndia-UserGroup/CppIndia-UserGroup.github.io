@@ -14,7 +14,7 @@ cppindiaconsponsors: false
 
 [![Ankur Satle](/assets/images/www.png "Ankur Satle")](https://ankursatle.wordpress.com/){:target="_blank"}
 [![Ankur Satle](/assets/images/linkedin.png "Ankur Satle")](https://www.linkedin.com/in/ankursatle/){:target="_blank"}
-[![Ankur Satle](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Ankur Satle")](https://github.com/sankurm){:target="_blank"}
+[![Ankur Satle](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Ankur Satle")](https://github.com/sankurm){:style="max-width:50px;"}{:target="_blank"}
 [![Ankur Satle](/assets/images/you-tube.png "Ankur Satle")](https://www.youtube.com/results?search_query=ankur+satle){:target="_blank"}
 [![Ankur Satle](/assets/images/twitter.png "Ankur Satle")](https://twitter.com/AnkurSatle){:target="_blank"}
 
