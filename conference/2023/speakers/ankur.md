@@ -17,7 +17,9 @@ cppindiaconsponsors: false
 [![Ankur Satle](/assets/images/you-tube.png "Ankur Satle")](https://www.youtube.com/results?search_query=ankur+satle){:target="_blank"}
 [![Ankur Satle](/assets/images/twitter.png "Ankur Satle")](https://twitter.com/AnkurSatle){:target="_blank"}
 
-[comment]: # [![Ankur Satle](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Ankur Satle")](https://github.com/sankurm){:style="width:50px"}
+{% comment %}
+[![Ankur Satle](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "Ankur Satle")](https://github.com/sankurm){:style="width:50px"}
+{% endcomment %}
 
 **Ankur Satle** is an **Architect** working on **Telecom products** at [EXFO](https://www.exfo.com/){:target="_blank"}. He has extensively worked on **high-performance 3G/4G/5G/IMS/VoIP products, Network Monitoring, OSS/BSS** monolith & distributed systems in his two decades of experience. He is currently exploring some new technology to build a Smart Data Platform for 5G/4G/3G Service Assurance & Network Monitoring. 
 
