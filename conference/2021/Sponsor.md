@@ -5,7 +5,7 @@ permalink: /conference/2021/Sponsor/
 toc: false
 widget: true
 registerforCppIndiaCon: false
-speakers: false
+speakers: true
 cppindiaconsponsors: false
 ---
 CppIndiaCon 2021 Conference is accepting Gold and Silver sponsorship plans as below:

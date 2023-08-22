@@ -4,7 +4,7 @@ title: Bjarne Stroustrup
 permalink: /conference/2021/speakers/bjarne/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

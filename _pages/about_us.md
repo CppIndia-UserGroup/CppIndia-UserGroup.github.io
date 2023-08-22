@@ -5,7 +5,7 @@ title: "About CppIndia"
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true
-speakers: false
+speakers: true
 ---
 
 ## Who Are We?

@@ -4,7 +4,7 @@ title: Ankur Satle
 permalink: /conference/2022/speakers/ankur/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

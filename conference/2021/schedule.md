@@ -4,7 +4,7 @@ title: CppIndiaCon Schedule
 permalink: /conference/2021/schedule/
 toc: false
 widget: true
-speakers: false
+speakers: true
 registerforCppIndiaCon: false
 cppindiaconsponsors: false
 ---

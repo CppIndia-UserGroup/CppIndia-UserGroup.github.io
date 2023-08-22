@@ -5,7 +5,7 @@ permalink: /_pages/team/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

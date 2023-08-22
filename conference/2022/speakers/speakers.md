@@ -5,7 +5,7 @@ permalink: /conference/2022/speakers/speakers/
 toc: false
 widget: true
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
