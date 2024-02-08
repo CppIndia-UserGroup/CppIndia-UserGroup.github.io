@@ -4,7 +4,7 @@ title: Hemil Ruparel
 permalink: /conference/2022/speakers/Hemil/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

@@ -4,7 +4,7 @@ title: Mike Shah
 permalink: /conference/2023/speakers/mike/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

@@ -4,7 +4,7 @@ title: Saurabh Joshi
 permalink: /conference/2021/speakers/saurabhjoshi/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

@@ -4,7 +4,7 @@ title: Zoom Settings for attendees
 permalink: /conference/2023/attendee_zoom_setting/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

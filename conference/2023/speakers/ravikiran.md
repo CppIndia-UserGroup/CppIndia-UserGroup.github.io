@@ -4,7 +4,7 @@ title: Venkata Naga Ravikiran Bulusu
 permalink: /conference/2023/speakers/ravikiran/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

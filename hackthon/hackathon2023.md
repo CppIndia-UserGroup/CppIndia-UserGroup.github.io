@@ -4,7 +4,7 @@ title: <h1 style="font-size:2.5em"><center>Time Travel Debugging Hackathon 2023<
 permalink: /hackthon/hackathon2023
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

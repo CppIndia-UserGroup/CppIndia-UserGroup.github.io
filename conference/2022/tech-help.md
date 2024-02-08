@@ -4,7 +4,7 @@ title: Conference self-help
 permalink: /conference/2022/speakers/tech-help/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

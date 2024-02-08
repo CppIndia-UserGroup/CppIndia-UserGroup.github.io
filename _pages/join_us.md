@@ -6,7 +6,7 @@ permalink: /_pages/join_us/
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true
-speakers: true
+speakers: false
 ---
 
 {% include join_us.html %}

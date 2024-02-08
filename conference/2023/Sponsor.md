@@ -7,7 +7,7 @@ toc: false
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true
-speakers: true
+speakers: false
 cppindiaconsponsors: false
 ---
 

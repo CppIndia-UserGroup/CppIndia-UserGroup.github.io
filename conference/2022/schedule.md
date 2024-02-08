@@ -4,7 +4,7 @@ title: CppIndiaCon Schedule
 permalink: /conference/2022/schedule/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false

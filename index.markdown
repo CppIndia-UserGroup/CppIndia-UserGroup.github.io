@@ -5,10 +5,12 @@ title: <center>India's very own C++ Community
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true
-speakers: true
+speakers: false
 cppindiaconsponsors: false
 ---
-[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
+<!-- [![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/) -->
+[![C++ Online](/Sponsors/C++Online.jpg "C++ Online")](#)
+
 <!-- Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br> -->
 <!-- [Register here](/conference/2023/CppIndiaCon-reg-form/) || [Schedule](/conference/2023/schedule/) -->
 
@@ -43,11 +45,11 @@ To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_spea
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zvvJi5yY0IU?si=XjZRURtHWah_4_l1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/44PVxwmsCYo?si=ZLycGzWiVvEvrO_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cZ6YtUsCUTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_NnLMEQWSSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cN6Yy_IuhV8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 <!-- ## Giveaway Sponsors

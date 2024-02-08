@@ -4,7 +4,7 @@ title: Undo
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">Gold Sponsor
 permalink: /conference/2022/sponsors/undo
 toc: false
-speakers: true
+speakers: false
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true

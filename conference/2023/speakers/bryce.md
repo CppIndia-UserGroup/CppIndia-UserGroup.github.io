@@ -4,7 +4,7 @@ title: Bryce Adelstein Lelbach
 permalink: /conference/2023/speakers/bryce/
 toc: false
 widget: true
-speakers: true
+speakers: false
 registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
