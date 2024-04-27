@@ -1,16 +1,14 @@
 ---
 toc: false
 layout: home
-title: <center>India's very own C++ Community
+title: <center>India's very own C++ Community</center>
 widget: true
 registerforCppIndiaCon: false
 joinCppIndia: true
 speakers: false
 cppindiaconsponsors: false
 ---
-<!-- [![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/) -->
-[![C++ Online](/Sponsors/C++Online.jpg "C++ Online")](#)
-
+[![CppIndiaCon](/conference/2024/graphics/banner.jpg "CppIndiaCon2024")](/conference/2024/conference_home/)
 <!-- Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br> -->
 <!-- [Register here](/conference/2023/CppIndiaCon-reg-form/) || [Schedule](/conference/2023/schedule/) -->
 

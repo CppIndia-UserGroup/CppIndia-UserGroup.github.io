@@ -27,28 +27,7 @@ cppindiaconsponsors: false
 
 ## Moderators
 
-|---|---|---|---|
-|  |  |  |  |
-| [![Kashish NAGPAL](/assets/images/team/kashish.png "Kashish NAGPAL")](https://www.linkedin.com/in/mr-k){:target="_blank"} | [![Anushree Khanna](/assets/images/team/anushree.jpg "Anushree Khanna")](https://www.linkedin.com/in/anushreekhanna/){:target="_blank"} | [![SIMAR PREET SINGH](/assets/images/team/simarpreet.jpg "Simar Preet Singh")](https://simarpreetsingh-019.github.io/){:target="_blank"} |  |
-| [Kashish NAGPAL](https://www.linkedin.com/in/mr-k){:target="_blank"} | [Anushree Khanna](https://www.linkedin.com/in/anushreekhanna/){:target="_blank"} |[Simar Preet Singh](https://simarpreetsingh-019.github.io/){:target="_blank"} | |
-| [![Sameer Kotasthane](/assets/images/team/sameer.jpg "Sameer Kotasthane")](https://github.com/samkots){:target="_blank"} | [![Hemil Ruparel](/assets/images/team/hemil.png "Hemil Ruparel")](https://www.linkedin.com/in/hemil-ruparel-2aa513166/){:target="_blank"} | | |
-
-| [Sameer Kotasthane](https://github.com/samkots){:target="_blank"} | [Hemil Ruparel](https://www.linkedin.com/in/hemil-ruparel-2aa513166/ "Hemil Ruparel"){:target="_blank"} |
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</pre>
+|---|---|
+|  |  |
+| [![Kashish Nagpal](/assets/images/team/kashish.png "Kashish Nagpal")](https://www.linkedin.com/in/mr-k){:target="_blank"} | [![Hemil Ruparel](/assets/images/team/hemil.png "Hemil Ruparel")](https://www.linkedin.com/in/hemil-ruparel-2aa513166/){:target="_blank"} |
+| [Kashish Nagpal](https://www.linkedin.com/in/mr-k){:target="_blank"} | [Hemil Ruparel](https://www.linkedin.com/in/hemil-ruparel-2aa513166/ "Hemil Ruparel"){:target="_blank"} |
