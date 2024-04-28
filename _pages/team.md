@@ -10,7 +10,12 @@ registerforCppIndiaCon: false
 joinCppIndia: true
 cppindiaconsponsors: false
 ---
-
+<style type="text/css" rel="stylesheet">
+thead { visibility: hidden; }
+td img { max-width:80%; width:200px; }
+thead { border:none; }
+td { border:none; }
+</style>
 ## Founder
 
 |---|

@@ -53,8 +53,8 @@ sidebar:
     children:
       - title: Home
         url: /conference/2024/conference_home/
-      - title: Volunteer Registration
-        url: /conference/2024/conference_home/
+      - title: "Call For Volunteer"
+        url: /conference/2024/call-for-volunteer/
   - title: CppIndiaCon 2023
     url: /conference/2023/CppIndiaCon2023Video/
     children:
