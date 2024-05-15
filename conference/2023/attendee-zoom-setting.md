@@ -5,8 +5,8 @@ permalink: /conference/2023/attendee_zoom_setting/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

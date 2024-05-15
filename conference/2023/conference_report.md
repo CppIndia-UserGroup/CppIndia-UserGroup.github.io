@@ -5,8 +5,8 @@ permalink: /conference/2023/conference_report/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->

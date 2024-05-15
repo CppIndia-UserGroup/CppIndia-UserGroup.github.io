@@ -5,8 +5,8 @@ title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center
 permalink: /conference/2022/Sponsor/
 toc: false
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 speakers: false
 cppindiaconsponsors: false
 ---

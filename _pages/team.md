@@ -6,8 +6,8 @@ toc: false
 widget: true
 # classes: wide
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 <style type="text/css" rel="stylesheet">

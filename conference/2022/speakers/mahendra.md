@@ -5,8 +5,8 @@ permalink: /conference/2022/speakers/mahendra/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Mahendra Garodi](/conference/2022/graphics/mahendra.png "Mahendra Garodi"){:style="max-width:50%"}

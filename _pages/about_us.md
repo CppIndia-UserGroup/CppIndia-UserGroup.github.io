@@ -4,8 +4,8 @@ layout: home
 # classes: wide
 title: "About CppIndia"
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 speakers: false
 ---
 

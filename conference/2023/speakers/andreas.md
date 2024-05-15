@@ -5,8 +5,8 @@ permalink: /conference/2023/speakers/andreas/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Andreas Fertig](/conference/2023/graphics/speakers/andreas.png "Andreas Fertig"){:style="max-width:50%"}

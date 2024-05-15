@@ -5,8 +5,8 @@ permalink: /conference/2022/speakers/Hemil/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Hemil Ruparel](/conference/2022/graphics/hemil.png "Hemil Ruparel"){:style="max-width:50%"}

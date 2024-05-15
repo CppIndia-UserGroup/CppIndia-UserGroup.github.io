@@ -5,8 +5,8 @@ permalink: /conference/2023/speakers/ravi/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Kushashwa Ravi Shrimali](/conference/2023/graphics/speakers/ravi.png "Kushashwa Ravi Shrimali"){:style="max-width:50%"}

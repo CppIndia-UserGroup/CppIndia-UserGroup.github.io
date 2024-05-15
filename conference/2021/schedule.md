@@ -5,7 +5,7 @@ permalink: /conference/2021/schedule/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
+registerforCppIndiaCon: true
 cppindiaconsponsors: false
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->

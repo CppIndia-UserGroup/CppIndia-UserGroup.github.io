@@ -7,8 +7,8 @@ permalink: /conference/2023/sponsors/qube_cinema
 toc: false
 speakers: false
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

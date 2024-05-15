@@ -5,8 +5,8 @@ permalink: /conference/2023/speakers/ravikiran/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Venkata Naga Ravikiran Bulusu](/conference/2023/graphics/speakers/ravikiran.png "Venkata Naga Ravikiran Bulusu"){:style="max-width:50%"}
