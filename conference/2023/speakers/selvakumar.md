@@ -4,9 +4,9 @@ title: Selvakumar Jawahar
 permalink: /conference/2023/speakers/selvakumar/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

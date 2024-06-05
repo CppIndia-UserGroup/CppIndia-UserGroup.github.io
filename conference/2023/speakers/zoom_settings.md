@@ -5,8 +5,8 @@ permalink: /conference/2023/speakers/zoom_settings/
 toc: false
 widget: true
 speakers: false
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ## Installing/Updating Zoom

@@ -4,9 +4,9 @@ title: Kiran Kannappan
 permalink: /conference/2023/speakers/kiran/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ![Kiran Kannappan](/conference/2023/graphics/speakers/kiran.png "Kiran Kannappan"){:style="max-width:50%"}

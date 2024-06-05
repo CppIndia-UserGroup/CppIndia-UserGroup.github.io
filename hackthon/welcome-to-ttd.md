@@ -4,9 +4,9 @@ layout: single
 permalink: /hackthon/welcome-to-ttd
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

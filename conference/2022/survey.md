@@ -4,8 +4,8 @@ layout: single
 title: "Event feedback survey"
 permalink: /conference/2022/survey/
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 sponsors: true
 cppindiaconsponsors: false
 ---

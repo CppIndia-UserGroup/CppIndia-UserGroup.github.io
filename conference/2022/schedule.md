@@ -4,9 +4,9 @@ title: CppIndiaCon Schedule
 permalink: /conference/2022/schedule/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->

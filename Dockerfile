@@ -9,7 +9,7 @@ RUN gem install jekyll
 RUN gem install bundler -v 2.2.19
 
 # Install the bundle
-COPY Gemfile Gemfile.lock .
+COPY Gemfile Gemfile.lock ./
 
 RUN bundle install
 

@@ -4,8 +4,8 @@ title: Call For Speakers
 permalink: /callforspeakers/call_for_speakers/
 toc: false
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+registerforCppIndiaCon: true
+joinCppIndia: false
 ---
 
 {% include call-for-speakers.html %}

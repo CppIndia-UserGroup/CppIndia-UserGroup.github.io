@@ -1,11 +1,12 @@
 ---
 toc: true
 layout: home
+# classes: wide
 title: "About CppIndia"
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
-speakers: true
+registerforCppIndiaCon: true
+joinCppIndia: false
+speakers: false
 ---
 
 ## Who Are We?

@@ -4,9 +4,9 @@ title: Conference self-help
 permalink: /conference/2023/tech-help/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

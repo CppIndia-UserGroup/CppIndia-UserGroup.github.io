@@ -5,9 +5,9 @@ permalink: /conference/2021/CppIndiaCon2021Video/
 toc: false
 widget: true
 # classes: wide
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

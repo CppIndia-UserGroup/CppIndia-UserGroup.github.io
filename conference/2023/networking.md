@@ -4,9 +4,9 @@ title: Networking during CppIndiaCon
 permalink: /conference/2023/networking/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

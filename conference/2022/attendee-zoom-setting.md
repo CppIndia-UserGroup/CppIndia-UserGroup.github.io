@@ -4,9 +4,9 @@ title: Zoom Settings for attendees
 permalink: /conference/2022/speakers/attendee_zoom_setting/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 

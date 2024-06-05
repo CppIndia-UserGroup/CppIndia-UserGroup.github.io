@@ -1,16 +1,21 @@
 ---
 toc: false
 layout: home
-title: <center>India's very own C++ Community
+title: <center>India's very own C++ Community</center>
 widget: true
-registerforCppIndiaCon: false
-joinCppIndia: true
-speakers: true
+registerforCppIndiaCon: true
+joinCppIndia: false
+speakers: false
 cppindiaconsponsors: false
 ---
-[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
-<!-- Secure your spot at **CppIndiaCon 2023** - *The C++ festival of India*! <br> -->
-<!-- [Register here](/conference/2023/CppIndiaCon-reg-form/) || [Schedule](/conference/2023/schedule/) -->
+[![CppIndiaCon](/conference/2024/graphics/banner.jpg "CppIndiaCon2024")](/conference/2024/conference_home/)
+Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br> 
+<!-- <div><script src="https://widget.konfhub.com/widget.js" button_id="btn_67003620bcfc"></script></div> -->
+
+<div><script src="https://widget.konfhub.com/widget.js" button_id="btn_67003620bcfc"></script></div>
+<br>
+<!-- [Reserve your ticket now](https://konfhub.com/cppindiacon2024/){:target="_blank"} -->
+ <!-- || [Schedule](/conference/2023/schedule/) -->
 
 ---
 
@@ -18,7 +23,7 @@ cppindiaconsponsors: false
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2023-04-22T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2024-05-11T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event<br></h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
@@ -43,11 +48,11 @@ To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_spea
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2dE-lYWac1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1zCulJpKUqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zvvJi5yY0IU?si=XjZRURtHWah_4_l1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/We-w_mT8EsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/44PVxwmsCYo?si=ZLycGzWiVvEvrO_y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cZ6YtUsCUTw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <br>
 
 <!-- ## Giveaway Sponsors

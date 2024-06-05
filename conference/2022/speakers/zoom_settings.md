@@ -4,9 +4,9 @@ title: Zoom Settings for Speakers
 permalink: /conference/2022/speakers/zoom_settings/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 ## Installing/Updating Zoom

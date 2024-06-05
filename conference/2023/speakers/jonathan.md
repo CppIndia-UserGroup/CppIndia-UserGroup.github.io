@@ -4,9 +4,9 @@ title: Jonathan Müller
 permalink: /conference/2023/speakers/jonathan/
 toc: false
 widget: true
-speakers: true
-registerforCppIndiaCon: false
-joinCppIndia: true
+speakers: false
+registerforCppIndiaCon: true
+joinCppIndia: false
 cppindiaconsponsors: false
 ---
 
