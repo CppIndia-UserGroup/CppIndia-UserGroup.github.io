@@ -3,6 +3,8 @@ toc: false
 layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2024</center></h1><center><p style="font-size:1.5em">The C++ festival of India</p><center>
 permalink: /conference/2024/call-for-speakers/
+redirect_from:
+    - /cfs
 widget: true
 registerforCppIndiaCon: true
 joinCppIndia: false
@@ -20,21 +22,3 @@ We encourage you to submit your talk for our regular community talks.
 [Submit for Community Talks](/callforspeakers/call_for_speakers/) <br>
 
 [You can register for CppIndiaCon 2022 here.](/conference/2022/CppIndiaCon-reg-form/) -->
-
-<pre>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</pre>
