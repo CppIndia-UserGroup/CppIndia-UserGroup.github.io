@@ -17,7 +17,7 @@ cppindiaconsponsors: false
 <!-- Thank you for showing your interest in CppIndiaCon 2022. <br><br>
 We encourage you to submit your talk for our regular community talks.
 
-[Submit for Community Talks](/callforspeakers/call_for_speakers/) <br>
+[Submit for Community Talks](/call_for_speakers) <br>
 
 [You can register for CppIndiaCon 2022 here.](/conference/2022/CppIndiaCon-reg-form/) -->
 

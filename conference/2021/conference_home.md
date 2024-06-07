@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon</center></h1><center><p style="font-size:1.5em">The C++ conference of India.
-permalink: /conference/2021/conference_home/
+permalink: /conference/2021/conference_home
 toc: false
 widget: true
 speakers: false
@@ -40,4 +40,4 @@ There will be many **voice tables**, open for you to join and discuss with other
 
 CppIndia is a community for developers having a mutual interest in C++. Here, you can find a welcoming space to learn and discuss C++.
 
-To know more about CppIndia as a community, its vision, and how it works, check out our [About Us](/_pages/about_us){:target="_blank"} page.
+To know more about CppIndia as a community, its vision, and how it works, check out our [About Us](/about_us){:target="_blank"} page.

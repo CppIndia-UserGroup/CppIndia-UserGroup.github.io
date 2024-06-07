@@ -62,7 +62,7 @@ CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 Gold Sponsorship: Rs.40000/-
 <br>Silver Sponsorship: Rs.35000/-
 
-Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
+Feel free to [contact us](/contact){:target="_blank"} if you need more detailed information.
 
 <!-- ## Sponsors
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} -->

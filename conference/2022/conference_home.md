@@ -1,7 +1,7 @@
 ---
 layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1>
-permalink: /conference/2022/conference_home/
+permalink: /conference/2022/conference_home
 toc: false
 widget: true
 speakers: false
@@ -15,7 +15,7 @@ cppindiaconsponsors: false
 
 CppIndiaCon - The C++ festival of India is back!  
 
-CppIndiaCon is India's premier International Conference hosted by [CppIndia](/_pages/about_us). CppIndia is excited to announce the 2nd edition of this International Conference on **6th August 2022**.
+CppIndiaCon is India's premier International Conference hosted by [CppIndia](/about_us). CppIndia is excited to announce the 2nd edition of this International Conference on **6th August 2022**.
 
 For our inaugural conference last year, we had talks from the greats of C++, including [Bjarne Stroustrup](/conference/2021/speakers/bjarne/), [Bryce Lelbach](/conference/2021/speakers/bryce/), and [Jon Kalb](/conference/2021/speakers/jonkalb/). Do check out the [CppIndiaCon 2021 Speakers](/conference/2021/speakers/speakers/).
 
@@ -43,7 +43,7 @@ This year's schedule has been improvised based on feedback from last year. As ag
 
 ### C++ Trivia and Prizes
 
-Be prepared and try not to get stumped by the C++ trivia googlies that our [team of enthusiastic volunteers](/_pages/team) have prepared for you unsuspecting attendees! There shall be prizes to be won from our Gold Sponsors. Do check out their pages and their products.
+Be prepared and try not to get stumped by the C++ trivia googlies that our [team of enthusiastic volunteers](/team) have prepared for you unsuspecting attendees! There shall be prizes to be won from our Gold Sponsors. Do check out their pages and their products.
 
 ### Industry Connect
 
@@ -66,4 +66,4 @@ There will be many **voice and video tables**, open for you to join, discuss and
 
 CppIndia is a community for developers having a mutual interest in C++. It is a welcoming space to learn and discuss C++.
 
-To know more about CppIndia as a community, its vision, and how it works, check out our [About Us](/_pages/about_us) page.
+To know more about CppIndia as a community, its vision, and how it works, check out our [About Us](/about_us) page.

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: CppIndia Team
-permalink: /_pages/team/
+permalink: /team
 toc: false
 widget: true
 # classes: wide

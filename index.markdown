@@ -8,7 +8,7 @@ joinCppIndia: false
 speakers: false
 cppindiaconsponsors: false
 ---
-[![CppIndiaCon](/conference/2024/graphics/banner.jpg "CppIndiaCon2024")](/conference/2024/conference_home/)
+[![CppIndiaCon](/conference/2024/graphics/banner.jpg "CppIndiaCon2024")](/conference/2024/conference_home)
 Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br> 
 <!-- <div><script src="https://widget.konfhub.com/widget.js" button_id="btn_67003620bcfc"></script></div> -->
 
@@ -30,11 +30,11 @@ Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br>
     </p>
 </div>
 
-<a href="/_pages/join_us" id="session-banner" style="display:none;">
+<a href="/join_us" id="session-banner" style="display:none;">
     <img src="assets\images\SessionPost\session_banner.jpg" alt="Next Session" title="Next Session">
 </a>
 
-<a href="/_pages/join_us" id="coming-soon-banner" style="display:block;">
+<a href="/join_us" id="coming-soon-banner" style="display:block;">
     <img src="assets\images\SessionPost\coming_soon_banner.jpg" alt="Coming Soon!" title="Coming Soon">
 </a>
 
@@ -43,7 +43,7 @@ Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br>
 
 ---
 
-To speak at CppIndia, fill the [Call For Speaker](/callforspeakers/call_for_speakers/) form.
+To speak at CppIndia, fill the [Call For Speaker](/call_for_speakers) form.
 
 Have a suggestion for us? Let us know at <info@cppindia.co.in>.
 

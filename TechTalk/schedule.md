@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Upcoming Schedule Talks
-permalink: /TechTalk/schedule/
+permalink: /tech_talk/schedule/
 toc: false
 widget: true
 registerforCppIndiaCon: true

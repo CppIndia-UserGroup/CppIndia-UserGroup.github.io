@@ -59,7 +59,7 @@ Supporting and sponsoring CppIndia delivers value to companies in our community 
 
 **Better leaders**: Employees that participate as group speakers or organizers are learning leadership skills not always available in their regular roles.
 
-Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
+Feel free to [contact us](/contact){:target="_blank"} if you need more detailed information.
 
 ## Sponsors
 [![jetbrains](jetbrains.png)](https://www.jetbrains.com){:target="_blank"}
