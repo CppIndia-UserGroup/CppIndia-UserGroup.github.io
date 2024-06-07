@@ -30,7 +30,7 @@ Learn more at [undo.io](https://undo.io/?utm_source=cppindia&utm_medium=link&utm
 [![CircuitSutra](/assets/images/linkedin.png "CircuitSutra")](https://www.linkedin.com/company/1013850/admin/){:target="_blank"}
 [![CircuitSutra](/assets/images/facebook.jpg "CircuitSutra")](https://www.facebook.com/CircuitSutra/){:target="_blank"}
 [![CircuitSutra](/assets/images/twitter.png "CircuitSutra")](https://twitter.com/CircuitSutra){:target="_blank"} -->
-<!-- [Call For Speaker](/callforspeakers/call_for_speakers/) -->
+<!-- [Call For Speaker](/call_for_speakers) -->
 <pre>
 
 

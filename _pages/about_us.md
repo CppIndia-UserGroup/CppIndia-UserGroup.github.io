@@ -4,6 +4,7 @@ layout: home
 # classes: wide
 title: "About CppIndia"
 widget: true
+permalink: /about_us
 registerforCppIndiaCon: true
 joinCppIndia: false
 speakers: false
@@ -15,15 +16,16 @@ CppIndia is a community for developers having mutual interest in C++. Here, you 
 
 ## What is our vision?
 
-Currently, in India, there isn't a common platform which brings together people from all walks of life(students to new graduates to experienced developers) wherein they can connect, share and discuss their C++ queries. 
+Currently, in India, there isn't a common platform which brings together people from all walks of life(students to new graduates to experienced developers) wherein they can connect, share and discuss their C++ queries.
 
-This would be a great opportunity to bring developers working with C++ language under a single roof from all over India so that they can share their experiences and learn from each other which in turn will grow this community. 
+This would be a great opportunity to bring developers working with C++ language under a single roof from all over India so that they can share their experiences and learn from each other which in turn will grow this community.
 
 We want to create an ecosystem for C++ developers and companies who work in C++ so that they come to CppIndia for any of their C++ related queries or requirements.
 
 ## What Do We Do?
 
 We provide:
+
 - Welcoming space for people to discuss & learn C++.
 - Community tech-talks on every alternate Saturday.
 - Guidance to junior programmers to get started.
@@ -44,6 +46,7 @@ We also have a [Discord channel](https://discord.gg/Wz42tX5){:target="_blank"} s
 
 Everyone can help in one way or another to make the C++ community more complete.
 May we suggest:
+
 - Present on any C++ topic in community tech-talk.
 - Helps organizers to organize community discussion/tech-talks.
 - Read our resources, and let us know about anything that's worth adding.

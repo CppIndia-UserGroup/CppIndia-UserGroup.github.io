@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Logo Contest
-permalink: /_pages/logocontest/
+permalink: /logocontest
 toc: false
 ---
 
