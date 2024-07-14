@@ -3,11 +3,11 @@ layout: single
 # title: <h1 style="font-size:1.5em"><center>Time Travel Debugging Hackathon 2023</center></h1><center><p style="font-size:1em">Step back in time to debug your way to success!</p><center>
 permalink: /hackthon/welcome-to-ttd
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![CppIndiaCon](/assets/images/hackathon/TTD.png "TTD Hackathon 2023")

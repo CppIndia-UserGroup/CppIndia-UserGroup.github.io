@@ -4,11 +4,11 @@ title: CircuitSutra
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">Gold Sponsor
 permalink: /conference/2022/sponsors/circuitsutra
 toc: false
-speakers: false
-widget: true
+speakers: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 [![CircuitSutra](/conference/2021/sponsors/circuitsutra.jpg "CircuitSutra")](https://www.circuitsutra.com/){:target="_blank"}

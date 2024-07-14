@@ -3,11 +3,11 @@ layout: single
 title: CppIndiaCon 2023 Schedule
 permalink: /conference/2023/schedule/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- TODO: Change the time slots without 15 min breaks. If agreed add a seperate line for break -->
 <!-- <a href="/conference/2022/invites/invite2022_inbal.ics" id="session-invite" style="display:none;">

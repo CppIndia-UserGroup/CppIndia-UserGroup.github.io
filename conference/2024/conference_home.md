@@ -5,11 +5,11 @@ permalink: /conference/2024/conference_home
 redirect_from:
     - /confhome
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
 

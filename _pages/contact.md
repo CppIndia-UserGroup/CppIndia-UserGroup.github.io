@@ -3,10 +3,10 @@ layout: single
 title: Contact Us
 permalink: /contact
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
+speakers: true
 ---
 
 ## Email

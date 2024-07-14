@@ -7,9 +7,9 @@ redirect_from:
     - /confreg
 redirect_to:
     - https://konfhub.com/cppindiacon2024
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
 sponsors: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---

@@ -53,12 +53,20 @@ sidebar:
     children:
       - title: Home
         url: /conference/2024/conference_home
-      - title: "Call For Speakers"
-        url: /conference/2024/call-for-speakers/
       - title: Buy Tickets
         url: https://konfhub.com/cppindiacon2024
-      # - title: "Call For Volunteer"
-      #   url: /conference/2024/call-for-volunteer/
+      - title: Schedule
+        url: /conference/2024/schedule/
+      - title: Speakers
+        url: /conference/2024/speakers/speakers/
+  - title: CppIndiaCon 2024 Sponsors
+    children:
+      - title: MulticoreWare
+        url: /conference/2024/sponsors/multicoreware
+      - title: think-cell
+        url: /conference/2024/sponsors/think_cell
+      # - title: Bloomberg LP
+      #   url: /conference/2023/sponsors/bloomberg
   - title: CppIndiaCon 2023
     url: /conference/2023/CppIndiaCon2023Video/
     children:

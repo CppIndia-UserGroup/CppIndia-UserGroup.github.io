@@ -3,7 +3,7 @@ layout: single
 title: Sponsors Space
 permalink: /Sponsors/Sponsor/
 toc: true
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
 ---

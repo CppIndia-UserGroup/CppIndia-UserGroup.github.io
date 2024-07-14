@@ -3,11 +3,11 @@ layout: single
 title: Ankur Satle
 permalink: /conference/2022/speakers/ankur/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![Ankur Satle](/conference/2022/graphics/ankur.png "Ankur Satle"){:style="max-width:50%"}

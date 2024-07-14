@@ -3,12 +3,12 @@ layout: single
 title: CppIndiaCon 2021 Videos
 permalink: /conference/2021/CppIndiaCon2021Video/
 toc: false
-widget: true
+widget: false
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FlJh5KvatSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

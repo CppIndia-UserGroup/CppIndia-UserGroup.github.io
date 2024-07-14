@@ -3,10 +3,10 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon</center></h1><center><p style="font-size:1.5em">The C++ conference of India.
 permalink: /conference/2021/conference_home
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 [![CppIndiaCon](/conference/2021/graphics/cppindiacon_banner.png "CppIndiaCon")](/conference/2021/CppIndiaCon-reg-form/)

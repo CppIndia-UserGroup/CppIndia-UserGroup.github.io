@@ -3,11 +3,11 @@ layout: single
 title: Inbal Levi
 permalink: /conference/2022/speakers/inbal/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![Inbal Levi](/conference/2022/graphics/inbal.png "Inbal Levi"){:style="max-width:50%"}

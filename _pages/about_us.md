@@ -3,11 +3,11 @@ toc: true
 layout: home
 # classes: wide
 title: "About CppIndia"
-widget: true
+widget: false
 permalink: /about_us
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
+speakers: true
 ---
 
 ## Who Are We?

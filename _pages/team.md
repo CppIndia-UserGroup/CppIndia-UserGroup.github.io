@@ -3,12 +3,12 @@ layout: single
 title: CppIndia Team
 permalink: /team
 toc: false
-widget: true
+widget: false
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <style type="text/css" rel="stylesheet">
 thead { visibility: hidden; }

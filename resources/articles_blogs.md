@@ -3,10 +3,10 @@ layout: single
 title: Resources
 permalink: /resources/resources
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
+speakers: true
 
 ---
 
