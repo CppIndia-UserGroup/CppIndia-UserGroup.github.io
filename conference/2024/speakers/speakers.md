@@ -21,7 +21,7 @@ td { border:none; }
 
 |  |  |
 |:----:|:----:|
-| [![Ankur M Satle](/conference/2024/graphics/speakers/ankur.jpg "Ankur M Satle")](/conference/2024/speakers/ankur/) | [![Alex Dathskovsky](/conference/2024/graphics/speakers/alex.jpg "Alex Dathskovsky")](/conference/2024/speakers/pavithra/) |
+| [![Ankur M Satle](/conference/2024/graphics/speakers/ankur.png "Ankur M Satle")](/conference/2024/speakers/ankur/) | [![Alex Dathskovsky](/conference/2024/graphics/speakers/alex.jpg "Alex Dathskovsky")](/conference/2024/speakers/pavithra/) |
 | [Ankur M Satle](/conference/2024/speakers/ankur/)  | [Alex Dathskovsky](/conference/2024/speakers/alex/) |
 
 ## Speakers
