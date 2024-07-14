@@ -10,7 +10,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 
-![Ankur Satle](/conference/2024/graphics/speakers/ankur.jpg "Ankur Satle "){:style="max-width:50%"}
+![Ankur Satle](/conference/2024/graphics/speakers/ankur.png "Ankur Satle "){:style="max-width:50%"}
 
 [![Ankur Satle](/assets/images/www.png "Ankur Satle")](https://ankursatle.wordpress.com/){:target="_blank"}
 [![Ankur Satle](/assets/images/linkedin.png "Ankur Satle")](https://www.linkedin.com/in/ankursatle/){:target="_blank"}
