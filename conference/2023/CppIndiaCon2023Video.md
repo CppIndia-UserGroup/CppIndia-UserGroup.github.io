@@ -3,12 +3,12 @@ layout: single
 title: CppIndiaCon 2023 Videos
 permalink: /conference/2023/CppIndiaCon2023Video/
 toc: false
-widget: true
+widget: false
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y5trtb5TGpg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

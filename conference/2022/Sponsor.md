@@ -4,11 +4,11 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:0.75em">The C++ festival of India</p><center><p style="font-size:1.5em">Sponsorship plan
 permalink: /conference/2022/Sponsor/
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
-cppindiaconsponsors: false
+speakers: true
+cppindiaconsponsors: true
 ---
 CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 

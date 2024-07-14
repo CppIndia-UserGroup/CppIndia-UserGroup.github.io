@@ -3,11 +3,11 @@ layout: single
 title: Jonathan Müller
 permalink: /conference/2023/speakers/jonathan/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![Jonathan Müller](/conference/2023/graphics/speakers/jonathan.png "Jonathan Müller"){:style="max-width:50%"}

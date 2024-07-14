@@ -3,11 +3,11 @@ layout: single
 title: Mahendra Garodi
 permalink: /conference/2022/speakers/mahendra/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 ![Mahendra Garodi](/conference/2022/graphics/mahendra.png "Mahendra Garodi"){:style="max-width:50%"}
 

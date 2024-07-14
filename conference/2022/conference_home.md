@@ -3,11 +3,11 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1>
 permalink: /conference/2022/conference_home
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <center><p style="font-size:1.5em">The C++ festival of India</p></center>
 

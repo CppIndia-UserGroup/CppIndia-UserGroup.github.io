@@ -3,11 +3,11 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2023</center></h1><center><p style="font-size:1em">The C++ festival of India</p></center><center><p style="font-size:1.5em">Unveiling the Triumph <br> A Reflection on CppIndiaCon 2023's Spectacular Journey<br>(Report)</p></center>
 permalink: /conference/2023/conference_report/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
 Author: [Dheeraj Jha](https://www.jhadheeraj.com/)

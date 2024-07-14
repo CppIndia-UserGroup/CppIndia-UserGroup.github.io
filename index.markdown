@@ -2,11 +2,11 @@
 toc: false
 layout: home
 title: <center>India's very own C++ Community</center>
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
-cppindiaconsponsors: false
+speakers: true
+cppindiaconsponsors: true
 ---
 [![CppIndiaCon](/conference/2024/graphics/banner.jpg "CppIndiaCon2024")](/conference/2024/conference_home)
 Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br> 

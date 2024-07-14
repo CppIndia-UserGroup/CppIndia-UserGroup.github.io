@@ -3,10 +3,10 @@ toc: false
 layout: single
 title: "CppIndiaCon Registration"
 permalink: /conference/2021/CppIndiaCon-reg-form/
-widget: true
+widget: false
 registerforCppIndiaCon: true
 sponsors: true
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 {% include CppIndiaCon-reg-form.html %}

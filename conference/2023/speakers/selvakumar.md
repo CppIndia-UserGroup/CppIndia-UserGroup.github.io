@@ -3,11 +3,11 @@ layout: single
 title: Selvakumar Jawahar
 permalink: /conference/2023/speakers/selvakumar/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![Selvakumar Jawahar](/conference/2023/graphics/speakers/selvakumar.png "Selvakumar Jawahar"){:style="max-width:50%"}
