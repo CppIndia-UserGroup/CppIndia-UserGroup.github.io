@@ -10,7 +10,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 
-![John Stratton](/conference/2024/graphics/speakers/john.jpg "John Stratton"){:style="max-width:50%"}
+![John Stratton](/conference/2024/graphics/speakers/John.jpg "John Stratton"){:style="max-width:50%"}
 
 [![John Stratton](/assets/images/www.png "John Stratton")](https://www.whitman.edu/academics/majors-and-programs/computer-science/faculty-and-staff/john-stratton){:target="_blank"}
 [![John Stratton](/assets/images/linkedin.png "John Stratton")](https://www.linkedin.com/in/john-stratton-ba37719/){:target="_blank"}
