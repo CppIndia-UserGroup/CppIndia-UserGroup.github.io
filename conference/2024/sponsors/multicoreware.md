@@ -12,7 +12,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 <div style="text-align: center;">
-  <a href="https://multicorewareinc.com/what-we-do/performance-engineering/overview/" target="_blank">
+  <a href="https://multicorewareinc.com" target="_blank">
     <img src="/conference/2024/sponsors/multicoreware.png" alt="title: MulticoreWare" title="title: MulticoreWare">
   </a>
 </div>
