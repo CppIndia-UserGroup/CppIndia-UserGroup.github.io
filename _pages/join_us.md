@@ -2,11 +2,11 @@
 toc: false
 layout: home
 title: "Join CppIndia"
-permalink: /_pages/join_us/
-widget: true
+permalink: /join_us
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
+speakers: true
 ---
 
 {% include join_us.html %}

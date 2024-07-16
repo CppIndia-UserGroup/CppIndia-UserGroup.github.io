@@ -3,15 +3,15 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2023</center></h1><center><p style="font-size:1em">The C++ festival of India</p></center><center><p style="font-size:1.5em">Unveiling the Triumph <br> A Reflection on CppIndiaCon 2023's Spectacular Journey<br>(Report)</p></center>
 permalink: /conference/2023/conference_report/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
 Author: [Dheeraj Jha](https://www.jhadheeraj.com/)
-[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home/)
+[![CppIndiaCon](/conference/2023/graphics/banner.png "CppIndiaCon2023")](/conference/2023/conference_home)
 
 ## Testimonial
 <div class="image-container">
@@ -39,7 +39,7 @@ In the months of May and June, we put out a call for volunteers, and the respons
 
 Utilizing **Zoom** as the platform of choice for the conference and leveraging the CppIndia Discord server for networking, we explored Discord Stage for post-talk Q&A, which turned out to be a successful addition. One observation was that transitioning between Zoom and Discord wasn't as seamless as desired, prompting the search for an improved solution for future virtual events. 
 
-This year saw over 20 talk proposals, a notable increase from prior conferences. In mid-April, we meticulously evaluated each proposal, meticulously curating the final talks that would shape the conference content. ([CppIndiaCon 2023 Schedule](https://www.cppindia.co.in/conference/2023/schedule/)) 
+This year saw over 20 talk proposals, a notable increase from prior conferences. In mid-April, we meticulously evaluated each proposal, meticulously curating the final talks that would shape the conference content. ([CppIndiaCon 2023 Schedule](/conference/2023/schedule/)) 
 
 Registrations opened in March, and the response was heartening. A total of 577 individuals registered for CppIndiaCon 2023, with the breakdown as follows: 
 

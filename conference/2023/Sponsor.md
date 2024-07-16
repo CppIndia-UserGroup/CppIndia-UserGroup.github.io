@@ -4,11 +4,11 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2023</center></h1><center><p style="font-size:1em">The C++ festival of India</p><center><p style="font-size:1.5em">Sponsorship plan
 permalink: /conference/2023/Sponsor/
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
-cppindiaconsponsors: false
+speakers: true
+cppindiaconsponsors: true
 ---
 
 **CppIndiaCon 2023** is a leading C++ conference that brings together experts from around the world to explore the latest trends and advancements in the programming language. As a virtual conference, CppIndiaCon 2023 provides an excellent opportunity for organizations to showcase their commitment to the C++ community and engage with a global audience of experts and professionals.

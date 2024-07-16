@@ -4,11 +4,11 @@ layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:0.75em">The C++ festival of India</p><center><p style="font-size:1.5em">Sponsorship plan
 permalink: /conference/2022/Sponsor/
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
-cppindiaconsponsors: false
+speakers: true
+cppindiaconsponsors: true
 ---
 CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 
@@ -62,7 +62,7 @@ CppIndiaCon2022 Conference Gold and Silver sponsorship plans as below:
 Gold Sponsorship: Rs.40000/-
 <br>Silver Sponsorship: Rs.35000/-
 
-Feel free to [contact us](https://www.cppindia.co.in/_pages/contact/){:target="_blank"} if you need more detailed information.
+Feel free to [contact us](/contact){:target="_blank"} if you need more detailed information.
 
 <!-- ## Sponsors
 [![jetbrains](/Sponsors/jetbrains.png)](https://www.jetbrains.com){:target="_blank"} -->

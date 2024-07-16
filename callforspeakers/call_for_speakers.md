@@ -1,9 +1,9 @@
 ---
 layout: single
 title: Call For Speakers
-permalink: /callforspeakers/call_for_speakers/
+permalink: /call_for_speakers
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
 ---

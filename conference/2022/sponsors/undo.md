@@ -4,11 +4,11 @@ title: Undo
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2022</center></h1><center><p style="font-size:1.5em">Gold Sponsor
 permalink: /conference/2022/sponsors/undo
 toc: false
-speakers: false
-widget: true
+speakers: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 [![Undo](/conference/2022/sponsors/undo.png "Undo")](https://undo.io/?utm_source=cppindia&utm_medium=link&utm_campaign=about-undo){:target="_blank"}
@@ -30,7 +30,7 @@ Learn more at [undo.io](https://undo.io/?utm_source=cppindia&utm_medium=link&utm
 [![CircuitSutra](/assets/images/linkedin.png "CircuitSutra")](https://www.linkedin.com/company/1013850/admin/){:target="_blank"}
 [![CircuitSutra](/assets/images/facebook.jpg "CircuitSutra")](https://www.facebook.com/CircuitSutra/){:target="_blank"}
 [![CircuitSutra](/assets/images/twitter.png "CircuitSutra")](https://twitter.com/CircuitSutra){:target="_blank"} -->
-<!-- [Call For Speaker](/callforspeakers/call_for_speakers/) -->
+<!-- [Call For Speaker](/call_for_speakers) -->
 <pre>
 
 

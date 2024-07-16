@@ -3,11 +3,11 @@ layout: single
 title: Conference self-help
 permalink: /conference/2022/speakers/tech-help/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ## Zoom Settings for attendees

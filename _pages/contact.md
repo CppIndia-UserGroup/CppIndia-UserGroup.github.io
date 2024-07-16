@@ -1,12 +1,12 @@
 ---
 layout: single
 title: Contact Us
-permalink: /_pages/contact/
+permalink: /contact
 toc: false
-widget: true
+widget: false
 registerforCppIndiaCon: true
 joinCppIndia: false
-speakers: false
+speakers: true
 ---
 
 ## Email
@@ -26,7 +26,7 @@ speakers: false
 - [CppIndia YouTube Channel](https://www.youtube.com/channel/UCwB-WjSJI2D97YZcACFxJDw){:target="_blank"} 
 
 ## Know our team
-- [CppIndia Team](/_pages/team/)
+- [CppIndia Team](/team)
 
 <pre>
 

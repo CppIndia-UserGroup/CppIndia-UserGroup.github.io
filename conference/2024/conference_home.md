@@ -1,13 +1,15 @@
 ---
 layout: single
 title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2024</center></h1><center><p style="font-size:1.5em">The C++ festival of India</p><center>
-permalink: /conference/2024/conference_home/
+permalink: /conference/2024/conference_home
+redirect_from:
+    - /confhome
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 <!-- <center><p style="font-size:1.5em">The C++ festival of India</p></center> -->
 
@@ -90,4 +92,4 @@ Become a sponsor of CppIndiaCon2024 and support the C++ community! To learn more
 
 **CppIndia** is a vibrant and dynamic community of C++ enthusiasts and professionals, dedicated to promoting and advancing the use of C++ language in India. With a focus on sharing knowledge, learning and collaboration, CppIndia has been at the forefront of the C++ community in India, hosting successful conferences and events, and providing a platform for its members to connect and network with each other. Whether you are a seasoned C++ programmer or just starting out, CppIndia welcomes you to join its community and become a part of its mission to drive the growth and development of C++ in India.
 
-To know more about CppIndia as a community, it's vision, and how it works, check out our [About Us](/_pages/about_us) page.
+To know more about CppIndia as a community, it's vision, and how it works, check out our [About Us](/about_us) page.

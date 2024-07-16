@@ -3,11 +3,11 @@ layout: single
 title: Mike Shah
 permalink: /conference/2023/speakers/mike/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ![Mike Shah](/conference/2023/graphics/speakers/mike.png "Mike Shah"){:style="max-width:50%"}

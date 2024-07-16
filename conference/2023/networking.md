@@ -3,11 +3,11 @@ layout: single
 title: Networking during CppIndiaCon
 permalink: /conference/2023/networking/
 toc: false
-widget: true
-speakers: false
+widget: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 ## Platform

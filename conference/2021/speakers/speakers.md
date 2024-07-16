@@ -3,12 +3,12 @@ layout: single
 title: CppIndiaCon 2021 Speakers
 permalink: /conference/2021/speakers/speakers/
 toc: false
-widget: true
+widget: false
 # classes: wide
-speakers: false
+speakers: true
 registerforCppIndiaCon: true
 joinCppIndia: false
-cppindiaconsponsors: false
+cppindiaconsponsors: true
 ---
 
 |---|---|---|
