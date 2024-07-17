@@ -12,7 +12,7 @@ joinCppIndia: false
 cppindiaconsponsors: true
 ---
 <div style="text-align: center;">
-  <a href="https://www.think-cell.com/en" target="_blank">
+  <a href="https://www.think-cell.com/cppindiacon/dev" target="_blank">
     <img src="/conference/2024/sponsors/think-cell.png" alt="think-cell" title="think-cell">
   </a>
 </div>
