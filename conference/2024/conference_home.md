@@ -4,6 +4,7 @@ title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2024</center></h1><center
 permalink: /conference/2024/conference_home
 redirect_from:
     - /confhome
+    - /
 toc: false
 widget: false
 speakers: true
@@ -36,38 +37,6 @@ As one of the premier C++ conferences in the world, CppIndiaCon2024 is dedicated
 Mark your calendars and join us for a day of learning, networking, and inspiration at CppIndiaCon2024. We look forward to seeing you there!
 
 <!-- <div><script src=https://widget.konfhub.com/widget.js button_id="btn_67003620bcfc"></script></div> -->
-<div><script src="https://widget.konfhub.com/widget.js" button_id="btn_67003620bcfc"></script></div>
-<br>
-# [Call For Speakers](/conference/2024/call-for-speakers/)
-
-> Please submit your proposal by **June 15th, 2024  11:59 PM IST** to be considered for the conference.
-
-> [Submit your talk here.](/conference/2024/call-for-speakers/)
-
-We are now accepting proposals for CppIndiaCon 2024, which will be held on **August 23rd and 24th, 2024** as a virtual event.
-
-If you're an expert in C++ or a thought leader in the field, we want to hear from you! And even if not, but have an interesting application of C++ to share or a best practice or how C++ helped solve a tricky business problem or work around a technical constraint, we want to know about it!, we welcome you to **submit your proposal by June 15th, 2024 11:59 PM IST for consideration**. We believe that everyone has valuable knowledge and experiences to share and we encourage you to take this opportunity to showcase your expertise and thought leadership.
-
-## Submission Guidelines:
-
-- Presentations should be on the latest developments, trends or good practices in C++ programming language.
-- Presentations don't have to be limited to advanced topics; feel free to present on basic C++ concepts in your own creative style!
-- Presentations should be technical and in-depth, catering to C++ programmers of all experience levels.
-- Proposals should be written in English.
-- All proposals will be reviewed and selected based on their relevance, originality, and quality.
-
-## Perks of Speaking at CppIndiaCon2024:
-
-- Gain exposure to a global audience of C++ experts and professionals
-- Share your knowledge and insights with an engaged and dedicated community
-- Showcase your expertise and thought leadership in the field of C++
-- Network and connect with other experts in the field
-
-Don't miss this opportunity to be part of CppIndiaCon2024 and share your knowledge with a global audience. Submit your proposal today!
-
-If you have any questions or need further information, please reach out to us at [info@cppindia.co.in](mailto:info@cppindia.co.in). We look forward to receiving your submissions and seeing you at CppIndiaCon2024!
-
-> [Submit your talk here.](/conference/2024/call-for-speakers/)
 
 # [Registration](/conference/2024/CppIndiaCon-reg-form/)
 <div><script src="https://widget.konfhub.com/widget.js" button_id="btn_67003620bcfc"></script></div>
