@@ -61,6 +61,10 @@ sidebar:
         url: /conference/2024/schedule/
       - title: Speakers
         url: /conference/2024/speakers/speakers/
+      - title: Conference self-help
+        url: /conference/2024/tech-help
+      - title: Networking
+        url: /conference/2024/networking
   - title: CppIndiaCon 2024 Sponsors
     children:
       - title: MulticoreWare
@@ -69,6 +73,7 @@ sidebar:
         url: /conference/2024/sponsors/think_cell
       - title: Bloomberg LP
         url: /conference/2024/sponsors/bloomberg
+  
   - title: CppIndiaCon 2023
     url: /conference/2023/CppIndiaCon2023Video/
     children:
