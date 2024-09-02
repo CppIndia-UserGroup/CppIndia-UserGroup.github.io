@@ -4,7 +4,6 @@ title: <h1 style="font-size:2.5em"><center>CppIndiaCon 2024</center></h1><center
 permalink: /conference/2024/conference_home
 redirect_from:
     - /confhome
-    - /
 toc: false
 widget: false
 speakers: true
