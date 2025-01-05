@@ -3,7 +3,7 @@ toc: false
 layout: home
 title: <center>India's very own C++ Community</center>
 widget: false
-registerforCppIndiaCon: true
+registerforCppIndiaCon: false
 joinCppIndia: false
 speakers: true
 cppindiaconsponsors: true
@@ -23,7 +23,7 @@ Secure your spot at **CppIndiaCon 2024** - *The C++ festival of India*! <br>
 
 [//]: # (Date time format: YYYY-MM-DDTHH:MM:SS.000+05:30)
 
-<div id="event-timer" data-event-date="2024-05-11T11:00:00.000+05:30" data-event-duration="60">
+<div id="event-timer" data-event-date="2025-01-11T11:00:00.000+05:30" data-event-duration="60">
     <h2 id="event-heading">Next Event<br></h2>
     <p style="text-align: center;font-size: 1.5em;">
         <strong id="event-countdown-timer"></strong>
